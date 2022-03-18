@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.toml"
-hash = "2c900a2e3923ca5028110c8f1cfac7c20dc7a89f881ebbf1172329aa23d3e2cd"
+hash = "df08d2ec6a4a9b9a09fd6cebe321427660ac077b62f9ac5df5c2ced5c1a43708"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "fb4f1830648e3e405c066fcbb8b0a3c72be885e7e9e0a887f98b6255ae7357eb"
+hash = "25034c297122f78b80c46388cc6afe04ec443c29373646c9b0f2184cd4bf90b5"
 metafile = true
 
 [[files]]
