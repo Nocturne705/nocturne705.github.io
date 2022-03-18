@@ -11,8 +11,3 @@ hash = "379cb679871b11d03641eb1e1d2c449a7f246195"
 [update.curseforge]
 file-id = 3222131
 project-id = 251407
-
-[option]
-default = true
-description = "Provides some small client side tweaks"
-optional = true
