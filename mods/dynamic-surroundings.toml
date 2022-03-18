@@ -11,3 +11,8 @@ hash = "e36566f26398ac76847b912dcd165591170a088b"
 [update.curseforge]
 file-id = 3502320
 project-id = 238891
+
+[option]
+default = false
+description = "Creates new ambient sounds!"
+optional = true

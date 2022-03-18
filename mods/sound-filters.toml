@@ -11,3 +11,8 @@ hash = "efafa1532145a34b5c8965cc3e146d7a616f29b3"
 [update.curseforge]
 file-id = 3039955
 project-id = 222789
+
+[option]
+default = false
+description = "Muffles sounds in water, through stone, etc. A glitch makes CLEF instruments you play silent."
+optional = true
