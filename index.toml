@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "1771ee6311c039866a657ede4cd6bc4e7e7044095ba32283c7cfd704600e5e55"
+hash = "eed23062f684a3cbdd27997f5981bd3d01bd63c7a749832fe0c2b75cce2dcf11"
 metafile = true
 
 [[files]]
@@ -40,12 +40,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "17d57c2af22efc07ebb7f6ac52d1f6c2b7d2e5c1b74c0508cd5f03e9c8929cb5"
+hash = "73a5d71aa335a23ea68015042aa9b188b9d692745c51d5235ae55a675dc49391"
 metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "e84813de82f5f294ec0e4a573a5c0aaf5ed58488c048a0401578ee9a2a9ef831"
+hash = "a74e527dc209e8e1ed6367b0865657f6daacb9276da255b13b6786623f9d066a"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/bed-benefits.toml"
-hash = "258bd27444d778107ff9b8c50c3da7d33ffd7d8f5cda013509b2e2de03773de0"
+hash = "2e1e82a9d60f6d46ab40ec9c4d5e35eea6db24897270c1ef7815733f2220047e"
 metafile = true
 
 [[files]]
@@ -195,17 +195,17 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "3b5fff473fdfe3f434f9bc910e4808863b4bf98166ecea2debb3f6dfe626a94b"
+hash = "b54194562313e7704074a13bab3c22b21006f04536024f9e0cee58b34213c391"
 metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.toml"
-hash = "bfa6aff9b9d675c9251f9b57e2bd9a0e1fd9d49633027df2e4dc822fb3c6683a"
+hash = "faf32ada5877b02798121a36213f4ab8ba109a3fdba055cd915b3d7b33f9c1a4"
 metafile = true
 
 [[files]]
 file = "mods/comforts.toml"
-hash = "1c38f1091b427e61f4c2239a8a2214f56cd5b9f3ec5e7ba7d14b6e907265eb60"
+hash = "e2918449cf6aebc723f0f0199adb6947b3c9b348623601bb4dcbdf9af1cde086"
 metafile = true
 
 [[files]]
@@ -244,6 +244,11 @@ hash = "5343506f8c1acb3502f94ef336e6af0d21519f90f39405b0c2789f70c2ffd2c5"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.toml"
+hash = "cbce124d96e2e25cf7ef60ae4eb7be5132780d4385a4fdbec3e9206cdb306f51"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "642558edc16e2fcced6d71a3fd3a19211e65fe23bddb1ca2603a77e69bf6e464"
 metafile = true
@@ -260,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "5f389db3d5b0d2ad436a8382dc0417cacdd63b520fb53c0c244587f54be62450"
+hash = "484dd6b08f554d000624fca6c511f89f1089636ae2f3a678725dfba02aa90c32"
 metafile = true
 
 [[files]]
@@ -344,6 +349,11 @@ hash = "25aef47c85a18d1f4d5f72e559786a56ca5cca319a3b5ef905cc1fee3f98b0fc"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.toml"
+hash = "ba75de6ef5ba233c919fd9b8a513e6f0967cb1dd269ccf36b95005d6a16683c1"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.toml"
 hash = "ac71ec97234f80024ff58b2a759a49edc6450c63e96e7168a3e61abf35b1c79d"
 metafile = true
@@ -400,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/ichunutil.toml"
-hash = "c6713f2c76a6fee256df86655748111c2189ca2ce99d4b47c243fc886faf72ee"
+hash = "2c74089884a09c67f6c738c2722f12259c7ed7bfc9a7da63c324c723c7350e8c"
 metafile = true
 
 [[files]]
@@ -415,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-foregoing.toml"
-hash = "c63fd8121bebb8547a895c8fdb33455624fff812a538cefbbdb2b8e3422a906e"
+hash = "2a614eb8b72c47e10306592c9fa674fd389530593022a6d877c7db7299a6d983"
 metafile = true
 
 [[files]]
@@ -440,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "3f8803ed3daea9508f4617adc6435597f18df2d5ba8878951ebbbbdc841d9e61"
+hash = "d7a50ba442580b966c144b56eb1b7a571622c86209c0133a0e31421eafb76340"
 metafile = true
 
 [[files]]
@@ -475,32 +485,32 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "5c01e97abd00c051ad5d319607ce4eeab14d3e6ec265fde884a7296f520cc1fb"
+hash = "547b60c29ccee58b3df46035df3d4f854be800e7150c27fb4fbf9f2fc93eef93"
 metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.toml"
-hash = "454d78dbf7aa42fc591a319fa6986a2525cb6f6e422a97f10a681d314e8f7881"
+hash = "08b7829068958657f2bbf3ac5d147cfeccf9d24c201d27371a12f6f26b42ef29"
 metafile = true
 
 [[files]]
 file = "mods/macaws-doors.toml"
-hash = "65c1f24e18c6fe9f801ea7a898f98297e185fa5e8c8403e9c741396370ab97e4"
+hash = "a74ec126e9c903d043a9f1274244dacffcd12dfe6e267a4ae5804893d9bea211"
 metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.toml"
-hash = "1d415bc1f255ae2e1f11a6afb6041b658648ea3ac3a56686e5d4f3d144b04486"
+hash = "78a5e57bd83118ff01e9f80bafcc435cb268f7bd842b731e63cb69b878367a9a"
 metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.toml"
-hash = "cc6ae4e4abfe1f4531a2cfdcd5287768f6bbb67a0a2a1f316f79e44e1c36480d"
+hash = "1f48057abf997c6b8d9ad3040242992e59b9004d98bba8adb904c6d806beec81"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.toml"
-hash = "58da7a6605ef552c834461c27db480e426e4c11c4844a7ecb0b6110eead8a641"
+hash = "11fac82c184ff1da2c4260dd9de33b79608ad057e77c4b1ac359f124ad7a55ba"
 metafile = true
 
 [[files]]
@@ -510,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.toml"
-hash = "3c49066065056b38d1a099155db0853aa8e7ebb84265ce50f1ff85cafe458042"
+hash = "544cbba8346b836afd2ef559dde7ccc8ab856b8458ea75d84c92eddb800d2ad6"
 metafile = true
 
 [[files]]
@@ -590,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.toml"
-hash = "07c99248887a7e53a64cc8a76d9fcf846461372770b4ce51740426bee6870b62"
+hash = "b01fd4a265935d9aa2f1756369b5f12c386d1cbb236de5608b42b42b5b0c85aa"
 metafile = true
 
 [[files]]
@@ -660,27 +670,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.toml"
-hash = "330aa8bca7917d2daa3a37e8f39b5422c3886eec45ae0bc58f6f229dcb9ae3d1"
+hash = "c5814f26f36f02658620288af2a5cd6fcb90eb7392f553911a661e63d83e5af6"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.toml"
-hash = "ec77d6fa2fe51f042f2c5e94ab32cf48cd0767aa50607774e04219b02eaaeef8"
+hash = "69017e751bf472a0cd1848304fe928196118314a21cc4fed0d87e563ae7e762c"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.toml"
-hash = "ac8c27a31baa2d2e6ea0a632dfd84a2eabb805ed304512e968958b2ff49bab73"
+hash = "d6b92c8b3f8f24d3437b6edef75fd5e792b93afebbad03cffdc2bd527aaab70f"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.toml"
-hash = "17608461f90bc264ab12a0f43f135d6ddd981de8b402907ab91734d56d3cfece"
+hash = "6acefeed2966d345483dfa907feb2e62bf3c61336cf9cfed70888fe266d3c82d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.toml"
-hash = "741789cc81a89f39ff2ab84f2a70eebc7241fa9f18ab4969748ebf6524521d13"
+hash = "71d1579a9a93eea743690bd982228b2ad61b51a6b3b63bed25b81abb4dc5c139"
 metafile = true
 
 [[files]]
@@ -765,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "b55e2062964eec931aa2bcf9320b9fa9e4cd9708d94e9b67df6b7217d709b836"
+hash = "5432a13db5af669ead4f6eb6f093a892f3bb18ccfd3181af681a37f09f57e838"
 metafile = true
 
 [[files]]
@@ -780,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "f2f326b35ef8948712f183cde1ef20f4eba089432a20f89087c5447c302df2fc"
+hash = "eeea9c394075838e9b359657ec91499e0abf24b070a765b47f4e4fda07776a79"
 metafile = true
 
 [[files]]
@@ -806,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/strawgolem-reborn.toml"
 hash = "9f1b7742f230a4c4889e03079f6c018aa2001493cc2e24e2d617f8830858ce87"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.toml"
+hash = "9d6e8b1b91656c13e3eb0956f2934994cee33e3987c59a0c16666128366f9276"
 metafile = true
 
 [[files]]
@@ -835,12 +850,12 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.toml"
-hash = "044d74230f70d2b13dff848bb4c9e9e6ddf1cc3333c7588dd7e10edb79d9fd5a"
+hash = "351d364175ae59ede43c6260302d98786435ab4fc0c9d0185a44e9e9e980a168"
 metafile = true
 
 [[files]]
 file = "mods/titanium.toml"
-hash = "8e3ca6704d3e6267d8222d90b9993ed54e50b6282db4b9f43b13addc2babf022"
+hash = "6780553d552bc38ff424261dd0e37446651a524cf603366226a3139676ce5910"
 metafile = true
 
 [[files]]
@@ -916,6 +931,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.toml"
 hash = "e56a6953f4ab8c7139a260e59423df468be709ce95786b6845a9da4db0332040"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "a71e75017f912527c1bd43a3db12359d37a27b1976444c426ba4dc1432210cc4"
 metafile = true
 
 [[files]]

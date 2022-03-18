@@ -1,13 +1,13 @@
 name = "Project Red - Illumination"
-filename = "ProjectRed-1.16.5-4.12.0-beta-0-illumination.jar"
+filename = "ProjectRed-1.16.5-4.11.0-illumination.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3649/928/ProjectRed-1.16.5-4.12.0-beta-0-illumination.jar"
+url = "https://edge.forgecdn.net/files/3639/377/ProjectRed-1.16.5-4.11.0-illumination.jar"
 hash-format = "sha1"
-hash = "706234d3e8bd443fc566c02acf30ac04e4708dd8"
+hash = "3eca049579a67c73ada1b343184daf40f54b2c20"
 
 [update]
 [update.curseforge]
-file-id = 3649928
+file-id = 3639377
 project-id = 229046

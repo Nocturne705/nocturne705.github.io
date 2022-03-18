@@ -1,13 +1,13 @@
 name = "Bed Benefits"
-filename = "BedBenefits-1.16.5-5.0.4.jar"
+filename = "BedBenefits-1.16.5-5.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3348/569/BedBenefits-1.16.5-5.0.4.jar"
+url = "https://edge.forgecdn.net/files/3183/601/BedBenefits-1.16.5-5.0.3.jar"
 hash-format = "sha1"
-hash = "19aae3444d0e85da4cd3e1d4e1c305611333cd82"
+hash = "ccd51cca12c28523f533054a74b3cdf2cf2968b4"
 
 [update]
 [update.curseforge]
-file-id = 3348569
+file-id = 3183601
 project-id = 377051
