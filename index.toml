@@ -1,6 +1,526 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/affixes.cfg"
+hash = "77099ada4feb51efa60e44cd3227cfc5a21845cc60a4e1dcb6fd197f0f7e9eea"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "e131ece759d5cbf43b94b73e7648f65bcc76ed47ed3349dcd59ea7c13c90002f"
+
+[[files]]
+file = "config/apotheosis/deadly.cfg"
+hash = "1f07d96bf9b2971c3e0ce4b18d2355544d8d87520e1195c11511622b4c1e51cd"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "1d2d06365275fbab590e02d34558ed6636aba0009633ed2cde4f0abbc58e2ec6"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "c9409d258403b986d0669140d1a9101d9a72b6e36b7815eb88ab3b037a989747"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "dc692e32370ccf0a1546973a256a100d8da0f7644d5f06432b93942412472266"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "accf2a87ff2e8f282293649a771807ba560b2ed35404f182c3d922ed4a89fb0b"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "9042eb2934e284f98ced0fe336c3808fc6a9c54f2548af274fcb30d96a8158b1"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "37fcebfa7152247d2742c258e9de8fc788b43378119d2421fa9fc38173db309f"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "de5c917dc9ca84f28e6064baa898d15ca15d0511dcd47941d0c6e4d9287a4dc7"
+
+[[files]]
+file = "config/astralsorcery-common.toml"
+hash = "25df89c30f846c487f311bc70f8aa0d578419b36e195bc820bdd52ddf2978c58"
+
+[[files]]
+file = "config/betterweather/better-weather-client.toml"
+hash = "354b1421f87d9b9d6866dc706cf8888c171e2ab1b9c4f28b40e0d575ae2c9296"
+
+[[files]]
+file = "config/betterweather/better-weather.toml"
+hash = "48166425757d30bafe5c2258706bde8ecdd0855e83b8d782bab38c4b0ead9849"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/seasons/crop-favorite-biomes.json"
+hash = "8119b1316d69b17644ddea78dc52824a99aaa29549beab8ee70561116f34a50f"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/seasons/overrides/WINTER-END.json"
+hash = "46be51e956deb3902d328650cb28bade85fc4ba9dffb7a04b7adee628f72fa32"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/seasons/overrides/WINTER-MID.json"
+hash = "46be51e956deb3902d328650cb28bade85fc4ba9dffb7a04b7adee628f72fa32"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/seasons/overrides/WINTER-START.json"
+hash = "46be51e956deb3902d328650cb28bade85fc4ba9dffb7a04b7adee628f72fa32"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/seasons/season-settings.toml"
+hash = "d0bdddea47750d08620d72883417dd090a70250c4e9eb4c8f72228b3163a772e"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-acid_rain.toml"
+hash = "9f11db80b325260a7fa81d122c4af1ac143ccd91313411b24e562417a9c96de1"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-acid_rain_thundering.toml"
+hash = "0f38673eb6aa9e32fdb9ba75c2285f27d394c7ef45913eaf2bc9add2cfd4967c"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-blizzard.toml"
+hash = "f31eedea604b6efc1f23d80d18974127e630fdf3f43d7499e806bc917a326fb5"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-blizzard_thundering.toml"
+hash = "55da78ce486ddf81e4286461f2cc5ba55646bd18c466a6a3f0a10774eea46490"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-cloudy.toml"
+hash = "23e558bc031b1a04970dbf18445effc438827d5cf30e6e76ee9c4922cd358008"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-cloudy_thundering.toml"
+hash = "b22c7b8ddc2238381993dc54a0c23dd1d5d5c928cc717fa99934c925879b8bdb"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-none.toml"
+hash = "59f90848208d42cb0bf05088fb0a6de9a0748051a8c78b9c1c2234b66dfe450d"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-rain.toml"
+hash = "46de572d2a61f4b97ba574ad06ce54ce252ee3096df8d0e93f5fe87da13dac0f"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/events/betterweather-thundering.toml"
+hash = "e85c440dc07e42abcf8a7d59d7a35e654b5419dce131a2bfaa8ec30c5100dd06"
+
+[[files]]
+file = "config/betterweather/minecraft/overworld/weather/weather-settings.toml"
+hash = "8d7172007462160cedd5093668959d9c1a4560c539c8ae12ab81a288dc85b2e8"
+
+[[files]]
+file = "config/cavesandcliffs-common.toml"
+hash = "ae93a7eb61ea2f177b573f91f98dcc74ec477b2dddbfcb47141c9bf6d3332e26"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "12aafd30b5537300064acf5bbff65a7edd89ebb42a20ad5c83839d37b9f292f1"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "3deb3ba9788aa2fbbc588addaae6e95d4ff3191aa87fddb1b2b4f82f1b1f4bf4"
+
+[[files]]
+file = "config/createdeco-common.toml"
+hash = "8218d6c053f4ac108a171caf4ba7d1b4d2462b53a596328b250363c332bad32c"
+
+[[files]]
+file = "config/eidolon-common.toml"
+hash = "c8c4d16ab7d80b31e6178d2ed365594011631c639ead4bdd1111d7487046a3b0"
+
+[[files]]
+file = "config/enhancedcelestials/bloodmagic/dungeon/lunar/events/enhancedcelestials-blood_moon.json"
+hash = "68d26eac98a4f4b1ade6e80413b0a56bb2cb186156ec662b64180f4474989b04"
+
+[[files]]
+file = "config/enhancedcelestials/bloodmagic/dungeon/lunar/events/enhancedcelestials-blue_moon.json"
+hash = "98ad7bb01aaf987ca0f59fe087b5f6066e1e30672687f38347a7d97fa1da3703"
+
+[[files]]
+file = "config/enhancedcelestials/bloodmagic/dungeon/lunar/events/enhancedcelestials-harvest_moon.json"
+hash = "ae9bcdbd7a6af0ddc39d8502310a7173fb30581375e7542e7199ff86dda50351"
+
+[[files]]
+file = "config/enhancedcelestials/bloodmagic/dungeon/lunar/events/enhancedcelestials-super_blood_moon.json"
+hash = "7edda6d4155ee7c6be23394ab5b82061c7159f1a3298810aed006af3ea1477b8"
+
+[[files]]
+file = "config/enhancedcelestials/bloodmagic/dungeon/lunar/events/enhancedcelestials-super_blue_moon.json"
+hash = "fe201e8bb22a6b468ccd419486d8264d934af3bec6c6032ad45fc1b96059c11f"
+
+[[files]]
+file = "config/enhancedcelestials/bloodmagic/dungeon/lunar/events/enhancedcelestials-super_harvest_moon.json"
+hash = "9d960df06bdecc7e072697654827f819101e82e0854ad4550c607fe7a31b6ad1"
+
+[[files]]
+file = "config/enhancedcelestials/bloodmagic/dungeon/lunar/lunar-settings.json"
+hash = "624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37"
+
+[[files]]
+file = "config/enhancedcelestials/mahoutsukai/reality_marble/lunar/events/enhancedcelestials-blood_moon.json"
+hash = "68d26eac98a4f4b1ade6e80413b0a56bb2cb186156ec662b64180f4474989b04"
+
+[[files]]
+file = "config/enhancedcelestials/mahoutsukai/reality_marble/lunar/events/enhancedcelestials-blue_moon.json"
+hash = "98ad7bb01aaf987ca0f59fe087b5f6066e1e30672687f38347a7d97fa1da3703"
+
+[[files]]
+file = "config/enhancedcelestials/mahoutsukai/reality_marble/lunar/events/enhancedcelestials-harvest_moon.json"
+hash = "ae9bcdbd7a6af0ddc39d8502310a7173fb30581375e7542e7199ff86dda50351"
+
+[[files]]
+file = "config/enhancedcelestials/mahoutsukai/reality_marble/lunar/events/enhancedcelestials-super_blood_moon.json"
+hash = "7edda6d4155ee7c6be23394ab5b82061c7159f1a3298810aed006af3ea1477b8"
+
+[[files]]
+file = "config/enhancedcelestials/mahoutsukai/reality_marble/lunar/events/enhancedcelestials-super_blue_moon.json"
+hash = "fe201e8bb22a6b468ccd419486d8264d934af3bec6c6032ad45fc1b96059c11f"
+
+[[files]]
+file = "config/enhancedcelestials/mahoutsukai/reality_marble/lunar/events/enhancedcelestials-super_harvest_moon.json"
+hash = "9d960df06bdecc7e072697654827f819101e82e0854ad4550c607fe7a31b6ad1"
+
+[[files]]
+file = "config/enhancedcelestials/mahoutsukai/reality_marble/lunar/lunar-settings.json"
+hash = "624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37"
+
+[[files]]
+file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-blood_moon.json"
+hash = "68d26eac98a4f4b1ade6e80413b0a56bb2cb186156ec662b64180f4474989b04"
+
+[[files]]
+file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-blue_moon.json"
+hash = "98ad7bb01aaf987ca0f59fe087b5f6066e1e30672687f38347a7d97fa1da3703"
+
+[[files]]
+file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-harvest_moon.json"
+hash = "ae9bcdbd7a6af0ddc39d8502310a7173fb30581375e7542e7199ff86dda50351"
+
+[[files]]
+file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_blood_moon.json"
+hash = "7edda6d4155ee7c6be23394ab5b82061c7159f1a3298810aed006af3ea1477b8"
+
+[[files]]
+file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_blue_moon.json"
+hash = "fe201e8bb22a6b468ccd419486d8264d934af3bec6c6032ad45fc1b96059c11f"
+
+[[files]]
+file = "config/enhancedcelestials/minecraft/overworld/lunar/events/enhancedcelestials-super_harvest_moon.json"
+hash = "9d960df06bdecc7e072697654827f819101e82e0854ad4550c607fe7a31b6ad1"
+
+[[files]]
+file = "config/enhancedcelestials/minecraft/overworld/lunar/lunar-settings.json"
+hash = "624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube/secret_base/lunar/events/enhancedcelestials-blood_moon.json"
+hash = "68d26eac98a4f4b1ade6e80413b0a56bb2cb186156ec662b64180f4474989b04"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube/secret_base/lunar/events/enhancedcelestials-blue_moon.json"
+hash = "98ad7bb01aaf987ca0f59fe087b5f6066e1e30672687f38347a7d97fa1da3703"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube/secret_base/lunar/events/enhancedcelestials-harvest_moon.json"
+hash = "ae9bcdbd7a6af0ddc39d8502310a7173fb30581375e7542e7199ff86dda50351"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube/secret_base/lunar/events/enhancedcelestials-super_blood_moon.json"
+hash = "7edda6d4155ee7c6be23394ab5b82061c7159f1a3298810aed006af3ea1477b8"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube/secret_base/lunar/events/enhancedcelestials-super_blue_moon.json"
+hash = "fe201e8bb22a6b468ccd419486d8264d934af3bec6c6032ad45fc1b96059c11f"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube/secret_base/lunar/events/enhancedcelestials-super_harvest_moon.json"
+hash = "9d960df06bdecc7e072697654827f819101e82e0854ad4550c607fe7a31b6ad1"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube/secret_base/lunar/lunar-settings.json"
+hash = "624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube_world/overworld/lunar/events/enhancedcelestials-blood_moon.json"
+hash = "68d26eac98a4f4b1ade6e80413b0a56bb2cb186156ec662b64180f4474989b04"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube_world/overworld/lunar/events/enhancedcelestials-blue_moon.json"
+hash = "98ad7bb01aaf987ca0f59fe087b5f6066e1e30672687f38347a7d97fa1da3703"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube_world/overworld/lunar/events/enhancedcelestials-harvest_moon.json"
+hash = "ae9bcdbd7a6af0ddc39d8502310a7173fb30581375e7542e7199ff86dda50351"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube_world/overworld/lunar/events/enhancedcelestials-super_blood_moon.json"
+hash = "7edda6d4155ee7c6be23394ab5b82061c7159f1a3298810aed006af3ea1477b8"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube_world/overworld/lunar/events/enhancedcelestials-super_blue_moon.json"
+hash = "fe201e8bb22a6b468ccd419486d8264d934af3bec6c6032ad45fc1b96059c11f"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube_world/overworld/lunar/events/enhancedcelestials-super_harvest_moon.json"
+hash = "9d960df06bdecc7e072697654827f819101e82e0854ad4550c607fe7a31b6ad1"
+
+[[files]]
+file = "config/enhancedcelestials/pokecube_world/overworld/lunar/lunar-settings.json"
+hash = "624152f35bf530bf324aaad516ef71d2bcc0d709a3aecf968e2482841dfd8b37"
+
+[[files]]
+file = "config/guardvillagers-common.toml"
+hash = "32e53de5113e40b811ad1621375754ca5fb716d65564c3ef9500970971d6efa8"
+
+[[files]]
+file = "config/iceandfire-common.toml"
+hash = "f2fc8343a332300aa4d1695b872b68a20c79ad3f706d3185841d1acedaf4d137"
+
+[[files]]
+file = "config/iceandfire/amethyst_gen_biomes.json"
+hash = "e83efaf83e875caca0a3a32b83c5efc0425f7eacf49e5043d0b13086edaf30cf"
+
+[[files]]
+file = "config/iceandfire/amphithere_biomes.json"
+hash = "2ca3e3330952fcbd0f3e80ac95b42ce6a2c045afb728f8331e940f2702e9e543"
+
+[[files]]
+file = "config/iceandfire/cockatrice_biomes.json"
+hash = "e83efaf83e875caca0a3a32b83c5efc0425f7eacf49e5043d0b13086edaf30cf"
+
+[[files]]
+file = "config/iceandfire/cyclops_cave_biomes.json"
+hash = "aeefe20444026d8e7cba5a1483b4f30964c11029d0defdd66c9b3f4a42d78bf3"
+
+[[files]]
+file = "config/iceandfire/deathworm_biomes.json"
+hash = "4865168c1f84366984071fd3142c5ab62150c9ab7775c69f6ed326b0c375c4ed"
+
+[[files]]
+file = "config/iceandfire/desert_myrmex_biomes.json"
+hash = "4865168c1f84366984071fd3142c5ab62150c9ab7775c69f6ed326b0c375c4ed"
+
+[[files]]
+file = "config/iceandfire/fire_dragon_biomes.json"
+hash = "d0ffd37598f13baa8ecc7de5bdc207212631dca2295042e413a68e7c9b5ac3bd"
+
+[[files]]
+file = "config/iceandfire/fire_dragon_skeleton_biomes.json"
+hash = "4865168c1f84366984071fd3142c5ab62150c9ab7775c69f6ed326b0c375c4ed"
+
+[[files]]
+file = "config/iceandfire/fire_lily_biomes.json"
+hash = "054d21203b54772b4f6f94383e893ec3910156a0fb162d695e12049d652c80ef"
+
+[[files]]
+file = "config/iceandfire/forest_troll_biomes.json"
+hash = "9aa5596e91ddd6b0b5151a57d132b50e11f1a12dea338ead115968c8c156d6c6"
+
+[[files]]
+file = "config/iceandfire/gorgon_temple_biomes.json"
+hash = "aeefe20444026d8e7cba5a1483b4f30964c11029d0defdd66c9b3f4a42d78bf3"
+
+[[files]]
+file = "config/iceandfire/graveyard_biomes.json"
+hash = "ea1aeb9ecc3a9fa4560ad418f4f9e6c4ffc8e8b3768fbea70476e692c2e4a1ea"
+
+[[files]]
+file = "config/iceandfire/hippocampus_biomes.json"
+hash = "fa6bf11024acd750010566e220fc8e49b8337d350cc360137685db870de241cf"
+
+[[files]]
+file = "config/iceandfire/hippogryph_biomes.json"
+hash = "75452f8b2d29a590736b19d1e4d053548b7ff144027c2df45a7e02b33b89f25b"
+
+[[files]]
+file = "config/iceandfire/hippogryph_black_biomes.json"
+hash = "5b541334aa446efde371ca24709a3a159ec6311d02ddc40290ff7f2e05b7327b"
+
+[[files]]
+file = "config/iceandfire/hippogryph_brown_biomes.json"
+hash = "b3dfaaf43839700c98e60de1f339ac56b1413230a780d33527fa0f20501ad1b9"
+
+[[files]]
+file = "config/iceandfire/hippogryph_chestnut_biomes.json"
+hash = "adbb06967a8337cdc08846fc99a5ae5a60596f6588d028ddfd4e3a55b9f4007b"
+
+[[files]]
+file = "config/iceandfire/hippogryph_creamy_biomes.json"
+hash = "67419607b0f841b763251da639ae9762264e97e9838a54b2f8ec9d2a4af78059"
+
+[[files]]
+file = "config/iceandfire/hippogryph_dark_brown_biomes.json"
+hash = "c27e9a26dd26320a8b729955bb3463cb354250f357f65139196074ecb1826dd1"
+
+[[files]]
+file = "config/iceandfire/hippogryph_gray_biomes.json"
+hash = "c75b0edefd6389953838cf680a74d17f71da62869f34daa87a834553ff839050"
+
+[[files]]
+file = "config/iceandfire/hippogryph_white_biomes.json"
+hash = "ecc357bfe3fad5d4ff82d14bf01c56afcf714d735a7f791587a1e6ca76f676e8"
+
+[[files]]
+file = "config/iceandfire/hydra_cave_biomes.json"
+hash = "ca153fb07fe65c604e639319c9f375273227098ba8b6bfaa77dc2fddab934746"
+
+[[files]]
+file = "config/iceandfire/ice_dragon_biomes.json"
+hash = "c233d6a339761141f208950b6189a5c237a5927a3e75215cefe19f405465e3db"
+
+[[files]]
+file = "config/iceandfire/ice_dragon_skeleton_biomes.json"
+hash = "80af83d27354365543280f762e0601f181442ebae6a82f3026d301e2bb129092"
+
+[[files]]
+file = "config/iceandfire/ice_lily_biomes.json"
+hash = "80af83d27354365543280f762e0601f181442ebae6a82f3026d301e2bb129092"
+
+[[files]]
+file = "config/iceandfire/jungle_myrmex_biomes.json"
+hash = "2ca3e3330952fcbd0f3e80ac95b42ce6a2c045afb728f8331e940f2702e9e543"
+
+[[files]]
+file = "config/iceandfire/lightning_dragon_biomes.json"
+hash = "740867859b549a9706d82b4ec787cf2a157df6c3b908f770457903a229e4e578"
+
+[[files]]
+file = "config/iceandfire/lightning_dragon_skeleton_biomes.json"
+hash = "e83efaf83e875caca0a3a32b83c5efc0425f7eacf49e5043d0b13086edaf30cf"
+
+[[files]]
+file = "config/iceandfire/lightning_lily_biomes.json"
+hash = "e83efaf83e875caca0a3a32b83c5efc0425f7eacf49e5043d0b13086edaf30cf"
+
+[[files]]
+file = "config/iceandfire/mausoleum_biomes.json"
+hash = "80af83d27354365543280f762e0601f181442ebae6a82f3026d301e2bb129092"
+
+[[files]]
+file = "config/iceandfire/mountain_troll_biomes.json"
+hash = "b3dfaaf43839700c98e60de1f339ac56b1413230a780d33527fa0f20501ad1b9"
+
+[[files]]
+file = "config/iceandfire/ore_gen_biomes.json"
+hash = "0dab93cc1194b2b3cc7776d2920ad5d01b5dfcefd01f618aea3a0aba57e9d353"
+
+[[files]]
+file = "config/iceandfire/pixie_village_biomes.json"
+hash = "0412a1d2f4f0b7bcf88816a032a367dea5f99d2fe2296a989751e5d773d400f6"
+
+[[files]]
+file = "config/iceandfire/sapphire_gen_biomes.json"
+hash = "80af83d27354365543280f762e0601f181442ebae6a82f3026d301e2bb129092"
+
+[[files]]
+file = "config/iceandfire/sea_serpent_biomes.json"
+hash = "fa6bf11024acd750010566e220fc8e49b8337d350cc360137685db870de241cf"
+
+[[files]]
+file = "config/iceandfire/siren_biomes.json"
+hash = "fa6bf11024acd750010566e220fc8e49b8337d350cc360137685db870de241cf"
+
+[[files]]
+file = "config/iceandfire/snowy_troll_biomes.json"
+hash = "7f678682773c0f70c887902faa8f2fc0624741e839f15e48e233e594595fa4db"
+
+[[files]]
+file = "config/iceandfire/stymphalian_bird_biomes.json"
+hash = "ca153fb07fe65c604e639319c9f375273227098ba8b6bfaa77dc2fddab934746"
+
+[[files]]
+file = "config/iceandfire/wandering_cyclops_biomes.json"
+hash = "a8bab4c7dee78303dd3ed37ac5ae64e08ffc3b6d12865f6585e11f3fc28a44c0"
+
+[[files]]
+file = "config/mutantbeasts-common.toml"
+hash = "c95ffefb1e09ab2a604901bc62289e3d1af97e87813f1c3cccf353fba0a1b5c5"
+
+[[files]]
+file = "config/occultism-common.toml"
+hash = "e2dfcc408e0dd025658410ce76ea6a87683d0d26d4fbad856c9c3c25d3467ce5"
+
+[[files]]
+file = "config/pokecube-server.toml"
+hash = "df903cc44c94842abd13f493eb1b1a23122140483027f36d9ea56662d8b6abd0"
+
+[[files]]
+file = "config/pokecube/pokecube-client.toml"
+hash = "5f5c2480280205ec4ff7d9710ed0e005194931a3e71d079d4e2d2d206a7b5b58"
+
+[[files]]
+file = "config/pokecube/pokecube-common-1.toml.bak"
+hash = "2259b690ed3a8849bf7481b9fac079a75678ce20a4872b29ee0d4d1136239801"
+
+[[files]]
+file = "config/pokecube/pokecube-common-2.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/pokecube/pokecube-common-3.toml.bak"
+hash = "9c1de75d24bca39c418a51cd3014a8c7b3a3003f3b5bbb0ca72404ccb252bc98"
+
+[[files]]
+file = "config/pokecube/pokecube-common-4.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/pokecube/pokecube-common-5.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/pokecube/pokecube-common.toml"
+hash = "7c0b61a967ca11e45eec77d929a79c89203c70e5fe943c1cca84829cb9f8df62"
+
+[[files]]
+file = "config/pokecube/pokecube_adventures-client.toml"
+hash = "988cb983349341c4d2547be6e10f5251066b00eacd19b0ca40964b17b9b46c48"
+
+[[files]]
+file = "config/pokecube/pokecube_adventures-common-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/pokecube/pokecube_adventures-common.toml"
+hash = "1d91cb615b2e9520d05a87827af6cf38ab9302cf7232df2196f088ece27c7c0c"
+
+[[files]]
+file = "config/pokecube/pokecube_legends-common-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/pokecube/pokecube_legends-common.toml"
+hash = "62919fdafeed93cbdf2289aff6ec0b37961e8b2117cb72745e3bef88b23d2443"
+
+[[files]]
+file = "config/pokecube_adventures-server.toml"
+hash = "69bae09cc9b58bc461cd168cad5d4f04e22eafef7af25e2523081c4cb15dbb09"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "78c2a29b3562d9f4494f6d27317591fd32e7b45fe9ff5e1967820012a4fa9d34"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "026c6bb999f79e5fb58da764a184c84dff05716d8308e1ab9963e9f01ff2a16d"
+
+[[files]]
+file = "config/towers_of_the_wild-common.toml"
+hash = "fe007871ec81b233f847a4fa8486f83429661564a0f1996574e9b41d8d42e075"
+
+[[files]]
+file = "config/vampirism-common.toml"
+hash = "eab1b58cbd73224ca9f9eed465df0dee89bacdccd27f269cbe58284a4420def8"
+
+[[files]]
+file = "config/waystones-server.toml"
+hash = "1ad7cc4fd8ce02f1e51ae499c86171017904135a1b2b7a00e8044def9a31376c"
+
+[[files]]
 file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
@@ -314,6 +834,11 @@ hash = "46e3274bd7b7f0db81e055c0507de55fa7eb839181543ddda90794d13da02e1c"
 metafile = true
 
 [[files]]
+file = "mods/ender-storage-1-8.toml"
+hash = "fc923a5dabb9f1a81906998e49d68ccde907c54267c7acf2475d0bc2b4dcfa19"
+metafile = true
+
+[[files]]
 file = "mods/endergetic.toml"
 hash = "4844de35d76b0a19047d3e04acb69ccf2851bf9d4795308c5c8e1852601969de"
 metafile = true
@@ -529,9 +1054,8 @@ hash = "5f8aeba140167da1f80bde0713541615ad1a60fb96972d11ff8a7ff27ef8a681"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "76e1badd509bd05e1219ff107f308ab8cda18533755aea76e10d8a5dc5e9fadd"
-metafile = true
+file = "mods/minecraft-comes-alive-7.0.8-forge.jar"
+hash = "bab24c2e4a56c89cb8e552c93599b1457146b5f97d592821ac2d79f4a5245170"
 
 [[files]]
 file = "mods/morpheus.toml"
