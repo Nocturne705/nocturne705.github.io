@@ -1,0 +1,13 @@
+name = "MrCrayfish's Gun Mod"
+filename = "cgm-1.1.0-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/336/cgm-1.1.0-1.16.5.jar"
+hash-format = "sha1"
+hash = "113d1ec6fcd737ec1db3a13cd9d4816443567e85"
+
+[update]
+[update.curseforge]
+file-id = 3553336
+project-id = 289479

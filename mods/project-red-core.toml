@@ -1,0 +1,13 @@
+name = "Project Red - Core"
+filename = "ProjectRed-1.16.5-4.12.0-beta-0-core.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3649/926/ProjectRed-1.16.5-4.12.0-beta-0-core.jar"
+hash-format = "sha1"
+hash = "9a7990c45256078ee6e22df758f349fdfbf062f2"
+
+[update]
+[update.curseforge]
+file-id = 3649926
+project-id = 228702

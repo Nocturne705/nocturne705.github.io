@@ -1,0 +1,13 @@
+name = "Sophisticated Backpacks"
+filename = "sophisticatedbackpacks-1.16.5-3.15.12.552.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3693/288/sophisticatedbackpacks-1.16.5-3.15.12.552.jar"
+hash-format = "sha1"
+hash = "49d99d70d604fd5e14853b27ddca1fbda08ec71c"
+
+[update]
+[update.curseforge]
+file-id = 3693288
+project-id = 422301

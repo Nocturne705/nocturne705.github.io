@@ -1,0 +1,13 @@
+name = "Lootr"
+filename = "lootr-1.16.5-0.1.11.38.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3647/877/lootr-1.16.5-0.1.11.38.jar"
+hash-format = "sha1"
+hash = "0e330c46cbaf633824e47d94ae5b8db5c866eaad"
+
+[update]
+[update.curseforge]
+file-id = 3647877
+project-id = 361276

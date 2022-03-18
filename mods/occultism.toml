@@ -1,0 +1,13 @@
+name = "Occultism"
+filename = "occultism-1.16.5-1.26.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3657/417/occultism-1.16.5-1.26.6.jar"
+hash-format = "sha1"
+hash = "0a9da40c9939996e15d32cb722162c6dab63f3b6"
+
+[update]
+[update.curseforge]
+file-id = 3657417
+project-id = 361026

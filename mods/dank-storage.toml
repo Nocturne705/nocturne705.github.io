@@ -1,0 +1,13 @@
+name = "Dank Storage"
+filename = "dankstorage-1.16.5-3.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3656/546/dankstorage-1.16.5-3.20.jar"
+hash-format = "sha1"
+hash = "964c4fe408e97c1c940cd2f7cebad20ba29b50ff"
+
+[update]
+[update.curseforge]
+file-id = 3656546
+project-id = 335673

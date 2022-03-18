@@ -1,0 +1,13 @@
+name = "Just Enough Beacons"
+filename = "justenoughbeacons-3.1-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3098/120/justenoughbeacons-3.1-1.16.3.jar"
+hash-format = "sha1"
+hash = "b3b196d563169a0bb80aec5d20422f3f29bae62a"
+
+[update]
+[update.curseforge]
+file-id = 3098120
+project-id = 352622

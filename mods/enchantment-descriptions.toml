@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-1.16.5-7.0.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3566/132/EnchantmentDescriptions-1.16.5-7.0.18.jar"
+hash-format = "sha1"
+hash = "39ff9f98f79809aa48dc9a1b5c3d5ded006ca5c6"
+
+[update]
+[update.curseforge]
+file-id = 3566132
+project-id = 250419

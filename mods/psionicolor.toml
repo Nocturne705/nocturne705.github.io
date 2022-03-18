@@ -1,0 +1,13 @@
+name = "Psionicolor"
+filename = "psionicolor-1.16.5-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3536/450/psionicolor-1.16.5-1.0.1.jar"
+hash-format = "sha1"
+hash = "a649fa905112bd50bb4f5ccc07d7f3c5ff229122"
+
+[update]
+[update.curseforge]
+file-id = 3536450
+project-id = 515334

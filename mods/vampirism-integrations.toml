@@ -1,0 +1,13 @@
+name = "Vampirism Integrations"
+filename = "VampirismIntegrations-1.16.5-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3539/532/VampirismIntegrations-1.16.5-1.6.1.jar"
+hash-format = "sha1"
+hash = "fff6d5e15201ecc3db989a98631df7c6b47670c2"
+
+[update]
+[update.curseforge]
+file-id = 3539532
+project-id = 282433

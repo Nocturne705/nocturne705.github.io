@@ -1,0 +1,13 @@
+name = "DNDBois Pokemon"
+author = "Nocturne705"
+version = "1.3"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "750ed8e2b378ff030f63a0d6727a963c75e91da95fa1d4d1c9e62a0c45a069dc"
+
+[versions]
+forge = "36.2.30"
+minecraft = "1.16.5"
