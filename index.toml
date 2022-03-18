@@ -9,11 +9,6 @@ file = "mods/OptiFine_1.16.5_HD_U_G8 (1).jar"
 hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
 
 [[files]]
-file = "mods/abnormals-delight.toml"
-hash = "6edd18b9076e18e91f8fbcc3fb118494095c96bc6990963791b8eaf40aa8c109"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.toml"
 hash = "e4f642ba4a084ee881fe88e2dff4da8882daf271f38edbe71a85456d18d0e4e6"
 metafile = true
@@ -105,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.toml"
-hash = "b2ef4cb6eb6b1923476ddd3f3d559938fa3454c1d09d91a0c6ac97f01c3504c2"
+hash = "8a7baaf77ca2ec13ee1a6bb4215c63c3ee8552d1ecacde3fb2fcaef1dd92a4a4"
 metafile = true
 
 [[files]]
 file = "mods/better-title-screen.toml"
-hash = "fe6123bdcbe82eedb4690bd63e0b779c81f6140c7a3f00204ce5aa96f3fadbd0"
+hash = "fb0a60146fb72eab8cee3afa7c704df5b5f9e7b7f586022be2f9e13fea0e373f"
 metafile = true
 
 [[files]]
@@ -120,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "32a02a7f029afdbc243e3fb5c66fc2a5dae6299a98b2ec1959dd17438e8d9ae3"
+hash = "48c02c8332b3218db6276903eb93f4923a097846d1f7f041399face5f7135465"
 metafile = true
 
 [[files]]
@@ -160,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.toml"
-hash = "ae3fcfbb5b25fb8be6c2db5a9ec20c71114ea273652abb0ab0f0797d8599a79b"
+hash = "aad02f0de3da78f42ddd57de62dce0b8a930c11feea6d9a5a57eefcc004e8755"
 metafile = true
 
 [[files]]
@@ -190,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.toml"
-hash = "aebc31d2697046682ca2bde51fc4c2f3d4cd0f65657d0fcfd3edb4543e7d594c"
+hash = "2c900a2e3923ca5028110c8f1cfac7c20dc7a89f881ebbf1172329aa23d3e2cd"
 metafile = true
 
 [[files]]
@@ -215,12 +210,12 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "1cafb358ea8a10bf8947b46f101117b4fa04af9d946296d7d90453818df2776d"
+hash = "1367ffcfd17f6973e95703b5520a83b154128974037d73d31200348d0601bdc5"
 metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "55c39db77fbd539d4254a8e05016704bedfcd9a1f58694292d25a260c41b761d"
+hash = "43e95783bfdae9afb5d96eed3877e0743595be36ed0502d3df73d454e345ed95"
 metafile = true
 
 [[files]]
@@ -360,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.toml"
-hash = "2b9829bd888cb8248f1324666ed5f9575cf362a0bf63d9197edb50b07502ff8b"
+hash = "41c53699b004868a9a98764306d90d5c33cbb76840a1807663e601065ec609ba"
 metafile = true
 
 [[files]]
@@ -395,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/hwyla.toml"
-hash = "701ea40dd6fe3a6033215f2c11b7b3fe6c25b53e941f305465b06409bffeb68e"
+hash = "e650127976e8cddb6cdc806ee1bb8c390e2ae021022d069ea7ea1913acc9cbec"
 metafile = true
 
 [[files]]
@@ -450,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "d21976104055d85a146cb4034d4957db6c3a273ca9348437230bb610b6622b7d"
+hash = "fb4f1830648e3e405c066fcbb8b0a3c72be885e7e9e0a887f98b6255ae7357eb"
 metafile = true
 
 [[files]]
@@ -725,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.toml"
-hash = "2db464be36913bd0d8e130836d95fa532f2f199c6d1b9bf8087d3c5857c0dc68"
+hash = "949e0f138d030c97b5f0ed47d4ed39ce3ce2abf10dc267bdf6620fd8917113d6"
 metafile = true
 
 [[files]]
