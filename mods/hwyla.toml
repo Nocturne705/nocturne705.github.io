@@ -11,3 +11,8 @@ hash = "79123ef4c447affe57e77ee241d78c494bd8948d"
 [update.curseforge]
 file-id = 3033593
 project-id = 253449
+
+[option]
+default = true
+description = "Displays the block you are currently looking at at the top of your screen."
+optional = true

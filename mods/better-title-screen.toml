@@ -11,3 +11,8 @@ hash = "aecf62d254395e4068b6537e0563291f8e1a7e67"
 [update.curseforge]
 file-id = 3111817
 project-id = 224223
+
+[option]
+default = true
+description = "Better title screen, it's on the tin."
+optional = true

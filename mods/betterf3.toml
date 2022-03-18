@@ -11,3 +11,8 @@ hash = "640b3d08dbe56e0591f7600a1c15fb8da85158b4"
 [update.curseforge]
 file-id = 3293637
 project-id = 401648
+
+[option]
+default = true
+description = "Provides better technical info when F3 is pressed."
+optional = true

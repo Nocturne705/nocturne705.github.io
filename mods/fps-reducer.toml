@@ -11,3 +11,8 @@ hash = "46b54c1dc54a560593d938cd73cee5c28e8465f6"
 [update.curseforge]
 file-id = 3510435
 project-id = 280294
+
+[option]
+default = true
+description = "Even more FPS improvements."
+optional = true

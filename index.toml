@@ -9,6 +9,11 @@ file = "mods/OptiFine_1.16.5_HD_U_G8 (1).jar"
 hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
 
 [[files]]
+file = "mods/abnormals-delight.toml"
+hash = "6edd18b9076e18e91f8fbcc3fb118494095c96bc6990963791b8eaf40aa8c109"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.toml"
 hash = "e4f642ba4a084ee881fe88e2dff4da8882daf271f38edbe71a85456d18d0e4e6"
 metafile = true
@@ -646,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.toml"
 hash = "75c41f159a64f3417509268c8a2553e497091f1b5a035494c22430b8149d016d"
+metafile = true
+
+[[files]]
+file = "mods/pokecube-aoi.toml"
+hash = "c84a4c7cff974956a46325aa95c0c37cf59c4bb31204a1495aece29f80611be5"
 metafile = true
 
 [[files]]

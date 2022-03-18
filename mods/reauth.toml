@@ -11,3 +11,8 @@ hash = "5c741470040e48c0459c92494bb4560b42f7e80b"
 [update.curseforge]
 file-id = 3680041
 project-id = 237701
+
+[option]
+default = true
+description = "Allows you to re-sign in in-game without needing to reboot your entire launcher."
+optional = true
