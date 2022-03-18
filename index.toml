@@ -277,6 +277,10 @@ file = "config/guardvillagers-common.toml"
 hash = "32e53de5113e40b811ad1621375754ca5fb716d65564c3ef9500970971d6efa8"
 
 [[files]]
+file = "config/iceandfire-client.toml"
+hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
+
+[[files]]
 file = "config/iceandfire-common.toml"
 hash = "f2fc8343a332300aa4d1695b872b68a20c79ad3f706d3185841d1acedaf4d137"
 
