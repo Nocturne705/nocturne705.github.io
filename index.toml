@@ -90,11 +90,6 @@ hash = "553cc784aa78f2f8b21f22d5ad224c007889022e903b5e279573250de5b88622"
 metafile = true
 
 [[files]]
-file = "mods/bucolic-origins.pw.toml"
-hash = "7a9bc3417b7c4e693c6f370fc9f2af8ac52ade34674404b874fb1fb25e4a97f8"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
