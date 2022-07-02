@@ -126,6 +126,11 @@ hash = "a70e4ddd5c87ddbe165240033ed17b455df0f19de6040c8008b12c2cd54c1118"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "979d6d241c432cf5240d5658d25894a269c551de0bc36cd36d877400707049fb"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "9a442553e99285304a2005b1d823daf36146778c5133500c3f1c4e7db3c509d6"
 metafile = true
