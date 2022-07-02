@@ -240,11 +240,6 @@ hash = "7b16d0ab90cba2c8d6e2ec3bce2e31104fa501c3b5d0ffca62ac458461fd9e3f"
 metafile = true
 
 [[files]]
-file = "mods/flux-networks.pw.toml"
-hash = "0610698407812016eed4958139bd0650288d25b759cd26451ac3fa3754447627"
-metafile = true
-
-[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "732b6147e336664e49728f5a3a2e1910014dfc658d9a5d5565a100197d511d07"
 metafile = true
