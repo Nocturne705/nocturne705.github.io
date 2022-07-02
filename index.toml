@@ -141,6 +141,11 @@ hash = "9a442553e99285304a2005b1d823daf36146778c5133500c3f1c4e7db3c509d6"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "ff6c22b1d1189450c8e57aab9e76ad5f8231df2015eb6d0101da1108576dbf9b"
+metafile = true
+
+[[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "402fd149fdd928ad9861366c7ba94fc7fb7d2442bcf3df7d8187b5ca966feb2c"
 metafile = true
@@ -339,12 +344,27 @@ hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "0ada24c8163c7eb9c4d8d168db62d2e4825f5bb973232b06f57cf080b27d7240"
+metafile = true
+
+[[files]]
 file = "mods/hexerei-0.1.16.jar"
 hash = "1152ffc98e44274bcbc7fcde485d7331cf9bd527105cdb55327fbc506c2f6db2"
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "f18f94fdb0b83bd998ef26913b5f6d179885ea14f9be92c42c48c9a848626f48"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "244118b72297468cb2ba9224c18839ed24295656e8b3a3f5522ee49629ce4400"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "f73f207a0448d8d0800562c66d9feb5e2fbf3d6fb61c7a539630df9096fe77e5"
 metafile = true
 
 [[files]]
@@ -570,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "527da2a3eb425b1fd83c30934d396f7d8e00f7f473fd6f85cd109253330c72dd"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "3fc7af77aacce912b21da8be30cc219aab776a607c397b4a2d7b594c7a749ed0"
 metafile = true
 
 [[files]]
