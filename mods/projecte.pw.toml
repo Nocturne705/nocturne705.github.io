@@ -1,0 +1,13 @@
+name = "ProjectE"
+filename = "ProjectE-1.18.1-PE1.0.0-UNSUPPORTED.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bd9f943b9864e3c919fe99b11ec04253f423a04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3722810
+project-id = 226410

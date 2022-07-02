@@ -1,0 +1,13 @@
+name = "Building Gadgets"
+filename = "buildinggadgets-3.12.0-build.4+mc1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e07c2e88d0f95eac816d7951e9fe82b2cbf5abc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3624902
+project-id = 298187
