@@ -1,0 +1,13 @@
+name = "Mo's Grounded Origins [FORGE]"
+filename = "grounded_origins-forge-1.18.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29a5dbe68ca47faf617844a7a6025710e74ae520"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3742331
+project-id = 570138

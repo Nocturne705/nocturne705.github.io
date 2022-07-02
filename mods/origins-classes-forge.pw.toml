@@ -1,0 +1,13 @@
+name = "Origins: Classes (Forge)"
+filename = "origins-classes-forge-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df6daa10f4fe168e26abdddf5652a8f709d68a3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3765940
+project-id = 610127

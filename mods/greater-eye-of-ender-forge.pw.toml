@@ -1,0 +1,13 @@
+name = "Greater Eye of Ender [FORGE]"
+filename = "GreaterEye-Forge-1.18.1-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d345b5c5a20e17c287df7cf8641234fca94b4efd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3641128
+project-id = 374520

@@ -1,0 +1,13 @@
+name = "Display Case"
+filename = "DisplayCase-1.18-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bf71b182a4553e285823a9263eaf7267641d7ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3558468
+project-id = 517791

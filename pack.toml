@@ -1,0 +1,13 @@
+name = "WHOSMP"
+author = "Nocturne705"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7f9f0d1a160e176e76ca6659d1b97cf1a75914b2409f75ecd413df7fb5cf5aea"
+
+[versions]
+forge = "39.1.2"
+minecraft = "1.18.1"

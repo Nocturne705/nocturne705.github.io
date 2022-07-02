@@ -1,0 +1,13 @@
+name = "Useful Hats"
+filename = "usefulhats-1.18.1-2.0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5028cf475ab32a67132780eb74e917c800dd14ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3579396
+project-id = 347337

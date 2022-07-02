@@ -1,0 +1,13 @@
+name = "Babel"
+filename = "Babel-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d215b768f58b67257c18b3a75f23f492d8590d47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3595976
+project-id = 436964

@@ -1,0 +1,13 @@
+name = "Amplified Nether"
+filename = "Amplified Nether 1.0.1 ~ Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79c5368590d363589cda78048376f83bcc61ddd0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3550750
+project-id = 552176

@@ -1,0 +1,13 @@
+name = "Dragonborn"
+filename = "OriginsDragonborn-1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "850ec13f35e5576d39a7d979f4db973bd6d498b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3711795
+project-id = 537008

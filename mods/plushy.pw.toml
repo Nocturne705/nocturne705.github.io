@@ -1,0 +1,13 @@
+name = "Plushy+"
+filename = "forge_1_18_1_PlushyPlus_1200_03032022_cub.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aac48723cc0e747e595d71342e8abc26573d3365"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3671124
+project-id = 515616

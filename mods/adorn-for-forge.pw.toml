@@ -1,0 +1,13 @@
+name = "Adorn (Forge)"
+filename = "Adorn-3.3.1+1.18.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66c4942a5293c703c5c89340d55940ec035754e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3638845
+project-id = 438784

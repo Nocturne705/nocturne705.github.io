@@ -1,0 +1,13 @@
+name = "Traveler's Titles (Forge)"
+filename = "TravelersTitles-Forge-1.18.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c5370d66fbadd597e53fd676ff4381938b16a87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3681420
+project-id = 504908
