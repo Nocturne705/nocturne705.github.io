@@ -312,11 +312,6 @@ hash = "b1bff4b4c738c9502a755efe108259040dc2c81fc2143226fefd07e55d3e5a57"
 metafile = true
 
 [[files]]
-file = "mods/just-another-rotten-flesh-to-leather-mod.pw.toml"
-hash = "7a58326eeba778ef65215b37e6070647fccca5060426acdb86ed3ad111d9207b"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "63905e7bd809abc4a3e97ca487c38fdd16b1662fb44e0058ebcea88710f39413"
 metafile = true
