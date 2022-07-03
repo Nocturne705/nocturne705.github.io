@@ -13,6 +13,10 @@ file = "mods/OptiFine_1.18.2_HD_U_H7.jar"
 hash = "79264fa2994e78a48321abe75191162290dcb6e9e307287eee60e53ff8962a99"
 
 [[files]]
+file = "mods/Regrowth-1.18.2-1.40.0.30c.jar"
+hash = "e168f3fd5a67909d83d7b4cb2e66e75d1197f340c742778ebafc366df37acdd3"
+
+[[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "d0b68449192bab34689139a9961cca7d62ad6c7116f26bcf9cdd78dd0e822397"
 metafile = true
@@ -242,9 +246,8 @@ hash = "c49b1c4c0f98d58414320731ccbdbf21aab3eade5bff8db1d0b30df846dfdc63"
 metafile = true
 
 [[files]]
-file = "mods/eccentric-tome.pw.toml"
-hash = "5a59497efa569e08da47118d7bbde0a2a0e50526726d8e14de1b237a7d979336"
-metafile = true
+file = "mods/eccentrictome-1.18.2-1.6.0.jar"
+hash = "e505459ce6fbfb54d3f810f0c77618b0f61cc7d12c9564d3d07a20f83630bfa0"
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
@@ -322,6 +325,10 @@ hash = "b1c7ca8c6728a7cc606c199f9d6d295932299e662860fda98be0034d7fa264c0"
 metafile = true
 
 [[files]]
+file = "mods/forge_1_18_2_PlushyPlus_1200_10042022_cub.jar"
+hash = "280859fefc63629821f1e8636ed54fcd945982c90b79fd8ba4288eddb6bca027"
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "0de6372b393860455e476febfba42357c4386fc78bcd3ac747e88a60f8dbc30b"
 metafile = true
@@ -377,9 +384,8 @@ hash = "91ba771c9abda115d6ea9d149d108320e334254343d2101679b689d3c473d7f7"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "30df80062e88163a7521407b764c89eaa4d5cef1318ed77e9357c13ac1544ba5"
-metafile = true
+file = "mods/hexerei-0.1.19.jar"
+hash = "4f238721b4dabaeac6e2ff168f0c0131fb2696759c58f6482ded162f83efbf27"
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
@@ -632,11 +638,6 @@ hash = "772cb7c52e2c2ce7cef9a9099d4e054dda8cc414dfc3cf09b5c5e5b1fe334902"
 metafile = true
 
 [[files]]
-file = "mods/plushy.pw.toml"
-hash = "62cf38a6a25de285b9959b05f6766bfdb61dc138d43cb46749bed3a55c9bb1e7"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "ed0fcdae68f0f046f6b25c7e8da92b37b5a29aeab8d399e0f2514a3186b1d641"
 metafile = true
@@ -654,11 +655,6 @@ metafile = true
 [[files]]
 file = "mods/reauth.pw.toml"
 hash = "70869c737b04b1061434aba80089c3a2ed58e9902ccee86c7b147fabb71a31be"
-metafile = true
-
-[[files]]
-file = "mods/regrowth.pw.toml"
-hash = "420a483fd50f8bd45138b4ef91853d4c3fa382704806b34ab4f8ecddff327b5c"
 metafile = true
 
 [[files]]
