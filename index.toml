@@ -260,6 +260,11 @@ hash = "5f86110ca3889ccf4c7cf73e826103dc38b00116274077ec5ea610893f964a3d"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "72fb1aee0a9fc8b3f032bc1d769709a8bc5eec3b1776d9430d22b6d1d0d3a546"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "c49b1c4c0f98d58414320731ccbdbf21aab3eade5bff8db1d0b30df846dfdc63"
 metafile = true
@@ -287,10 +292,6 @@ metafile = true
 file = "mods/enlightened-end.pw.toml"
 hash = "7cc35cc276e4cfd8a57ceb365387de7b39a06e917bcf7a8dd585197c0a15bd82"
 metafile = true
-
-[[files]]
-file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
-hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
 file = "mods/every-compat.pw.toml"
@@ -340,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "1ad39bf13de8391ebd87c7788f18c61a45d823ca03496cfa67092088b1919bc5"
+metafile = true
+
+[[files]]
+file = "mods/forge-creeper-heal-unofficial.pw.toml"
+hash = "46b5dad877fb5095b17b3daad9003995a81b2b162d335aef4730486295449a26"
 metafile = true
 
 [[files]]
