@@ -623,11 +623,6 @@ hash = "5611f1d8dd13235568d6feda1598451d74f208cc22bb16ba8db81b4a2e237ee6"
 metafile = true
 
 [[files]]
-file = "mods/phantom-config-forge.pw.toml"
-hash = "e2bd8fda94e12d960042e2df2fd3fe6554e62a8e637d4f5646ea818c170c0711"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "772cb7c52e2c2ce7cef9a9099d4e054dda8cc414dfc3cf09b5c5e5b1fe334902"
 metafile = true
