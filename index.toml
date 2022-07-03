@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "b36e5544b20f10d2bf02321d41d74cd7cfb29c8d0d9b5f1e447a359244e7fb70"
+hash = "7b7628a2d2967cc7e63e29b005a0bde5ab1e765cbee4398d627dcf62514048a9"
 metafile = true
 
 [[files]]
@@ -859,11 +859,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b02200a23acb76bb6b4ddab418e99af4a5f938fb53e63e328540d9e0f4d21d4b"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "ad0db3171d0a870f4ebf0a3f7ee643fcaa3150350ce1196fe9701e204ec2a457"
 metafile = true
 
 [[files]]
