@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "191b7a13538f73f7ca8553e4368d22e8675dcc6778df67e772f4e58b2fcd334a"
+hash = "413eecd61d1b893cb3ed6b2e37f9e9195d2a61295ebd543b00498c4cf9ba0233"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterloadingscreen.pw.toml"
-hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
+hash = "28e8168a20c3e921253d1b4e967b763b04c4363c7ea9a26a1fbe27eb2d4afdf6"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "f2003c537074264ef7f1c67dc72e72a79dd5efb39e7d4ee3eec60b0ebad8e938"
+hash = "1e09653f0241c715d9da6ebb677e09b7943385a58f31af10b77e6c61e5e3cf25"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
+hash = "ff745c8d351cd807135719c05ded9b705d3474a2cf3098a7125367d7c0c66808"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "23d42c3cbba7d75008cd3e7c15d347fac29a97bcb832d9768d75e7a5a457cc09"
+hash = "8cf23d44687c90a7ab32df925716aed8ba6b74209f22ac17158f68b3cf72bc11"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-creeper-heal-unofficial.pw.toml"
-hash = "46b5dad877fb5095b17b3daad9003995a81b2b162d335aef4730486295449a26"
+hash = "afb3d03412f481cdc46904b895d50834ed8b01fdebe9929bd57d9c6ff31222de"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ hash = "280859fefc63629821f1e8636ed54fcd945982c90b79fd8ba4288eddb6bca027"
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "0de6372b393860455e476febfba42357c4386fc78bcd3ac747e88a60f8dbc30b"
+hash = "fd64444a5e1d1ec5c9fc4c1d015dc5c731c1f6beeaa63cf4aa359b1cd2841669"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "70869c737b04b1061434aba80089c3a2ed58e9902ccee86c7b147fabb71a31be"
+hash = "9b0029b2c1a23166e1f1292262ce5426de8b6d4ee54f6c76441a57b1b946b204"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "e53847e853ecbf615e96a4918e20f303bdb4a18584cbc83c1f816d00ecd4a60c"
+hash = "c57b20c4b204439ebb44750a9b072b1cc14e64101c2acdad3dd9be1dd6f30f63"
 metafile = true
 
 [[files]]
@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.pw.toml"
-hash = "5f446ecacec091803d398980df4461f6dd89bf160e044c6f2cf90f8592c93a3b"
+hash = "6299d266f7e79a02bf64bfd3dadc4292c39e3694c109a1f74aa5de15f36261b7"
 metafile = true
 
 [[files]]
