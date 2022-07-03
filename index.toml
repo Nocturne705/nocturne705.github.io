@@ -17,6 +17,11 @@ file = "mods/Regrowth-1.18.2-1.40.0.30c.jar"
 hash = "e168f3fd5a67909d83d7b4cb2e66e75d1197f340c742778ebafc366df37acdd3"
 
 [[files]]
+file = "mods/actually-compatible.pw.toml"
+hash = "7342a52601808df88e76370b52e894545decc7bb14bdc6f7508e1f6dbca0404c"
+metafile = true
+
+[[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "d0b68449192bab34689139a9961cca7d62ad6c7116f26bcf9cdd78dd0e822397"
 metafile = true
@@ -72,8 +77,18 @@ hash = "131da55792beda303fa3526bf6b413ba43ca0a0a4a0b811f89d7c38dd6fe3df4"
 metafile = true
 
 [[files]]
+file = "mods/better-flight-forge.pw.toml"
+hash = "ca128a3764143295dacea2b954694dd8ceb60d8908211a758aec0eb5f2e5c4bd"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "870463293308fb73af014c9adf6b5631edb9e745af8de337726f0b0c0eef74d7"
+metafile = true
+
+[[files]]
+file = "mods/betterloadingscreen.pw.toml"
+hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
 metafile = true
 
 [[files]]
@@ -138,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "979d6d241c432cf5240d5658d25894a269c551de0bc36cd36d877400707049fb"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "3b188291f70174653470ae7722bd0edc019f538b2d7a100158e6d55fa51a14f9"
 metafile = true
 
 [[files]]
@@ -226,6 +246,11 @@ hash = "c7ff7b33527f0ec10240b6a7e78dc7951b6f814ac21d221a8f40541aad8cc4ee"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "ff8b392ba28e219cbfb7cb4920e69c415d760a430453cbe532f6cd441a4eae8c"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "5f86110ca3889ccf4c7cf73e826103dc38b00116274077ec5ea610893f964a3d"
 metafile = true
@@ -257,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/enlightened-end.pw.toml"
 hash = "7cc35cc276e4cfd8a57ceb365387de7b39a06e917bcf7a8dd585197c0a15bd82"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
 metafile = true
 
 [[files]]
@@ -375,6 +405,11 @@ hash = "4f238721b4dabaeac6e2ff168f0c0131fb2696759c58f6482ded162f83efbf27"
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "fd212d3a0013876ab1b18151f38f80cd265955cf4d0d6e148eb5edd969adf501"
+metafile = true
+
+[[files]]
+file = "mods/immersive-fx.pw.toml"
+hash = "4c1926e92a4d6bb54c9bb5e90aeac3a0771a65d63519f68a8c419832de86ca3a"
 metafile = true
 
 [[files]]
@@ -628,11 +663,6 @@ hash = "74f332bf6489efeb6da23c59c602b6cd420b830cac06a3273639ea08b1fca87b"
 metafile = true
 
 [[files]]
-file = "mods/pyromancer.pw.toml"
-hash = "01dae22beb0e6990d67b142e39405bc71e16d89827ca9c4d7a15c6211d9bad08"
-metafile = true
-
-[[files]]
 file = "mods/reauth.pw.toml"
 hash = "70869c737b04b1061434aba80089c3a2ed58e9902ccee86c7b147fabb71a31be"
 metafile = true
@@ -812,6 +842,11 @@ hash = "02d6055360fd3eafd5611eee049da8007f9689c6553a1b62214f74658b674d52"
 metafile = true
 
 [[files]]
+file = "mods/vanillatweaks.pw.toml"
+hash = "05cafb72d7015312d802b41b8d1723e15601824587ac23de4f204ead50ccce8d"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
@@ -824,6 +859,11 @@ metafile = true
 [[files]]
 file = "mods/wthit-forge.pw.toml"
 hash = "5f446ecacec091803d398980df4461f6dd89bf160e044c6f2cf90f8592c93a3b"
+metafile = true
+
+[[files]]
+file = "mods/wyml.pw.toml"
+hash = "2476f3be12844b6b2c348a82b3cf8941edfaab633faccd744f72b1b1e7f32092"
 metafile = true
 
 [[files]]
