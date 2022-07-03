@@ -703,9 +703,8 @@ hash = "bfe94f7b79d7d1312144983cd34e7cec59abcb0251269f587a752c005d6853f8"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "d3771c9ea207ea51c7f6717b7dab1853130635b4506bbe88e9c7b4c1a5909479"
-metafile = true
+file = "mods/smoothboot-mc1.18.2-1.0.0.jar"
+hash = "44cd1f78c1ac27525aae705c8e17e032346ddaf9e99fa3b5f821be65658644b9"
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
