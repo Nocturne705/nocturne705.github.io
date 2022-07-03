@@ -27,11 +27,6 @@ hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
-metafile = true
-
-[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "0c4e32eba3de299f9b96996a53902d450430eb58c89b9b6c881b8cd3acb0aa76"
 metafile = true
@@ -312,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "1ad39bf13de8391ebd87c7788f18c61a45d823ca03496cfa67092088b1919bc5"
-metafile = true
-
-[[files]]
-file = "mods/forbidden-arcanus.pw.toml"
-hash = "b1c7ca8c6728a7cc606c199f9d6d295932299e662860fda98be0034d7fa264c0"
 metafile = true
 
 [[files]]
@@ -773,31 +763,6 @@ hash = "905575f6d3c20a47b8bdae4e9ee48532c3c00acfd899c9b87e5555475ae1d9a9"
 metafile = true
 
 [[files]]
-file = "mods/thermal-cultivation.pw.toml"
-hash = "d44c1f319c15d77748c757c0d298768b041104a8ae0a22a4a754ce82923104cb"
-metafile = true
-
-[[files]]
-file = "mods/thermal-expansion.pw.toml"
-hash = "acde76ce2d1dcf489d3785ef04ebc49c3af7a07132a4d85e35e83fef6a489d8f"
-metafile = true
-
-[[files]]
-file = "mods/thermal-foundation.pw.toml"
-hash = "e8c094b697a3fcce31e7f271984c5ed0c47b766a4c883cce40e1d90537e0b1ac"
-metafile = true
-
-[[files]]
-file = "mods/thermal-innovation.pw.toml"
-hash = "567e153674f4323f64157ee4cfd1f2314953d8049f41aebef68f81fa81c5f311"
-metafile = true
-
-[[files]]
-file = "mods/thermal-locomotion.pw.toml"
-hash = "73c95c779a2884fc699b7aa390837dcaca5d9e6d10151cffa092afa8e0037332"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
 metafile = true
@@ -865,11 +830,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "34705769206c43cfec5efbdfa03e83c8e45760f01bef03148d9bfc2ccc0b7360"
-metafile = true
-
-[[files]]
-file = "mods/xnet.pw.toml"
-hash = "49a470a4490012a5458d1198be9e69368c1dbdce38e4b55c20203e3afde2e6d5"
 metafile = true
 
 [[files]]
