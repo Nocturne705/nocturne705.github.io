@@ -47,6 +47,11 @@ hash = "f5544bc5bf4578ff88fbb4027e29ce376ba1721e916a29f3bace348c3b193828"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b269cdcedbb3c4c24475380171b72594ea288de8254cf42fb679a65ffefe94df"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "4dd44fcd973c2ecf528ace369e8922b30b182d2c8783624c3ff3fb491e19582a"
 metafile = true
