@@ -146,11 +146,6 @@ hash = "979d6d241c432cf5240d5658d25894a269c551de0bc36cd36d877400707049fb"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
-metafile = true
-
-[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "eb3b0632a958279236ad10c8ee4986439c96335ef764c04e9724be514d8306e8"
 metafile = true
@@ -860,11 +855,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
-metafile = true
-
-[[files]]
-file = "mods/wmitaf.pw.toml"
-hash = "8bf34120202112eae734d43800472044876e3064ac350aeebbf78a2a6899e5ac"
 metafile = true
 
 [[files]]
