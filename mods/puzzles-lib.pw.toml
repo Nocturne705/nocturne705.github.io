@@ -1,13 +1,13 @@
 name = "Puzzles Lib [Forge]"
-filename = "PuzzlesLib-v3.2.1-1.18.1-Forge.jar"
+filename = "PuzzlesLib-v3.3.5-1.18.2-Forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "660f259c4237805a46972565848ec882b7457b38"
+hash = "e9a2d9bbaa1d272b958f4db6923b57887da69033"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3662350
+file-id = 3804332
 project-id = 495476

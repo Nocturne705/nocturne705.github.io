@@ -1,4 +1,4 @@
-name = "WHOSMP"
+name = "WHOSMP2"
 author = "Nocturne705"
 version = "1"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "477f834d6af52d28673566e57a222f7cf95ed3bd67086a506c52670a2fa1ff98"
+hash = "02bb2685848837fcfdac69ae476382ff5d08afb2272b98e5f00acd76c9da5a44"
 
 [versions]
-forge = "39.1.2"
-minecraft = "1.18.1"
+forge = "40.1.54"
+minecraft = "1.18.2"

@@ -1,13 +1,13 @@
 name = "Friendly Fire"
-filename = "FriendlyFire-1.18.1-10.0.1.jar"
+filename = "FriendlyFire-Forge-1.18.2-11.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9563b853af879b8d7f938a3be940bde407165837"
+hash = "be2de7e0652199b22bb0af496e98c696f72de27f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3757615
+file-id = 3764167
 project-id = 255105

@@ -1,13 +1,13 @@
 name = "Beyond Earth (Forge)"
-filename = "Beyond-Earth-1.18.1-6.0d.jar"
+filename = "Beyond-Earth-1.18.2-6.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0781268cce03896faba8c962ea516ca2df815c06"
+hash = "0e2d2b2acaf8df5aaa40003d00fdedb47b5efe78"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3632972
+file-id = 3807783
 project-id = 377448
