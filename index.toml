@@ -5,6 +5,10 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/ImmersiveFX+1.0.0gm+1.18.2.jar"
+hash = "358cf0ae8de4233ea83d717a65a9db949bac319da39d1f828c84eb9b9c5180d4"
+
+[[files]]
 file = "mods/JRFTL+1.18.1-1.4.1.jar"
 hash = "a3bf274cdc5560037e797f83d3419aa6b74f17f48ca34bc3af023e0a7b0ed8a4"
 
@@ -285,9 +289,8 @@ hash = "7cc35cc276e4cfd8a57ceb365387de7b39a06e917bcf7a8dd585197c0a15bd82"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
-metafile = true
+file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
+hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
 file = "mods/every-compat.pw.toml"
@@ -405,11 +408,6 @@ hash = "4f238721b4dabaeac6e2ff168f0c0131fb2696759c58f6482ded162f83efbf27"
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "fd212d3a0013876ab1b18151f38f80cd265955cf4d0d6e148eb5edd969adf501"
-metafile = true
-
-[[files]]
-file = "mods/immersive-fx.pw.toml"
-hash = "4c1926e92a4d6bb54c9bb5e90aeac3a0771a65d63519f68a8c419832de86ca3a"
 metafile = true
 
 [[files]]
