@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "7a58e34ad1ce5784ba3a6b2247315dc3a4e6757a56403e0b122f17e0c8a0f6cf"
+hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
 
 [[files]]
@@ -765,11 +765,6 @@ metafile = true
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "9743690593e5dabcd360212cce9fb68cd3dbb4d18dbce710e5f79cea631e8ea0"
 metafile = true
 
 [[files]]
