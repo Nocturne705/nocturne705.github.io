@@ -698,16 +698,6 @@ hash = "ff409d0b2b62eb669282869e3ce7c297cf00bc8ff0113106d66713198b13cde3"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "b2a0cf3445260f59f49e8fa6e1950dd8727398ca43eb3b34d21b4e92811dec8c"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "03aba91854ab6031337171ef723cdf1ec7083bda3d76d07c7c603a18fa11bff1"
-metafile = true
-
-[[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "781ee00c579536d44ca64d44d019f0356129c9010871eda3a0747e10d607d38a"
 metafile = true
