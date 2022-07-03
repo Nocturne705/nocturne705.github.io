@@ -713,6 +713,11 @@ hash = "bfe94f7b79d7d1312144983cd34e7cec59abcb0251269f587a752c005d6853f8"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "d3771c9ea207ea51c7f6717b7dab1853130635b4506bbe88e9c7b4c1a5909479"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "3a9ded6b5eda0e2c88fb2966f3f5f3e3671ff6bfd4c0df2254f0dc5a450ef185"
 metafile = true
@@ -845,6 +850,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
+metafile = true
+
+[[files]]
+file = "mods/werewolves-become-a-beast.pw.toml"
+hash = "0aa382280323cf3d579837f656889d579d9b23d50094715754151343b5ac40a7"
 metafile = true
 
 [[files]]
