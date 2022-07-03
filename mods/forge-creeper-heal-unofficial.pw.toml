@@ -1,6 +1,6 @@
 name = "Forge Creeper Heal [Unofficial]"
 filename = "CreeperHeal-1.18.2-2.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
