@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
+hash = "0a894d0d11a6a09e5007bf99c9345344d265eaef82d0e1dbd07735c20d8a90e9"
 metafile = true
 
 [[files]]
@@ -249,11 +249,6 @@ metafile = true
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "c7ff7b33527f0ec10240b6a7e78dc7951b6f814ac21d221a8f40541aad8cc4ee"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "ff8b392ba28e219cbfb7cb4920e69c415d760a430453cbe532f6cd441a4eae8c"
 metafile = true
 
 [[files]]
@@ -551,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+metafile = true
+
+[[files]]
+file = "mods/mc-paint.pw.toml"
+hash = "70838743e1b9607dcec8cd4c5c4e152996ce65b369bd9d39770ba4eb366871a9"
 metafile = true
 
 [[files]]

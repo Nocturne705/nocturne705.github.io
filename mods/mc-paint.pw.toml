@@ -1,0 +1,13 @@
+name = "MC Paint"
+filename = "mcpaint-1.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d9995022481d9f1f93079b26e04434a6a49eb7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3710768
+project-id = 301829
