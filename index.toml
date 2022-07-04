@@ -9,10 +9,6 @@ file = "mods/JRFTL+1.18.1-1.4.1.jar"
 hash = "a3bf274cdc5560037e797f83d3419aa6b74f17f48ca34bc3af023e0a7b0ed8a4"
 
 [[files]]
-file = "mods/OptiFine_1.18.2_HD_U_H7.jar"
-hash = "79264fa2994e78a48321abe75191162290dcb6e9e307287eee60e53ff8962a99"
-
-[[files]]
 file = "mods/Regrowth-1.18.2-1.40.0.30c.jar"
 hash = "e168f3fd5a67909d83d7b4cb2e66e75d1197f340c742778ebafc366df37acdd3"
 
@@ -258,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "72fb1aee0a9fc8b3f032bc1d769709a8bc5eec3b1776d9430d22b6d1d0d3a546"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
 metafile = true
 
 [[files]]
@@ -663,6 +664,16 @@ hash = "74f332bf6489efeb6da23c59c602b6cd420b830cac06a3273639ea08b1fca87b"
 metafile = true
 
 [[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
+metafile = true
+
+[[files]]
+file = "mods/radon.pw.toml"
+hash = "050387e709dda272a06b5e3377fe33839f41194e5070be8fcf3e631089c4fe12"
+metafile = true
+
+[[files]]
 file = "mods/reauth.pw.toml"
 hash = "9b0029b2c1a23166e1f1292262ce5426de8b6d4ee54f6c76441a57b1b946b204"
 metafile = true
@@ -708,6 +719,11 @@ hash = "ff409d0b2b62eb669282869e3ce7c297cf00bc8ff0113106d66713198b13cde3"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "ea55d78440fa1289587ff06497b92d9cfe988bb4164fcdddf42dd9dc83fd0779"
+metafile = true
+
+[[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "781ee00c579536d44ca64d44d019f0356129c9010871eda3a0747e10d607d38a"
 metafile = true
@@ -749,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
 metafile = true
 
 [[files]]
