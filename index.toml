@@ -760,11 +760,6 @@ hash = "ed0fcdae68f0f046f6b25c7e8da92b37b5a29aeab8d399e0f2514a3186b1d641"
 metafile = true
 
 [[files]]
-file = "mods/potion-id-packet-fixer.pw.toml"
-hash = "ed7238c78468ae51067421956f1ec6665a5fad7b9079a95d5726b16430ff8334"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "74f332bf6489efeb6da23c59c602b6cd420b830cac06a3273639ea08b1fca87b"
 metafile = true
