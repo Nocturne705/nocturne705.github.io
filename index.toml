@@ -639,6 +639,11 @@ hash = "1922c95e54d5de4069354c8b3a84477694de88d92dab25cde45a968c1170c1a8"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "76ee493e50f512a5d1bc992a89ae915c7b673c6fd04f6a652c940cfed8da7e8d"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "a3bebc3e01ad0dc6d8f63177e318f0aee3d7c781ce643fe96837eb2e44df1aff"
 metafile = true
