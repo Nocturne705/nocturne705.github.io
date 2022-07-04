@@ -1,6 +1,82 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/affixes.cfg"
+hash = "77099ada4feb51efa60e44cd3227cfc5a21845cc60a4e1dcb6fd197f0f7e9eea"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "e131ece759d5cbf43b94b73e7648f65bcc76ed47ed3349dcd59ea7c13c90002f"
+
+[[files]]
+file = "config/apotheosis/deadly.cfg"
+hash = "1f07d96bf9b2971c3e0ce4b18d2355544d8d87520e1195c11511622b4c1e51cd"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "1d2d06365275fbab590e02d34558ed6636aba0009633ed2cde4f0abbc58e2ec6"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "c9409d258403b986d0669140d1a9101d9a72b6e36b7815eb88ab3b037a989747"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "dc692e32370ccf0a1546973a256a100d8da0f7644d5f06432b93942412472266"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "accf2a87ff2e8f282293649a771807ba560b2ed35404f182c3d922ed4a89fb0b"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "9042eb2934e284f98ced0fe336c3808fc6a9c54f2548af274fcb30d96a8158b1"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "37fcebfa7152247d2742c258e9de8fc788b43378119d2421fa9fc38173db309f"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "de5c917dc9ca84f28e6064baa898d15ca15d0511dcd47941d0c6e4d9287a4dc7"
+
+[[files]]
+file = "config/astralsorcery-common.toml"
+hash = "25df89c30f846c487f311bc70f8aa0d578419b36e195bc820bdd52ddf2978c58"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "12aafd30b5537300064acf5bbff65a7edd89ebb42a20ad5c83839d37b9f292f1"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "3deb3ba9788aa2fbbc588addaae6e95d4ff3191aa87fddb1b2b4f82f1b1f4bf4"
+
+[[files]]
+file = "config/createdeco-common.toml"
+hash = "8218d6c053f4ac108a171caf4ba7d1b4d2462b53a596328b250363c332bad32c"
+
+[[files]]
+file = "config/guardvillagers-common.toml"
+hash = "32e53de5113e40b811ad1621375754ca5fb716d65564c3ef9500970971d6efa8"
+
+[[files]]
+file = "config/occultism-common.toml"
+hash = "e2dfcc408e0dd025658410ce76ea6a87683d0d26d4fbad856c9c3c25d3467ce5"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "026c6bb999f79e5fb58da764a184c84dff05716d8308e1ab9963e9f01ff2a16d"
+
+[[files]]
+file = "config/vampirism-common.toml"
+hash = "eab1b58cbd73224ca9f9eed465df0dee89bacdccd27f269cbe58284a4420def8"
+
+[[files]]
+file = "config/waystones-server.toml"
+hash = "1ad7cc4fd8ce02f1e51ae499c86171017904135a1b2b7a00e8044def9a31376c"
+
+[[files]]
 file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
