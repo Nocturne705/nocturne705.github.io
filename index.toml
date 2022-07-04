@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
+hash = "931a3eef36960d4725d09449bbf592e9e9849606683c0984318691084aa1f402"
 metafile = true
 
 [[files]]
@@ -70,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "131da55792beda303fa3526bf6b413ba43ca0a0a4a0b811f89d7c38dd6fe3df4"
+metafile = true
+
+[[files]]
+file = "mods/bee-fix.pw.toml"
+hash = "48e598c4fb3ceafaf70e3e6a5cb63c908b551be22fc6d2539eff6af74dcf432f"
 metafile = true
 
 [[files]]
@@ -343,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/fixmyspawnr.pw.toml"
 hash = "e9e2f2651bfef54d610243629ff3c7731ab31bf429a343812a4a427b61692016"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "710b15c7e7e7d7d3e88e4ca2c8658583b8ba1d67fe5259a348c40b3ba1c2755e"
 metafile = true
 
 [[files]]
@@ -679,6 +689,11 @@ hash = "ed0fcdae68f0f046f6b25c7e8da92b37b5a29aeab8d399e0f2514a3186b1d641"
 metafile = true
 
 [[files]]
+file = "mods/potion-id-packet-fixer.pw.toml"
+hash = "ed7238c78468ae51067421956f1ec6665a5fad7b9079a95d5726b16430ff8334"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "74f332bf6489efeb6da23c59c602b6cd420b830cac06a3273639ea08b1fca87b"
 metafile = true
@@ -840,6 +855,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "16b603b8dd4343a9596ca638f3b30b5a3d2b9d78874079db241115f0eac96bf4"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "0e15ac6d04517e3cfc732345d95ca5fbd0c4b14839b2fa7fc45fc77701acfbbe"
 metafile = true
 
 [[files]]

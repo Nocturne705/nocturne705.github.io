@@ -1,6 +1,6 @@
 name = "AttributeFix"
 filename = "AttributeFix-Forge-1.18.2-14.0.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
