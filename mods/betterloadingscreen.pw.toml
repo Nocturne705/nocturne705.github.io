@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3722047
 project-id = 594044
+
+[option]
+optional = true
+default = true
+description = "Try disabling this if you encounter random crashes."

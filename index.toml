@@ -89,11 +89,6 @@ file = "mods/Regrowth-1.18.2-1.40.0.30c.jar"
 hash = "e168f3fd5a67909d83d7b4cb2e66e75d1197f340c742778ebafc366df37acdd3"
 
 [[files]]
-file = "mods/actually-compatible.pw.toml"
-hash = "7342a52601808df88e76370b52e894545decc7bb14bdc6f7508e1f6dbca0404c"
-metafile = true
-
-[[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "d0b68449192bab34689139a9961cca7d62ad6c7116f26bcf9cdd78dd0e822397"
 metafile = true
@@ -155,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
-hash = "43ba9e344d296d84c8cd634b622af4aaef85ccd3ebafa98a14b8967d5d991ac5"
+hash = "5438b2bd6600929c044886550008e7d1d002e8ac59cd9751359dbecb8a504bd4"
 metafile = true
 
 [[files]]
@@ -165,12 +160,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "870463293308fb73af014c9adf6b5631edb9e745af8de337726f0b0c0eef74d7"
+hash = "9e66f32990ecd4cb815cc9c434848e5768d53996f5e2b6ba1f35b88d5ab7aa1d"
 metafile = true
 
 [[files]]
 file = "mods/betterloadingscreen.pw.toml"
-hash = "28e8168a20c3e921253d1b4e967b763b04c4363c7ea9a26a1fbe27eb2d4afdf6"
+hash = "94cd881a54db0fd0cca245206b9869d481ff7dc18b7fe03baa77a3a1a8f0ab69"
 metafile = true
 
 [[files]]
@@ -403,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
-hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+hash = "1a3346fde6ccc13e64a4baceb24fd271657964b83c09a00526e55180653a9e09"
 metafile = true
 
 [[files]]
@@ -701,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "749b5c01f7d44a3479c096cad7f917b2e2ded86e4cd65208c0af434c1b478534"
+hash = "c5ade19ea7d814982761f49a1f7fcc2fbbe5d95280689cf2b3b59f2be17436cd"
 metafile = true
 
 [[files]]
@@ -875,12 +870,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
+hash = "bc224b0d188b08be1db52d68301b82845c491667795215be1f45a6239f35a409"
 metafile = true
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
-hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
+hash = "a90fd4fc46dd94ba813e501ac2e25e68a28ee4131959f0236f66aa26e6b41f3d"
 metafile = true
 
 [[files]]
@@ -955,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-titles.pw.toml"
-hash = "42aff0502a35273e17459fc9139aa31f621241999901c7f1b750eb2920360d2a"
+hash = "13f8109e8a1c15d11b50dc4c4c743d45366e47928614c5868952a2afc738788c"
 metafile = true
 
 [[files]]
@@ -999,13 +994,8 @@ hash = "6299d266f7e79a02bf64bfd3dadc4292c39e3694c109a1f74aa5de15f36261b7"
 metafile = true
 
 [[files]]
-file = "mods/wyml.pw.toml"
-hash = "2476f3be12844b6b2c348a82b3cf8941edfaab633faccd744f72b1b1e7f32092"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "34705769206c43cfec5efbdfa03e83c8e45760f01bef03148d9bfc2ccc0b7360"
+hash = "8b6aec8c3bbab8d12dbe6ac11a6aabc85d5e37ba2e27dc8e3872aa135c43f2d8"
 metafile = true
 
 [[files]]
