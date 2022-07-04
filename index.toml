@@ -700,12 +700,12 @@ metafile = true
 
 [[files]]
 file = "mods/radium-reforged.pw.toml"
-hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
+hash = "f1464f897561a73e34d8730aea89aeb01024133caf114664155bd0ece0fa7578"
 metafile = true
 
 [[files]]
 file = "mods/radon.pw.toml"
-hash = "050387e709dda272a06b5e3377fe33839f41194e5070be8fcf3e631089c4fe12"
+hash = "2589389473e8088d10f241c11a45c80a6081ac8ca2d98832efa721d7f131162b"
 metafile = true
 
 [[files]]
