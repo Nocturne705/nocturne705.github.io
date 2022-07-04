@@ -73,6 +73,11 @@ hash = "131da55792beda303fa3526bf6b413ba43ca0a0a4a0b811f89d7c38dd6fe3df4"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "43ba9e344d296d84c8cd634b622af4aaef85ccd3ebafa98a14b8967d5d991ac5"
+metafile = true
+
+[[files]]
 file = "mods/better-flight-forge.pw.toml"
 hash = "ca128a3764143295dacea2b954694dd8ceb60d8908211a758aec0eb5f2e5c4bd"
 metafile = true
@@ -331,6 +336,16 @@ hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
+metafile = true
+
+[[files]]
+file = "mods/fixmyspawnr.pw.toml"
+hash = "e9e2f2651bfef54d610243629ff3c7731ab31bf429a343812a4a427b61692016"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "0610698407812016eed4958139bd0650288d25b759cd26451ac3fa3754447627"
 metafile = true
@@ -461,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
 metafile = true
 
 [[files]]
