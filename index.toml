@@ -61,6 +61,10 @@ file = "config/guardvillagers-common.toml"
 hash = "32e53de5113e40b811ad1621375754ca5fb716d65564c3ef9500970971d6efa8"
 
 [[files]]
+file = "config/mca.json"
+hash = "4ebe182ecb754c76b22a222c65e0f61f574e4d248311d7fb247164aa2850eb70"
+
+[[files]]
 file = "config/occultism-common.toml"
 hash = "e2dfcc408e0dd025658410ce76ea6a87683d0d26d4fbad856c9c3c25d3467ce5"
 
