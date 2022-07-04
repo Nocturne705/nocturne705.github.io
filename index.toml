@@ -351,11 +351,6 @@ hash = "e9e2f2651bfef54d610243629ff3c7731ab31bf429a343812a4a427b61692016"
 metafile = true
 
 [[files]]
-file = "mods/flickerfix.pw.toml"
-hash = "710b15c7e7e7d7d3e88e4ca2c8658583b8ba1d67fe5259a348c40b3ba1c2755e"
-metafile = true
-
-[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "0610698407812016eed4958139bd0650288d25b759cd26451ac3fa3754447627"
 metafile = true
@@ -640,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "76ee493e50f512a5d1bc992a89ae915c7b673c6fd04f6a652c940cfed8da7e8d"
+hash = "4238d52131c54c5de154248227ba4dbe58f68f92c15ce5d214d3587124f8cac9"
 metafile = true
 
 [[files]]
