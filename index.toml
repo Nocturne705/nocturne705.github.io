@@ -74,7 +74,7 @@ hash = "026c6bb999f79e5fb58da764a184c84dff05716d8308e1ab9963e9f01ff2a16d"
 
 [[files]]
 file = "config/vampirism-common.toml"
-hash = "ff529c3a1ef9f3cf285d83055989f64630e87636674e551b56323a51ebc61ed0"
+hash = "ab99688b891dba3c18cdce11d1069e61372142c36b1e66929f1c1ce7dbfa6224"
 
 [[files]]
 file = "config/waystones-server.toml"
