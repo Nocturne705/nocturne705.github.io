@@ -93,6 +93,10 @@ file = "mods/Regrowth-1.18.2-1.40.0.30c.jar"
 hash = "e168f3fd5a67909d83d7b4cb2e66e75d1197f340c742778ebafc366df37acdd3"
 
 [[files]]
+file = "mods/TFB1.18.1+ForgeAnthro_Origins_v1.4.jar"
+hash = "950984e0faa34674d097006555dc0b335d8b2e56fabc8c3beff1b64e823d3a9e"
+
+[[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "d0b68449192bab34689139a9961cca7d62ad6c7116f26bcf9cdd78dd0e822397"
 metafile = true
@@ -1016,11 +1020,6 @@ metafile = true
 [[files]]
 file = "mods/tetra.pw.toml"
 hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
-metafile = true
-
-[[files]]
-file = "mods/tfb-anthro-origins.pw.toml"
-hash = "d6109165891c4e9d3481c256804abfd19e664a8353ddf4c584cd593fb71ed3de"
 metafile = true
 
 [[files]]
