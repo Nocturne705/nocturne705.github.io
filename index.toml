@@ -1019,6 +1019,11 @@ hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
 metafile = true
 
 [[files]]
+file = "mods/tfb-anthro-origins.pw.toml"
+hash = "d6109165891c4e9d3481c256804abfd19e664a8353ddf4c584cd593fb71ed3de"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-cities.pw.toml"
 hash = "4f2331516082e4e8d9eba700c238b22715d634234aef01220cfc0677dc3b5a8e"
 metafile = true
