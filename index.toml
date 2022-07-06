@@ -839,16 +839,6 @@ hash = "c5ade19ea7d814982761f49a1f7fcc2fbbe5d95280689cf2b3b59f2be17436cd"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "37e5260d712448aedead0286912d3453824d45effaef68364284afbff6c06909"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-breeding.pw.toml"
-hash = "228c91a42986e7ab1d5968dcffd0ab949fff3ce2387284c0ffcf6b8e84ee63c8"
-metafile = true
-
-[[files]]
 file = "mods/occultism.pw.toml"
 hash = "1922c95e54d5de4069354c8b3a84477694de88d92dab25cde45a968c1170c1a8"
 metafile = true
@@ -1036,11 +1026,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bfe94f7b79d7d1312144983cd34e7cec59abcb0251269f587a752c005d6853f8"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "78d489c8cfdd4f7c314655fe9a1c820233ead36dc28f136945c8c6c8fd9ecab8"
 metafile = true
 
 [[files]]
