@@ -147,6 +147,11 @@ hash = "931a3eef36960d4725d09449bbf592e9e9849606683c0984318691084aa1f402"
 metafile = true
 
 [[files]]
+file = "mods/auto-restart.pw.toml"
+hash = "409adfd8f612c40506b8b13e35d91f9d67f2316c112cf9291b65b96b3d6cdd54"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
@@ -167,6 +172,11 @@ hash = "48e598c4fb3ceafaf70e3e6a5cb63c908b551be22fc6d2539eff6af74dcf432f"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "f97016f522e10afd1659881de6da1a3698c83c3ac38555b20e73719eac51e4a9"
+metafile = true
+
+[[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "5438b2bd6600929c044886550008e7d1d002e8ac59cd9751359dbecb8a504bd4"
 metafile = true
@@ -179,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "9e66f32990ecd4cb815cc9c434848e5768d53996f5e2b6ba1f35b88d5ab7aa1d"
+metafile = true
+
+[[files]]
+file = "mods/betteranimalsplus.pw.toml"
+hash = "b0de42af517d650f0516284297687e9f451db2b1b2683772e01a31eb7935be3f"
 metafile = true
 
 [[files]]
@@ -204,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "464a74387fd02f2dc13807993cc38466667dafdf917eeca432fa04bed6479b4a"
+metafile = true
+
+[[files]]
+file = "mods/bonsai-trees.pw.toml"
+hash = "f7e254d44fd0bf1f5a249496c4ce598c8d9bc5650c1c6fee6d6fbb92cc5d9c8f"
 metafile = true
 
 [[files]]
@@ -337,6 +357,11 @@ hash = "e116a4c60883db9826d629da917b93686bd72f62ca74033b4a905c1481c7191d"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "270914b8828bd1d85e7f4ddc8cc895e8b625685c42d5cbcce858834a4626882d"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "7e74b2c44dc50242a8772415ba4c38e328923cab3b1148f6e146cc518bfe8927"
 metafile = true
@@ -364,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "a6178a922ffa32715b2297984cca9bef6c32db477b574dca43fcd4a3b9858ecc"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "ebc7fe70140c268917e096a5aefcdd4981378eef19e1db5a6381ae6e75486aff"
 metafile = true
 
 [[files]]
@@ -413,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
 metafile = true
 
 [[files]]
@@ -584,6 +619,11 @@ hash = "26457da7fedb3defabbca3a33fbf84de926057f2ed7e50feeb52df3cdd8de9e0"
 metafile = true
 
 [[files]]
+file = "mods/insanelib.pw.toml"
+hash = "84e7b318f9b6aec5f27a4abe2a30174ab0a2200bfc9880f7b79ffe474c082ec9"
+metafile = true
+
+[[files]]
 file = "mods/integrated-dynamics.pw.toml"
 hash = "6231225afeb66137ab805eff52559f9b0e22e93b65d798e17402e4a61be30b9f"
 metafile = true
@@ -624,6 +664,11 @@ hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
+file = "mods/k-turrets.pw.toml"
+hash = "220d0f24a1db0659f30f5ac17c4fc8ef218d9567d996b54f151487e5f2713035"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "ba2d212ca4faa681f718a4acc4b002a8a0aa238250522acaaf522e685620c4bb"
 metafile = true
@@ -636,6 +681,11 @@ metafile = true
 [[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
+metafile = true
+
+[[files]]
+file = "mods/libnonymous.pw.toml"
+hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
 
 [[files]]
@@ -789,6 +839,16 @@ hash = "c5ade19ea7d814982761f49a1f7fcc2fbbe5d95280689cf2b3b59f2be17436cd"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "37e5260d712448aedead0286912d3453824d45effaef68364284afbff6c06909"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-breeding.pw.toml"
+hash = "228c91a42986e7ab1d5968dcffd0ab949fff3ce2387284c0ffcf6b8e84ee63c8"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "1922c95e54d5de4069354c8b3a84477694de88d92dab25cde45a968c1170c1a8"
 metafile = true
@@ -854,6 +914,11 @@ hash = "54f628283f1cc973bd86b701ac86ab73366cdf4e39badd3fadf5517ec99d4309"
 metafile = true
 
 [[files]]
+file = "mods/progressive-bosses.pw.toml"
+hash = "22b44d61a53e8898c6129567f7b948307ba74b73b126875315e93d11d75b8529"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "74f332bf6489efeb6da23c59c602b6cd420b830cac06a3273639ea08b1fca87b"
 metafile = true
@@ -871,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/radon.pw.toml"
 hash = "2589389473e8088d10f241c11a45c80a6081ac8ca2d98832efa721d7f131162b"
+metafile = true
+
+[[files]]
+file = "mods/realistic-horse-genetics.pw.toml"
+hash = "5d7b9676b64f05e97d12f882cb1bca52d86739b61598a851770fa905d2523d39"
 metafile = true
 
 [[files]]
@@ -939,6 +1009,11 @@ hash = "8b3b87eff25081ebb3dcfc9753d7b7da6b33fa00146c0c0327cb8c2c5057548a"
 metafile = true
 
 [[files]]
+file = "mods/satako-library.pw.toml"
+hash = "27a925186940efca2b110203e761fe250343ba1993aa4e4b3fb39e91f08c35e2"
+metafile = true
+
+[[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "4bbf3f1780bef8108dcc479cd280a8acb819c6d34e0180f61da8eae9ad800efe"
 metafile = true
@@ -961,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bfe94f7b79d7d1312144983cd34e7cec59abcb0251269f587a752c005d6853f8"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "78d489c8cfdd4f7c314655fe9a1c820233ead36dc28f136945c8c6c8fd9ecab8"
 metafile = true
 
 [[files]]
