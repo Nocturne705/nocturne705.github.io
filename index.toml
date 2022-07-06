@@ -426,11 +426,6 @@ file = "mods/entityculling-forge-mc1.18-1.5.1(1).jar"
 hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "ce7764f4555f7524f0c9b6f4f1c53c94f520aad620fc2e4a237520083f43aa46"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "bb01f80b09d127dbcc463ebe445454a1be6e9c96a8418253dcb7bfc4e9fd5e18"
 metafile = true
