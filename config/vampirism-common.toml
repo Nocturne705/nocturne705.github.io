@@ -32,7 +32,7 @@
 	[common-server.mobspawn]
 		#Vampire spawn chance/weight (e.g. Zombie: 100). Does not affect vampire forest.
 		#Range: 0 ~ 100000
-		vampireSpawnChance = 40
+		vampireSpawnChance = 20
 		#Advanced vampire spawn chance/weight (e.g. Zombie: 100). Does not affect vampire forest.
 		#Range: 0 ~ 100000
 		advancedVampireSpawnChance = 15
