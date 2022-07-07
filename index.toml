@@ -257,6 +257,11 @@ hash = "6d77878b163e2e13277f6e1e1476040f3ae73fd03ab9addbc5506c143bc45420"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "95f667886b65aa3df3c25f59ca916d52a33c8955a7bc53a970ec90f1d64b870b"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "2f9c1b730e56415f8d9f5b0b517b02b69fb88392405ae0ee6886c926b458102c"
 metafile = true
@@ -478,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "1fd495735cf0bf0424de8fb2e5eed923908a9946ec1fab853348111a600be216"
+metafile = true
+
+[[files]]
+file = "mods/fakename.pw.toml"
+hash = "2419e2238fc062f893b28e9903270d1250ccc7475e056c841d57774feb0e2271"
 metafile = true
 
 [[files]]
@@ -1185,6 +1195,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "49a470a4490012a5458d1198be9e69368c1dbdce38e4b55c20203e3afde2e6d5"
+metafile = true
+
+[[files]]
+file = "mods/you-died.pw.toml"
+hash = "b37ef1b8a432b7aea10d29148a41790f646bbd3a1069ef62c330f9b9a3696ee0"
 metafile = true
 
 [[files]]
