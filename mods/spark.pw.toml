@@ -1,6 +1,6 @@
 name = "spark"
 filename = "spark-1.9.11-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
