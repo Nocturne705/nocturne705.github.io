@@ -516,11 +516,6 @@ hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "96a0b0d8644c107f9950bf885adaa9328afad27e9c4f699e266d91e2f221d277"
-metafile = true
-
-[[files]]
 file = "mods/fixmyspawnr.pw.toml"
 hash = "e9e2f2651bfef54d610243629ff3c7731ab31bf429a343812a4a427b61692016"
 metafile = true
@@ -836,11 +831,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "c5ade19ea7d814982761f49a1f7fcc2fbbe5d95280689cf2b3b59f2be17436cd"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "07679fa35ec1ca51adb8b8d0a4f25c7a84993635e6242ff0901233b9ff8f5617"
 metafile = true
 
 [[files]]
