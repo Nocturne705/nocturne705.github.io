@@ -147,11 +147,6 @@ hash = "931a3eef36960d4725d09449bbf592e9e9849606683c0984318691084aa1f402"
 metafile = true
 
 [[files]]
-file = "mods/auto-restart.pw.toml"
-hash = "409adfd8f612c40506b8b13e35d91f9d67f2316c112cf9291b65b96b3d6cdd54"
-metafile = true
-
-[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
