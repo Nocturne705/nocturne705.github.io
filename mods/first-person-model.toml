@@ -1,0 +1,13 @@
+name = "First Person Model"
+filename = "firstperson-forge-2.1.0-mc1.18.jar"
+side = "client"
+
+[download]
+url = "https://nocturne705.github.io/firstperson-forge-2.1.0-mc1.18.jar"
+hash-format = "sha1"
+hash = "5AD6B3DD8840169EE48D1DCEC882E5067FEE5996"
+
+[option]
+optional = true
+default = true
+description = "Renders your model while in first person so you can see yourself. You MUST also activate Not Enough Animations!"
