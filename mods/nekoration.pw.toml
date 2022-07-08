@@ -1,13 +1,13 @@
 name = "Nekoration"
-filename = "nekoration-1.18.2-1.6.2.jar"
+filename = "nekoration-1.18.2-1.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d2bc616b103e40f067c7032e512180247919be56"
+hash = "a4d03a953cb108737a3dc5bf46816fdd2f848d3b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3856511
+file-id = 3859039
 project-id = 508028
