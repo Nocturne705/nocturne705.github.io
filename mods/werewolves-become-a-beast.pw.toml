@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3803356
 project-id = 417851
+
+[option]
+optional = true
+default = true
+description = "Only disable this if directed; you can't get into the server without it. However due to a bug if your game is crashing having this installed may make it harder to figure out what's wrong."

@@ -1183,8 +1183,9 @@ hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
 
 [[files]]
-file = "mods/werewolves-become-a-beast.toml"
-hash = "0aa382280323cf3d579837f656889d579d9b23d50094715754151343b5ac40a7"
+file = "mods/werewolves-become-a-beast.pw.toml"
+hash = "24b2b0adff30295bc717eef022719539d7407c27f7281c089f0d8ffd58e21777"
+metafile = true
 
 [[files]]
 file = "mods/wthit-forge.pw.toml"
