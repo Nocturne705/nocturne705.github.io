@@ -81,10 +81,6 @@ file = "config/waystones-server.toml"
 hash = "1ad7cc4fd8ce02f1e51ae499c86171017904135a1b2b7a00e8044def9a31376c"
 
 [[files]]
-file = "firstperson-forge-2.1.0-mc1.18.jar"
-hash = "4fd9eec0bf6051a854254500d972b954d76b0359ddc5ad2328626ff101400f14"
-
-[[files]]
 file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
@@ -1255,7 +1251,3 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
-
-[[files]]
-file = "notenoughanimations-forge-1.6.0-mc1.18.2.jar"
-hash = "03be7fa6bc65049edd13a93fe4bf2f0cd2e0b81bf64247b6c614467509292582"
