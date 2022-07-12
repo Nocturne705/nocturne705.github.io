@@ -914,6 +914,10 @@ hash = "5611f1d8dd13235568d6feda1598451d74f208cc22bb16ba8db81b4a2e237ee6"
 metafile = true
 
 [[files]]
+file = "mods/performant-1.18.2-6.7.jar"
+hash = "a08a1512e743dd808d7e86cb01e520415d7081879df76264a3a978a28ab6e0a2"
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "772cb7c52e2c2ce7cef9a9099d4e054dda8cc414dfc3cf09b5c5e5b1fe334902"
 metafile = true
