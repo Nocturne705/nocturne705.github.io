@@ -1,6 +1,6 @@
 name = "It Shall Not Tick (ISNT)"
 filename = "ItShallNotTick-1.0.20-build.21.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
