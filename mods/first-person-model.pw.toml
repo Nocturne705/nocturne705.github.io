@@ -9,5 +9,5 @@ hash = "5AD6B3DD8840169EE48D1DCEC882E5067FEE5996"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Renders your model while in first person so you can see yourself. You MUST also activate Not Enough Animations!"

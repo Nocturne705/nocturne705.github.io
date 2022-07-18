@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3851498
 project-id = 263420
+
+[option]
+optional = true
+default = true
+description = "Adds a minimap + waypoint system to the upper left of your screen."

@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3737369
 project-id = 267602
+
+[option]
+optional = true
+default = true
+description = "Adds additional texture features for vanilla and modded resource packs. makes the game prettier."

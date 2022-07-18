@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3707226
 project-id = 570017
+
+[option]
+optional = true
+default = true
+description = "Performance mod. No need to disable unless you're going with Optifine."

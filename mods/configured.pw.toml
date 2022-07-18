@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3721946
 project-id = 457570
+
+[option]
+optional = true
+default = true
+description = "Improves mod configuration menus."

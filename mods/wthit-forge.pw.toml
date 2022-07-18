@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3834228
 project-id = 455982
+
+[option]
+optional = true
+default = true
+description = "Displays information about the block you are currently looking at."

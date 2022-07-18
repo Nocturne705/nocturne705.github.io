@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3750013
 project-id = 551520
+
+[option]
+optional = true
+default = true
+description = "Improves FPS. No reason to disable this unless you *must* install Optifine for some reason."

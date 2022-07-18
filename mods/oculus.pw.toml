@@ -15,4 +15,4 @@ project-id = 581495
 [option]
 optional = true
 default = false
-description = "Allows installing shaders. Extremely performance impactful!"
+description = "Allows installing shaders. No need to install unless you plan on installing shaders."

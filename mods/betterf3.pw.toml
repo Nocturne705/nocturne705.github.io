@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3798367
 project-id = 401648
+
+[option]
+optional = true
+default = true
+description = "Improves readability of F3 debugging button."

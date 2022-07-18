@@ -9,5 +9,5 @@ hash = "D1D954139650BEFB005FFB11B608A571E728DB94"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Gives yourself and others more robust animations."

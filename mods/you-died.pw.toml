@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3663128
 project-id = 582464
+
+[option]
+optional = true
+default = true
+description = "Added as a joke. It's funny. Arise, ye tarnished!"

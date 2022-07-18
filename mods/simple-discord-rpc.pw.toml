@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3785422
 project-id = 411816
+
+[option]
+optional = true
+default = true
+description = "Adds improved Discord presence so everyone can see your online in the server right from your Discord profile!"

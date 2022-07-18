@@ -14,5 +14,5 @@ project-id = 594044
 
 [option]
 optional = true
-default = true
-description = "Try disabling this if you encounter random crashes."
+default = false
+description = "More detailed loading screen. Try disabling this if you encounter random crashes."

@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3778233
 project-id = 504908
+
+[option]
+optional = true
+default = true
+description = "Big sweeping titles whenever you enter a new biome or city."

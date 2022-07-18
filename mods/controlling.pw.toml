@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3860454
 project-id = 250398
+
+[option]
+optional = true
+default = true
+description = "Improves controls screen."

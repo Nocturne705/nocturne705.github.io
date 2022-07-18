@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3834621
 project-id = 237701
+
+[option]
+optional = true
+default = true
+description = "Allows relogging in in case something goes goofy in the MC client."

@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3817266
 project-id = 551736
+
+[option]
+optional = true
+default = true
+description = "Torch and other lit blocks shed light while being carried. Requires Rubidium and incompatible with Optifine"

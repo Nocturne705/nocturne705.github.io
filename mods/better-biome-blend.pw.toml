@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3804089
 project-id = 446253
+
+[option]
+optional = true
+default = true
+description = "Improves how biomes blend from one into the other and makes the process less resource intensive."
