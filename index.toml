@@ -1214,7 +1214,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0a2ab17fbdcc6829a89ec34a9e47f8589f6926aaecf45a2f65ca48aa4a77d94a"
+hash = "c040e4f746f5a2f7c9f8a6a226ba889a20dd57ffe427b1a6df05bd516a22f099"
 metafile = true
 
 [[files]]
@@ -1224,7 +1224,7 @@ metafile = true
 
 [[files]]
 file = "mods/you-died.pw.toml"
-hash = "f2f0fb89c9a5c8a4a65433af735e765e5d15de21f0199ec8554586fd4cdd985b"
+hash = "af5115b65a9c21258e6130d742451f2c9361d9a53d687a00df6535ed9ac2b33e"
 metafile = true
 
 [[files]]
