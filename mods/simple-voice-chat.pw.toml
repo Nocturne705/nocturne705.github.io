@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3864153
 project-id = 416089
-
-[option]
-optional = true
-default = true
-description = "Proximity voice chat mod. Feel free to disable if you never want to VC or hear anyone else VC."
