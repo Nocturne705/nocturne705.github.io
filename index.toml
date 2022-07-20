@@ -127,6 +127,11 @@ hash = "f5544bc5bf4578ff88fbb4027e29ce376ba1721e916a29f3bace348c3b193828"
 metafile = true
 
 [[files]]
+file = "mods/archers-paradox.pw.toml"
+hash = "d6c61abf1ce325e6c8445b834425935c74d31d5918e88770c3579453e605f746"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b269cdcedbb3c4c24475380171b72594ea288de8254cf42fb679a65ffefe94df"
 metafile = true
@@ -262,6 +267,11 @@ hash = "6d77878b163e2e13277f6e1e1476040f3ae73fd03ab9addbc5506c143bc45420"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "bd67ae76d1e841cae232ea26ab0846bb34fa3977217b290ea3fa89ee284f3ccb"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "95f667886b65aa3df3c25f59ca916d52a33c8955a7bc53a970ec90f1d64b870b"
 metafile = true
@@ -279,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.pw.toml"
+hash = "bfa0601fac066afc2d31c84cc7cad269c018191785f971411b05e714dc72b8bb"
 metafile = true
 
 [[files]]
@@ -377,6 +392,11 @@ hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
+file = "mods/curious-armor-stands.pw.toml"
+hash = "e057da1b7112fcb9ab4d4f9066b010384af30e3c434dfc0cee913eb3dc8a7eac"
+metafile = true
+
+[[files]]
 file = "mods/curious-elytra.pw.toml"
 hash = "6d300c55dc5fc2470e5534e1b44375691d5fda85dfafcc26b86ee7c73b447f3b"
 metafile = true
@@ -463,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/entangled.pw.toml"
 hash = "0f77fdda8cddc19da0339cf172c15c92389a87df139e1ee5abb66429f6537b20"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "5401048e8d72ef09baf20606d9f93e3321f2085ffc1c523536ed38311a7e5830"
 metafile = true
 
 [[files]]
@@ -617,6 +642,11 @@ metafile = true
 [[files]]
 file = "mods/hexerei-0.1.19.jar"
 hash = "4f238721b4dabaeac6e2ff168f0c0131fb2696759c58f6482ded162f83efbf27"
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "9e2cf1803c338be65b34652f48baa0cafa5fe9874a672342eb87bdf4899a5c07"
+metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
@@ -1051,6 +1081,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "6e64cd37f0deb397c489ef73eb134d8c6da083142fa891763c6ec27225e6d581"
+metafile = true
+
+[[files]]
+file = "mods/simple-shops.pw.toml"
+hash = "aa1e35f49f9a82019b3b62a2f52f91ed9c2df9abfd5b29794c75941d1e3ffae4"
 metafile = true
 
 [[files]]

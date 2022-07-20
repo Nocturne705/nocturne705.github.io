@@ -1,6 +1,6 @@
 name = "You Died"
 filename = "YouDied-1.18.1-1.0.0.3.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3663128
 project-id = 582464
-
-[option]
-optional = true
-default = true
-description = "Added as a joke. It's funny. Arise, ye tarnished!"
