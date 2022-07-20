@@ -85,8 +85,16 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/AwesomeDungeonOcean-Forge-1.18.2-2.0.7.jar"
+hash = "10a58f2cc18daccf949ee1d2d1c56de4fb5b94506deab260e31740f7615b7d92"
+
+[[files]]
 file = "mods/JRFTL+1.18.1-1.4.1.jar"
 hash = "a3bf274cdc5560037e797f83d3419aa6b74f17f48ca34bc3af023e0a7b0ed8a4"
+
+[[files]]
+file = "mods/LibraryFerret-Forge-1.18.2-2.0.0.jar"
+hash = "e165e80e33ede0b1d3d0c056e99ac0fb4b42effc40346f4c2e589075086ddc9f"
 
 [[files]]
 file = "mods/Regrowth-1.18.2-1.40.0.30c.jar"
@@ -154,11 +162,6 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
-metafile = true
-
-[[files]]
-file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
-hash = "a98d4ebe421c9d247f192699c5522c11b66d78b5eb5770367aa65e1c44f37b70"
 metafile = true
 
 [[files]]
@@ -749,11 +752,6 @@ hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
 
 [[files]]
-file = "mods/library-ferret-forge.pw.toml"
-hash = "e359467300648079a5eba56f577cee472094f591ef99cb268145bba98009ca3d"
-metafile = true
-
-[[files]]
 file = "mods/lil-wings.pw.toml"
 hash = "a0ac0bd89c2897bc0df8e29d556f3a46aa2411471fb3b83e5c1be5b41d77a90c"
 metafile = true
@@ -834,8 +832,18 @@ hash = "a78496f7293d523580bde775b293cc14932f85ad56690e9c62af3a059f4ea250"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "5509ff135d46d354664720f02f182bda6ba8697f22b49a42a8cf02aef6112763"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "f0684891c05b13f481c137fd14a77a41614bc37e226af07e1ad42cb85221cc90"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "d234f16017228f2bd379122c731bc62496b073742cf61f1d87f24b9af4b53c15"
 metafile = true
 
 [[files]]
