@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "b10468cf5010c32e0818d9867e957f5c78eac9a7d904b1b1d64ba1d17232a227"
+hash = "2a2be83fb244476cf38734109207d14ec7b6a8864782116d9907ad271c735346"
 metafile = true
 
 [[files]]
