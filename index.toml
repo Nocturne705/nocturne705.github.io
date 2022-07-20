@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/you-died.pw.toml"
-hash = "af5115b65a9c21258e6130d742451f2c9361d9a53d687a00df6535ed9ac2b33e"
+hash = "9c141bdb357878878d53d64aa0020cf21219ecd5b46b17ec3d10f2d3400db2ff"
 metafile = true
 
 [[files]]
