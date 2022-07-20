@@ -1,13 +1,13 @@
 name = "Chunk Loaders"
-filename = "chunkloaders-1.1.12-mc1.18.jar"
+filename = "chunkloaders-1.2.0c-forge-mc1.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "62f3017d31348b74463793e333d5edcea0f0669c"
+hash = "c1fa0e91010d3bbe47ea6c061868a9ddf3de0cbc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3732985
+file-id = 3881417
 project-id = 402924
