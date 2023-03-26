@@ -105,8 +105,8 @@ file = "mods/TFB1.18.1+ForgeAnthro_Origins_v1.4.jar"
 hash = "950984e0faa34674d097006555dc0b335d8b2e56fabc8c3beff1b64e823d3a9e"
 
 [[files]]
-file = "mods/adorn-for-forge.pw.toml"
-hash = "d0b68449192bab34689139a9961cca7d62ad6c7116f26bcf9cdd78dd0e822397"
+file = "mods/adorn.pw.toml"
+hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "969a2d31821ba3270465fb119648550a223f5281e9f4e560f2bd39e2647c6d65"
+hash = "6b30af0a877a62cfe2dd9026ba4cae3cd51eee28f0f4b54a1c68f2c1e71e479a"
 metafile = true
 
 [[files]]

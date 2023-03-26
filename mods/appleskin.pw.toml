@@ -1,18 +1,18 @@
 name = "AppleSkin"
-filename = "appleskin-forge-mc1.18-2.4.0.jar"
-side = "client"
+filename = "appleskin-forge-mc1.18.2-2.4.1.jar"
+side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/forge-mc1.18.2-2.4.1/appleskin-forge-mc1.18.2-2.4.1.jar"
 hash-format = "sha1"
-hash = "36c297edae79cd9c33ce3cdb2230bc36fd9523f0"
-mode = "metadata:curseforge"
+hash = "6fa3d2485e3a7b416470ad5a3c708f1ce366195c"
 
 [update]
-[update.curseforge]
-file-id = 3686482
-project-id = 248787
+[update.modrinth]
+mod-id = "EsAfCjCV"
+version = "1P1AwANB"
 
 [option]
 optional = true
 default = true
-description = "More information about hunger and saturation is displayed."
+description = "Adds additional details to your hunger bar."
