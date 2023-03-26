@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "e5c8de888b85afd8045a4aca31b26c64010d13415f360724b23fe84ae177a6fa"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "dd3cf4fe4e7834a9b1e525e70bdb3fa640f12573f15f52220c8db84ce999253c"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "4b04c1561f73ad63b274dd4f5d9dffa06f3574a6e5649c23fade6a3f79bf8cbf"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "eb5c7e4ac9b208d70fca3d9bff2398ba8b544a459da5a815cee615b5aa67e7c0"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "506bf5d08794ece045631c48dfbbd5ea5c9e85ea5c6632f482e9d4213c2825c1"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "554c22641715900c026ed1ad36151eccb3b78241a06eed367657dfc6f6880e29"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "d85c1cd4538207987ab387130a346a717849b87655575c19a3ca473434822bab"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "a86349c5ec4865a2bc3305fddf90a8989e67d17954f00b2b5906c3f0f8f5c826"
+
+[[files]]
 file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
@@ -21,8 +53,20 @@ file = "config/pokecube/pokecube-client.toml"
 hash = "a20d0748cf8a7d2cb03d1383f4eea5fa4e44ef0e6cae5d7c2b93eff5540253d2"
 
 [[files]]
+file = "config/pokecube/pokecube-common-1.toml.bak"
+hash = "fa1466a94901909be7bc81e2cfcde0b94a2cd249673922938610d963c8567d65"
+
+[[files]]
+file = "config/pokecube/pokecube-common-2.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/pokecube/pokecube-common-3.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/pokecube/pokecube-common.toml"
-hash = "692314f0e82b9df00b9a2bf3a2a5dbbf08d5b3c8144824f42cabf28637b48d7b"
+hash = "d455cf854f4f47e6de66459f4d09fe2094df95fce59306206c6fdc936d1786f4"
 
 [[files]]
 file = "config/pokecube/pokecube_adventures-client.toml"
@@ -30,11 +74,11 @@ hash = "988cb983349341c4d2547be6e10f5251066b00eacd19b0ca40964b17b9b46c48"
 
 [[files]]
 file = "config/pokecube/pokecube_adventures-common.toml"
-hash = "5e4b9de34237b6592b1df604a210993925854a743021c2e8270359a84da0db5c"
+hash = "96d8bd8c43e1181ce4167bdffc16594f69fb706e0c27736e568c889dc8e38704"
 
 [[files]]
 file = "config/pokecube/pokecube_legends-common.toml"
-hash = "0a8ac8426efb0200b4b1503b122d401a8f4a975a9872aea6faf31ece465ab890"
+hash = "f0a3345b828f8e86f05c4d0b92c16e1d17725faa60343c61a0e7aa223053a004"
 
 [[files]]
 file = "index.html"

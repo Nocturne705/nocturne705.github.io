@@ -357,9 +357,9 @@
 	# Legendary pokemobs will not spawn naturally below this level. [Default: 1]
 	minLegendLevel = 1
 	# see mobSpawnNumber's description. [Default: 1]
-	mobDensityMultiplier = 0.5
+	mobDensityMultiplier = 1.0
 	# This number, multiplied by mobDensityMultiplier will determine how many pokemobs will spawn within maxSpawnRadius of the player, this occurs at a rate based on spawnRate. [Default: 10]
-	mobSpawnNumber = 10
+	mobSpawnNumber = 1
 	# Default radius of effect for repels, also applies to dynamax spots. [Default: 16]
 	repelRadius = 16
 	# If false, levelCap is ignored. [Default: true]
@@ -373,7 +373,7 @@
 	# This is an additional function applied to spawn lvl's after dimensionSpawnLevels, here x is the level chosen by dimensionSpawnLevels, and the output is the actual spawn lvl. [Default: "x + ceil(5*rand())"]
 	spawnLevelVariance = "x + ceil(5*rand())"
 	# This is how often the code attempts to spawn pokemobs near a player. [Default: 2]
-	spawnRate = 40
+	spawnRate = 2
 	# Enables using spawnDimWhitelist to determine if a dimension is valid for spawn. [Default: false]
 	spawnWhitelisted = false
 
