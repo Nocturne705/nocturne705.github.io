@@ -240,9 +240,8 @@ hash = "7638c6fcf4af1039a9c99717ce8fb029ba7e7bec473994565e743d26da44a516"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "fcb294ed1867ab61af110c5ff455f4b5ec8feefc41bc94b4ddad2211277479e8"
-metafile = true
+file = "mods/hexerei-0.2.2.jar"
+hash = "e05e05d76b720e15a62425fe74b32552753ce973423d1c1cdb9fed3b2ee642c8"
 
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
@@ -445,14 +444,17 @@ hash = "781ee00c579536d44ca64d44d019f0356129c9010871eda3a0747e10d607d38a"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons-pams-harvestcraft-2-crops-compat.pw.toml"
-hash = "9b2c0e87185b9be390a13f61be76dcfdc7cb571df3705c89206c7396ad6bd1ee"
-metafile = true
-
-[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
 metafile = true
+
+[[files]]
+file = "mods/sereneseasonsphc2crops-1.18.2-1.0.1.jar"
+hash = "e8980c0e743e7653d4c0234ad2d60ec79aa57557760dc30a602a974fbee856fd"
+
+[[files]]
+file = "mods/sereneseasonsphc2trees-1.18.2-1.0.0.jar"
+hash = "e86240bf45a93ba8ae7ac1149fb209b2d5fd8da864401c50be978471dc65d594"
 
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
