@@ -5,6 +5,38 @@ file = "config/iceandfire-client.toml"
 hash = "a4dcf9cc2e7f541fe73ee2f9780694cb8e9c7738a0a06e2a456453c3a47a8b9d"
 
 [[files]]
+file = "config/iceandfire-common.toml"
+hash = "eb22eae3f2fb0d90ac968f9644ed7cfa1be3b799ac9ef3685ecd6d96a505aa27"
+
+[[files]]
+file = "config/mca.json"
+hash = "20543e9ea9d5771b6187c1dc2800eb784a485f843a1f372ce5dc9d7282936ec5"
+
+[[files]]
+file = "config/pokecube-server.toml"
+hash = "349465e2d787f8a1c48b89052ab77c9e55a1fb69737d060068a9e3309815d0cc"
+
+[[files]]
+file = "config/pokecube/pokecube-client.toml"
+hash = "a20d0748cf8a7d2cb03d1383f4eea5fa4e44ef0e6cae5d7c2b93eff5540253d2"
+
+[[files]]
+file = "config/pokecube/pokecube-common.toml"
+hash = "692314f0e82b9df00b9a2bf3a2a5dbbf08d5b3c8144824f42cabf28637b48d7b"
+
+[[files]]
+file = "config/pokecube/pokecube_adventures-client.toml"
+hash = "988cb983349341c4d2547be6e10f5251066b00eacd19b0ca40964b17b9b46c48"
+
+[[files]]
+file = "config/pokecube/pokecube_adventures-common.toml"
+hash = "5e4b9de34237b6592b1df604a210993925854a743021c2e8270359a84da0db5c"
+
+[[files]]
+file = "config/pokecube/pokecube_legends-common.toml"
+hash = "0a8ac8426efb0200b4b1503b122d401a8f4a975a9872aea6faf31ece465ab890"
+
+[[files]]
 file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
