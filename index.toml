@@ -922,9 +922,8 @@ hash = "c5ade19ea7d814982761f49a1f7fcc2fbbe5d95280689cf2b3b59f2be17436cd"
 metafile = true
 
 [[files]]
-file = "mods/nocubes-sea-dwellers.pw.toml"
-hash = "200c77ff349dc8cef3d2ed235b2baad538cb306191f3c16c6163d36c22491b4c"
-metafile = true
+file = "mods/nocube's_sea_dwellers_2.1.1_forge_1.18.2.jar"
+hash = "a44317a575b4c01b6705f8320d9e25c852e94ecbd2b1508daa11881e079563de"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
