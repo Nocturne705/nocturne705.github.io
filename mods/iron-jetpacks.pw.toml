@@ -1,13 +1,13 @@
 name = "Iron Jetpacks"
-filename = "IronJetpacks-1.18.2-5.1.2.jar"
+filename = "IronJetpacks-1.18.2-5.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5afa9ae3e10f40ee8e1e0eb34c5e686da11a9d58"
+hash = "ae6639ee910c0721937224600d43c028c0268506"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3802278
+file-id = 3908627
 project-id = 284497

@@ -1,0 +1,13 @@
+name = "Pokecube Compat"
+filename = "pokecube_compat-1.18.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ecd0b2d696e6c3fc78d83405f6effdc2238233c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4094448
+project-id = 568365
