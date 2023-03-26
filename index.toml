@@ -1295,11 +1295,6 @@ hash = "49a470a4490012a5458d1198be9e69368c1dbdce38e4b55c20203e3afde2e6d5"
 metafile = true
 
 [[files]]
-file = "mods/you-died.pw.toml"
-hash = "9c141bdb357878878d53d64aa0020cf21219ecd5b46b17ec3d10f2d3400db2ff"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "1b7cd65a70f699874738e98bf2300b4406a295bcb17760d48876db19abf50c5a"
 metafile = true
