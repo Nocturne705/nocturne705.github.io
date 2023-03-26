@@ -268,6 +268,11 @@ hash = "075a70282743ae2ebd01224012873f178e4088f257969b74e35bb0db579c6611"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-for-forge.pw.toml"
+hash = "9c80875e866a2d7b58baacfeb2c6967741b43fd0594c3fcbb4eef49625cd69fb"
+metafile = true
+
+[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "668503673ef1fe263f29fa5e8358fc6bb05e54112557a3f188b26ae196443a91"
 metafile = true
