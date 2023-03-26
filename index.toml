@@ -205,12 +205,27 @@ hash = "aced05f48edc91c13726e1601f240ebc258494878162b30fda905cd2daee4a42"
 metafile = true
 
 [[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-forge-1.6.1-mc1.18.2.jar"
 hash = "2a83b7a06c234bd68f0786d7c30b9f456dbf9a70fe272a10a5cd7a01bb6e09cb"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "3018aeb9952f02e4b9333fd95f8773f2df4f1568c88649d9d63b942aefc1500e"
 metafile = true
 
 [[files]]
@@ -265,11 +280,6 @@ hash = "e05e05d76b720e15a62425fe74b32552753ce973423d1c1cdb9fed3b2ee642c8"
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "075a70282743ae2ebd01224012873f178e4088f257969b74e35bb0db579c6611"
-metafile = true
-
-[[files]]
-file = "mods/immersive-portals-for-forge.pw.toml"
-hash = "9c80875e866a2d7b58baacfeb2c6967741b43fd0594c3fcbb4eef49625cd69fb"
 metafile = true
 
 [[files]]
@@ -335,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "d949055fb4a2bd7a2026aa33f53dea2a74b423158f5d2777ae59f9175eb379c3"
 metafile = true
 
 [[files]]
