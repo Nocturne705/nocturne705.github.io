@@ -185,6 +185,11 @@ hash = "c6c15469322cb707b5ba5c5e97a079bbcb83d5836dd7572393637c1e85aa7682"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "768168107df7cbee4da06c093a7695e0cc7ff0ad49a6b63e0857515f236f19f1"
 metafile = true
@@ -205,6 +210,16 @@ hash = "aced05f48edc91c13726e1601f240ebc258494878162b30fda905cd2daee4a42"
 metafile = true
 
 [[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "0dea56eed4dcc7157302c9f61bc993d1cfabbb5b5ddb30ba0ff25af281c77756"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
@@ -215,6 +230,16 @@ hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "3018aeb9952f02e4b9333fd95f8773f2df4f1568c88649d9d63b942aefc1500e"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "9662e5cd152f99293561b00a306bb61b972021e9e6f2ed5c319a8ffb2f301c27"
 metafile = true
@@ -222,6 +247,21 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "fbb72b9320257e8cb9381d647f5cecd1f751a041e86408356d81b77aac47ce80"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d407624e38c852ade10d8bf4de6949bc935d6d7a23079f5602986296c21ac1c6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "1c1e5702853d4c4245b4a47f5899e03c073baa20db70a8b0fb2c1e2fda9e0c52"
 metafile = true
 
 [[files]]
@@ -266,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "f6ffb965fad02d743ae32dc70d01656f5e5174b8b5afcfddc6fd0cc3b6a4f050"
+metafile = true
+
+[[files]]
+file = "mods/it-shall-not-tick.pw.toml"
+hash = "e3ec03d20fceb3e9ef56bad1e8ccb245709acd0ac54d255e6d999ff5d5122664"
 metafile = true
 
 [[files]]
@@ -354,6 +399,11 @@ hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "f46ec2006e42e40b9d561c2a7ac39bb38d86728b7117784dd81c5c0ac15e0ce9"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes-forge.pw.toml"
 hash = "719eed11183e478cf8f228e93e778fe652dc2a9703c5cb5ef685bc0b8ed9fce1"
 metafile = true
@@ -429,6 +479,11 @@ hash = "ee8ef99ac73281f974a2e4688c933cd1369698a567b4a28f68c310389e8ba586"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "fb77d538004a30c70e644413abce31a9b72edaeaf6baad799129039717d8a8b4"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "b8e36189e8de79f382ee64c19413492e517fd4ca1f4fb9dd8efc09a05b2d16c1"
 metafile = true
@@ -489,6 +544,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
 metafile = true
 
 [[files]]
