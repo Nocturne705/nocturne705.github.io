@@ -134,6 +134,11 @@ hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
 
 [[files]]
+file = "mods/bee-fix.pw.toml"
+hash = "8154f17e65db17512b75910fac17692513a7cff138f283995d9d47ae1f502d00"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "2122a8e7c979649586f69ad7d67bc9e7765c4495147f8f93f4d86237c095eed8"
 metafile = true
@@ -323,8 +328,18 @@ hash = "3018aeb9952f02e4b9333fd95f8773f2df4f1568c88649d9d63b942aefc1500e"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "c33344b3c9c63b5ab28ed036257b46a7b7b952a5934df96ef496772ce54405ba"
 metafile = true
 
 [[files]]
@@ -512,6 +527,11 @@ hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
 metafile = true
 
 [[files]]
+file = "mods/notimeoutnomore.pw.toml"
+hash = "0348372dcb62bea272ad030dd52219a1cda4b4ecc7a00afe3b07f46a8dc5d839"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f46ec2006e42e40b9d561c2a7ac39bb38d86728b7117784dd81c5c0ac15e0ce9"
 metafile = true
@@ -574,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
+metafile = true
+
+[[files]]
+file = "mods/potion-id-packet-fixer.pw.toml"
+hash = "ed7238c78468ae51067421956f1ec6665a5fad7b9079a95d5726b16430ff8334"
 metafile = true
 
 [[files]]
@@ -702,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "59e4f827ee3454a896f49ec72a98c4dad7de3a329bab60f6f73be54aca66f5e1"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
 metafile = true
 
 [[files]]
