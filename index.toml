@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "9f18c337b5c064f2a7f553c13dcb9f98d4d2cecb75833e8db4f21e5c5422138c"
+hash = "14af17e7586d8f8da2a4ec3844f5b0b41c47e565068eeedbf38e3ce2e71b5738"
 metafile = true
 
 [[files]]
@@ -623,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "373b8e3c0ffb6fb4a11eab28f76471a29e7293fe8169261d0ef32d4d4497f5a3"
 metafile = true
 
 [[files]]

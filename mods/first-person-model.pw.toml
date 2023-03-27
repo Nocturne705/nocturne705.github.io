@@ -1,13 +1,13 @@
-name = "First-person Model (Forge/Fabric)"
-filename = "firstperson-forge-2.2.2-mc1.18.2.jar"
+name = "First Person Model"
+filename = "firstperson-forge-2.1.0-mc1.18.jar"
 side = "client"
 
 [download]
+url = "https://nocturne705.github.io/firstperson-forge-2.1.0-mc1.18.jar"
 hash-format = "sha1"
-hash = "1d55134655e55d6fde1c718e3d427b9415d6d126"
-mode = "metadata:curseforge"
+hash = "5AD6B3DD8840169EE48D1DCEC882E5067FEE5996"
 
-[update]
-[update.curseforge]
-file-id = 4327736
-project-id = 333287
+[option]
+optional = true
+default = false
+description = "Renders your model while in first person so you can see yourself. You MUST also activate Not Enough Animations!"
