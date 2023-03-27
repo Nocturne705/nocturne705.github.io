@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
-hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+hash = "1a3346fde6ccc13e64a4baceb24fd271657964b83c09a00526e55180653a9e09"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/flickerfix.pw.toml"
-hash = "c33344b3c9c63b5ab28ed036257b46a7b7b952a5934df96ef496772ce54405ba"
+hash = "710b15c7e7e7d7d3e88e4ca2c8658583b8ba1d67fe5259a348c40b3ba1c2755e"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
+hash = "82dea982dea53670799f335e3a4fe19aed7952c00295768fda5c54673751900e"
 metafile = true
 
 [[files]]
@@ -726,12 +726,12 @@ metafile = true
 
 [[files]]
 file = "mods/too-fast.pw.toml"
-hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
+hash = "0e15ac6d04517e3cfc732345d95ca5fbd0c4b14839b2fa7fc45fc77701acfbbe"
 metafile = true
 
 [[files]]
 file = "mods/travelers-titles.pw.toml"
-hash = "42aff0502a35273e17459fc9139aa31f621241999901c7f1b750eb2920360d2a"
+hash = "13f8109e8a1c15d11b50dc4c4c743d45366e47928614c5868952a2afc738788c"
 metafile = true
 
 [[files]]
