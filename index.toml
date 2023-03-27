@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterloadingscreen.pw.toml"
-hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
+hash = "28e8168a20c3e921253d1b4e967b763b04c4363c7ea9a26a1fbe27eb2d4afdf6"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "63f1ab59061fb126cdabf39d74329ca1831e761b798c8aed0a79816c3874c04c"
+hash = "2cc77c7cd14d666f9a8de5678d541618035ec16f403c195a0e2d0ac43be1fa69"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"
-hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
+hash = "72fb1aee0a9fc8b3f032bc1d769709a8bc5eec3b1776d9430d22b6d1d0d3a546"
 metafile = true
 
 [[files]]
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "426f0d35175570a187ae2bad9d9cd33690e1354f59f738b408e93702afc62565"
+hash = "fe777deab5f0e8fa62eca66bd262c6e997ba5d8dab0f4cc74d291c0f834eb5b0"
 metafile = true
 
 [[files]]
@@ -592,11 +592,6 @@ hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
 
 [[files]]
-file = "mods/potion-id-packet-fixer.pw.toml"
-hash = "ed7238c78468ae51067421956f1ec6665a5fad7b9079a95d5726b16430ff8334"
-metafile = true
-
-[[files]]
 file = "mods/progressive-bosses.pw.toml"
 hash = "1e2403bbb9d3016a784f0b06e52bde44733eb527cc0d2e580bd29838e2ebbacc"
 metafile = true
@@ -656,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "a535eb60e567b0fe64b3a8caccb4b9529c79c2c9c486862d1183750661354656"
+hash = "1ab8c8f20929761ac7bdd308c47c38e55758e578e70d2265bf19ad692ba1f58c"
 metafile = true
 
 [[files]]
