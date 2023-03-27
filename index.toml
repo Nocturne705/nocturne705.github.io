@@ -34,7 +34,7 @@ hash = "a86349c5ec4865a2bc3305fddf90a8989e67d17954f00b2b5906c3f0f8f5c826"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
-hash = "2e4fa64f1463f346c116ee1f80f7a48e4c5d6dcdabea8c256ec8be710c55785c"
+hash = "b7ac6a7f68af6d7e3013e47d2de9f08b40d3471caf23a3a453dd13f9be1208b6"
 
 [[files]]
 file = "config/iceandfire-client.toml"
