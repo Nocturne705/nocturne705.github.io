@@ -720,11 +720,6 @@ hash = "8412a5e41ccbbbe1434171e83456d1f3d6171566ee446acedacf5089d217b9bf"
 metafile = true
 
 [[files]]
-file = "mods/werewolves-become-a-beast.pw.toml"
-hash = "e91aed5e2f2160ad2887da9c9cd98134e25ccab40e405ab737cba067f4983070"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "01399fef27404a511bfc9b6dad93773e1847c394e86d258d4fa1f3ef9171288c"
 metafile = true
