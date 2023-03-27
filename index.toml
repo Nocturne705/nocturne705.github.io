@@ -81,6 +81,10 @@ file = "config/pokecube/pokecube_legends-common.toml"
 hash = "f0a3345b828f8e86f05c4d0b92c16e1d17725faa60343c61a0e7aa223053a004"
 
 [[files]]
+file = "config/vampirism-common.toml"
+hash = "2f2fc80cb1e28a5fa4f4ea543593c13f47a47a478c651b565588987a595cbe02"
+
+[[files]]
 file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
@@ -366,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "7638c6fcf4af1039a9c99717ce8fb029ba7e7bec473994565e743d26da44a516"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "2fb1be79501f182d47fae6147b2401749f69250418cff7d6220f54d5e084b1b3"
 metafile = true
 
 [[files]]
@@ -708,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "8412a5e41ccbbbe1434171e83456d1f3d6171566ee446acedacf5089d217b9bf"
+metafile = true
+
+[[files]]
+file = "mods/werewolves-become-a-beast.pw.toml"
+hash = "e91aed5e2f2160ad2887da9c9cd98134e25ccab40e405ab737cba067f4983070"
 metafile = true
 
 [[files]]
