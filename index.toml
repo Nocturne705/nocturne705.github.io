@@ -287,6 +287,11 @@ hash = "633caf2970e18e1e99bd8d791ffb75f37f3fd5163d0f0ee1aa0636fdb249b66f"
 metafile = true
 
 [[files]]
+file = "mods/creeper-confetti.pw.toml"
+hash = "c7cb77657e09eb58afd7ac7a1431f0bd097a796eebac01ea6e2d0c61f1d011f7"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "58424badda6989de55a21585f4a7d1c9150edb23a0c82ff27f6f713e4618d581"
 metafile = true
@@ -433,11 +438,6 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
-metafile = true
-
-[[files]]
-file = "mods/forge-creeper-heal-unofficial.pw.toml"
-hash = "089d35a5bdd28857caf46682b3b09632e53731ae32c076e0bc4f37f812adb0f7"
 metafile = true
 
 [[files]]
