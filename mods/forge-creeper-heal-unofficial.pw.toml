@@ -1,0 +1,13 @@
+name = "Forge Creeper Heal [Unofficial]"
+filename = "CreeperHeal-1.18.1-2.0.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "0e1cc4ef4fe7de264c06d1425ca3c31b74de4532"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3652212
+project-id = 246973
