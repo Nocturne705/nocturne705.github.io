@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-forge.pw.toml"
-hash = "d0122c5b94c5f79de11c24da6bc12b0cd6c36ca6ef68b6aa55a191dde0989cf0"
+hash = "36bf28a4e72c977c24c0b4ccd51590ad3505b2985079d8fbfe182d893be53b6a"
 metafile = true
 
 [[files]]
