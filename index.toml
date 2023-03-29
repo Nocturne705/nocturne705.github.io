@@ -49,6 +49,22 @@ file = "config/mca.json"
 hash = "20543e9ea9d5771b6187c1dc2800eb784a485f843a1f372ce5dc9d7282936ec5"
 
 [[files]]
+file = "config/openloader/data/Shmeat.zip"
+hash = "44dab07afc4f31fa999bdd1d0b32a2f30d7fa0cd4f75b126e41812817ce4e88c"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp.zip"
+hash = "2e2ace4b18bd08b3360e2c016e0f0b4e2415f28dabe6c24c6388493132d2b52b"
+
+[[files]]
+file = "config/openloader/data/jaded_music_rp.zip"
+hash = "2abc6474124beb600987a2020645c893668a32339f69d402c981d3a085c58a23"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2.zip"
+hash = "4ae62c3f15ff27850523d913ccc490b8f4f1c300674430973b2b31624febfb0f"
+
+[[files]]
 file = "config/origins-common.toml"
 hash = "b22708766e9ac368508b20c78f7d8e408bde3700de2284572b7b243599091709"
 
@@ -684,6 +700,11 @@ hash = "f46ec2006e42e40b9d561c2a7ac39bb38d86728b7117784dd81c5c0ac15e0ce9"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes-forge.pw.toml"
 hash = "719eed11183e478cf8f228e93e778fe652dc2a9703c5cb5ef685bc0b8ed9fce1"
 metafile = true
@@ -989,6 +1010,16 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "0e15ac6d04517e3cfc732345d95ca5fbd0c4b14839b2fa7fc45fc77701acfbbe"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "b05f6b58ef441c7d352d0cef840813c33441f80c70bd04c5c4409fc4f9499726"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "b9dacfb1a5e2f9a3372801cf515326e99c9ebd2a25086d2d2d4848a76ced176f"
 metafile = true
 
 [[files]]
