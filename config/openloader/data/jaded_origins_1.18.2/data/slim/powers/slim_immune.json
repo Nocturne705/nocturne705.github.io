@@ -1,0 +1,9 @@
+{
+    "name": "Poison Immunity",
+    "description": "You can digest nearly anything are immune to any kind of poison or sickness.",
+    "type": "origins:effect_immunity",
+    "effects": [
+        "minecraft:poison",
+        "minecraft:hunger"
+    ]
+}

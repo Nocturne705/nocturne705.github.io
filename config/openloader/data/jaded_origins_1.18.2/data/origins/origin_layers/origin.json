@@ -1,0 +1,7 @@
+{
+    "origins": [
+        "slim:slime"
+    ],
+    "enabled": true,
+    "replace": false
+}
