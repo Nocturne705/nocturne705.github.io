@@ -50,7 +50,7 @@ hash = "20543e9ea9d5771b6187c1dc2800eb784a485f843a1f372ce5dc9d7282936ec5"
 
 [[files]]
 file = "config/origins-common.toml"
-hash = "45f40cf9ee11641ac3bffba0d7196dcd05fb18709ff6359a53e7f0842eadbe0b"
+hash = "b22708766e9ac368508b20c78f7d8e408bde3700de2284572b7b243599091709"
 
 [[files]]
 file = "config/pokecube-server.toml"

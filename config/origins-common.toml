@@ -168,5 +168,5 @@
 	[origins."origins-classes:lumberjack"]
 		"origins-classes:tree_felling" = true
 		enabled = true
-		"origins-classes:more_planks_from_logs" = true
+		"origins-classes:more_planks_from_logs" = false
 
