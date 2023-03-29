@@ -1002,11 +1002,6 @@ hash = "4e10abf415163f490fe3ca8f353b7564dd97086b8d89c84e3e8edccf2a027799"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "7dfb918a920c3bb82a663a71571e9da813fe633ba04ea2cfb4b040c6ab0a2705"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "8412a5e41ccbbbe1434171e83456d1f3d6171566ee446acedacf5089d217b9bf"
 metafile = true
