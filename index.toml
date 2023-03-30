@@ -50,7 +50,7 @@ hash = "20543e9ea9d5771b6187c1dc2800eb784a485f843a1f372ce5dc9d7282936ec5"
 
 [[files]]
 file = "config/openloader/data/Shmeat/data/origins/tags/items/meat.json"
-hash = "afaff46031e246c2682d16ce59181e162249335c63d8fa6cc436be83eda055ef"
+hash = "8c5a625635355e7bb3c5c4f6db3c4c45db9c6e5b342edcb8fa26caae32a6a0e2"
 
 [[files]]
 file = "config/openloader/data/Shmeat/pack.mcmeta"
@@ -891,14 +891,12 @@ hash = "d0122c5b94c5f79de11c24da6bc12b0cd6c36ca6ef68b6aa55a191dde0989cf0"
 metafile = true
 
 [[files]]
-file = "mods/pams-harvestcraft-2-crops.pw.toml"
-hash = "17e2beb989d98c665354decdfc2ad34689278757c43514750e4f718d65e65316"
-metafile = true
+file = "mods/pamhc2crops-1.18.2-1.0.5.jar"
+hash = "a4d9d2bceb8e52773ce4af352210c9730edb7c007994ce409e555ed7b406cf4b"
 
 [[files]]
-file = "mods/pams-harvestcraft-2-food-core.pw.toml"
-hash = "a5086ac61a4d229bdb0713129bb27e33dbd0fde9318b2143789a668e05740a26"
-metafile = true
+file = "mods/pamhc2foodcore-1.18.2-1.0.0.jar"
+hash = "d4941cff1f1e3645cea3df0e040e2bf80e8e3f903ab0c98729f6c711e8166aca"
 
 [[files]]
 file = "mods/pams-harvestcraft-2-food-extended.pw.toml"

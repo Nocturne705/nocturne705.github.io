@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-        "evilcraft:flesh_humanoid",
         "artifacts:eternal_steak",
         "undergarden:dweller_steak",
         "undergarden:raw_dweller_meat",
