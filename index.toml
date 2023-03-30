@@ -50,7 +50,7 @@ hash = "20543e9ea9d5771b6187c1dc2800eb784a485f843a1f372ce5dc9d7282936ec5"
 
 [[files]]
 file = "config/openloader/data/Shmeat/data/origins/tags/items/meat.json"
-hash = "8c5a625635355e7bb3c5c4f6db3c4c45db9c6e5b342edcb8fa26caae32a6a0e2"
+hash = "596e85d6071c48166f366e16ff962bbb54e2df577e7884355adba734ede2c806"
 
 [[files]]
 file = "config/openloader/data/Shmeat/pack.mcmeta"
