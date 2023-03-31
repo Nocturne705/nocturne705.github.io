@@ -1157,6 +1157,11 @@ hash = "2633ab7dadfa500ffe019619777c89707e023549779c8fd85b8b29eadd271b32"
 metafile = true
 
 [[files]]
+file = "mods/tetratic-combat.pw.toml"
+hash = "14ad23ee6d5a47fbb67c26253350e383377a854cd38d4f40e9ef11e6e24c6257"
+metafile = true
+
+[[files]]
 file = "mods/tfb-anthro-origins.pw.toml"
 hash = "13151b06db5fe01c9aa7860fd1fa866599da6bf747c69e6e28385934002ce07b"
 metafile = true
