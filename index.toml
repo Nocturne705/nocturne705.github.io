@@ -673,11 +673,6 @@ hash = "5a6f56b01fec58c6737c31ff17e967ddb15a8d7959d0a25b9aa673e6981713cc"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "8685740adfb2f4a19aa0a825be66bef0c4885f608e247aa7ca9a0caa87e42a49"
-metafile = true
-
-[[files]]
 file = "mods/fakename.pw.toml"
 hash = "2419e2238fc062f893b28e9903270d1250ccc7475e056c841d57774feb0e2271"
 metafile = true
