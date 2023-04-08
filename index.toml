@@ -544,11 +544,6 @@ hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
-hash = "39d9308e51d8ca2df0cbc782eb7f39a7bb3a90b1f70a77f5fdb884b7cad0fbae"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "633caf2970e18e1e99bd8d791ffb75f37f3fd5163d0f0ee1aa0636fdb249b66f"
 metafile = true
@@ -730,11 +725,6 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
-metafile = true
-
-[[files]]
-file = "mods/forge-creeper-heal-unofficial.pw.toml"
-hash = "089d35a5bdd28857caf46682b3b09632e53731ae32c076e0bc4f37f812adb0f7"
 metafile = true
 
 [[files]]
