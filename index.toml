@@ -544,6 +544,11 @@ hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "39d9308e51d8ca2df0cbc782eb7f39a7bb3a90b1f70a77f5fdb884b7cad0fbae"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "633caf2970e18e1e99bd8d791ffb75f37f3fd5163d0f0ee1aa0636fdb249b66f"
 metafile = true
@@ -1370,11 +1375,6 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "59f57c0dc8838a3111cfb0c39aada7aeadf5e65046e64ea52a906d5b7d7fd9b2"
-metafile = true
-
-[[files]]
-file = "mods/you-died.pw.toml"
-hash = "8ba7337d7b72fdb1826d151ac377e935a6dfa5805f96c80be396b331422f6688"
 metafile = true
 
 [[files]]
