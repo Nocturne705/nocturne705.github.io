@@ -81,14 +81,6 @@ file = "config/occultism-common.toml"
 hash = "e2dfcc408e0dd025658410ce76ea6a87683d0d26d4fbad856c9c3c25d3467ce5"
 
 [[files]]
-file = "config/openloader/data/Jaded-Tips.zip"
-hash = "77ef08f37a5a0f3cf399832225a7ba88091b46b8fb8d86e2e9d4c41fb06ef0da"
-
-[[files]]
-file = "config/openloader/data/Shmeat.zip"
-hash = "44dab07afc4f31fa999bdd1d0b32a2f30d7fa0cd4f75b126e41812817ce4e88c"
-
-[[files]]
 file = "config/openloader/data/Shmeat/data/origins/tags/items/meat.json"
 hash = "596e85d6071c48166f366e16ff962bbb54e2df577e7884355adba734ede2c806"
 
@@ -99,14 +91,6 @@ hash = "9839c23ef48bd61142ff8e7e19077691aec3d86ce042638872a424568a3ce595"
 [[files]]
 file = "config/openloader/data/Shmeat/pack.png"
 hash = "c0c1980ce6f5de68a7063c454185aa219a7bb992a241e3dd5abeec2a43ae0365"
-
-[[files]]
-file = "config/openloader/data/jaded_music_dp.toml"
-hash = "14af17e7586d8f8da2a4ec3844f5b0b41c47e565068eeedbf38e3ce2e71b5738"
-
-[[files]]
-file = "config/openloader/data/jaded_music_dp.zip"
-hash = "2e2ace4b18bd08b3360e2c016e0f0b4e2415f28dabe6c24c6388493132d2b52b"
 
 [[files]]
 file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/detect_play_tick.mcfunction"
@@ -179,14 +163,6 @@ hash = "de99c13bd7316f9dd2e54320b2f73f7f6314e2815b7a4ed00ecb64aea333778c"
 [[files]]
 file = "config/openloader/data/jaded_music_dp/pack.png"
 hash = "91234459c5b4ebb46079bc03185f8d5099139421b7f510283a9315f32386bc3f"
-
-[[files]]
-file = "config/openloader/data/jaded_music_rp.zip"
-hash = "2abc6474124beb600987a2020645c893668a32339f69d402c981d3a085c58a23"
-
-[[files]]
-file = "config/openloader/data/jaded_origins_1.18.2.zip"
-hash = "4ae62c3f15ff27850523d913ccc490b8f4f1c300674430973b2b31624febfb0f"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origin_layers/origin.json"
