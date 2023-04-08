@@ -329,11 +329,6 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d421a9c736f6ab7f695bde6f599fe5f54f7b931361a2aac6be3e3f0a1d69b125"
 metafile = true
@@ -396,11 +391,6 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.pw.toml"
-hash = "060665ce200da0e1ff92de80bf5e49954ce12956cc179445ae190b3be25bf3d3"
 metafile = true
 
 [[files]]
@@ -797,11 +787,6 @@ hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-for-forge.pw.toml"
-hash = "9c80875e866a2d7b58baacfeb2c6967741b43fd0594c3fcbb4eef49625cd69fb"
-metafile = true
-
-[[files]]
 file = "mods/insanelib.pw.toml"
 hash = "668503673ef1fe263f29fa5e8358fc6bb05e54112557a3f188b26ae196443a91"
 metafile = true
@@ -1080,11 +1065,6 @@ hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
 
 [[files]]
-file = "mods/potion-id-packet-fixer.pw.toml"
-hash = "ed7238c78468ae51067421956f1ec6665a5fad7b9079a95d5726b16430ff8334"
-metafile = true
-
-[[files]]
 file = "mods/potionsmaster.pw.toml"
 hash = "171f24638c44e62384c313394cb4253179ec86f5a8aa63f23b31a928408bab4b"
 metafile = true
@@ -1355,11 +1335,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "8412a5e41ccbbbe1434171e83456d1f3d6171566ee446acedacf5089d217b9bf"
-metafile = true
-
-[[files]]
-file = "mods/werewolves-become-a-beast.pw.toml"
-hash = "e91aed5e2f2160ad2887da9c9cd98134e25ccab40e405ab737cba067f4983070"
 metafile = true
 
 [[files]]
