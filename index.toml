@@ -673,11 +673,6 @@ hash = "5a6f56b01fec58c6737c31ff17e967ddb15a8d7959d0a25b9aa673e6981713cc"
 metafile = true
 
 [[files]]
-file = "mods/fakename.pw.toml"
-hash = "2419e2238fc062f893b28e9903270d1250ccc7475e056c841d57774feb0e2271"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
@@ -1375,6 +1370,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "59f57c0dc8838a3111cfb0c39aada7aeadf5e65046e64ea52a906d5b7d7fd9b2"
+metafile = true
+
+[[files]]
+file = "mods/you-died.pw.toml"
+hash = "8ba7337d7b72fdb1826d151ac377e935a6dfa5805f96c80be396b331422f6688"
 metafile = true
 
 [[files]]
