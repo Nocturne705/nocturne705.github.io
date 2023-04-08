@@ -598,11 +598,6 @@ hash = "3a8d358a588c207aef11b3205dad09bdb81aac0da6cbd8b0529eb4a756ce0ea2"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "e7ebacbe9b1e9e28435942df0856e8a6ec8355462058afd846a02e28d6e7ee46"
-metafile = true
-
-[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
 metafile = true
