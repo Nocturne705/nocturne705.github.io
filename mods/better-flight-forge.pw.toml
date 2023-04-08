@@ -1,0 +1,13 @@
+name = "Better Flight [Forge]"
+filename = "betterflight-forge-1.18-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32a1274acd3285126116f9e2670181d3ae288f81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3769512
+project-id = 606010

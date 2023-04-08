@@ -1,0 +1,18 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_22.12.0_Forge_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36508f14bdff1cdad68d7fd14df47cc71f609ec5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3876770
+project-id = 263420
+
+[option]
+optional = true
+description = "Adds a minimap + waypoint system to the upper left of your screen."
+default = true

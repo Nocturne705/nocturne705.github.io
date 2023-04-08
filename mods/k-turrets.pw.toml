@@ -1,0 +1,13 @@
+name = "K-Turrets"
+filename = "K-Turrets-1.1.10-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecaaad4aa4be89e843ac56fce946f53c7a924186"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3838319
+project-id = 536437
