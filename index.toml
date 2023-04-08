@@ -433,11 +433,6 @@ hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
 
 [[files]]
-file = "mods/bee-fix.pw.toml"
-hash = "8154f17e65db17512b75910fac17692513a7cff138f283995d9d47ae1f502d00"
-metafile = true
-
-[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "d3c90b5e0e58325fb7d3e2da2eee63fd5f6c8592261dd17ff9ba6e02c365a69f"
 metafile = true
@@ -692,11 +687,6 @@ file = "mods/entityculling-forge-1.6.1-mc1.18.2.jar"
 hash = "2a83b7a06c234bd68f0786d7c30b9f456dbf9a70fe272a10a5cd7a01bb6e09cb"
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "0dea56eed4dcc7157302c9f61bc993d1cfabbb5b5ddb30ba0ff25af281c77756"
-metafile = true
-
-[[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
 hash = "79792731229f2acb883cfd1a0ff4c7442c78309786e39213407216d93d18a3c9"
 metafile = true
@@ -829,11 +819,6 @@ metafile = true
 [[files]]
 file = "mods/hexerei-0.2.2.jar"
 hash = "e05e05d76b720e15a62425fe74b32552753ce973423d1c1cdb9fed3b2ee642c8"
-
-[[files]]
-file = "mods/hexerei.pw.toml"
-hash = "fcb294ed1867ab61af110c5ff455f4b5ec8feefc41bc94b4ddad2211277479e8"
-metafile = true
 
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
@@ -1211,11 +1196,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons-pams-harvestcraft-2-crops-compat.pw.toml"
-hash = "9b2c0e87185b9be390a13f61be76dcfdc7cb571df3705c89206c7396ad6bd1ee"
 metafile = true
 
 [[files]]
