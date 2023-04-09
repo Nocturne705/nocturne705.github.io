@@ -570,6 +570,11 @@ hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "39d9308e51d8ca2df0cbc782eb7f39a7bb3a90b1f70a77f5fdb884b7cad0fbae"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "633caf2970e18e1e99bd8d791ffb75f37f3fd5163d0f0ee1aa0636fdb249b66f"
 metafile = true
@@ -1113,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/pluto.pw.toml"
 hash = "b341fd8fba1905b7cab64f9c5b85d205bcb5e16b3d1b6097a0b5ae7ed7895646"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "4460c05de465c067af9b8ae8373eca9ed22805ee3316a089899441e1471454eb"
 metafile = true
 
 [[files]]
