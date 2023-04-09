@@ -329,6 +329,18 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/3dskinlayers-forge-1.5.2-mc1.18.2.jar"
+hash = "923dafa77c5b2572c32f1babd14a3654cedd68f751640fbf69974e92e284befd"
+
+[[files]]
+file = "mods/BrassAmberBattleTowers-1.18.2-2.3.5(1).jar"
+hash = "9d1b2e345fdd8a627c653b7552b7dceb4e2ea5983df42d8293c1d8af70e0d4e0"
+
+[[files]]
+file = "mods/BuddiesForBaby-1.18.2-v2.2.0(1).jar"
+hash = "4efc3828b38f8ede4ea61fa5725536613c69acb8180a89f8368995d4a5ed4676"
+
+[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "3986ffbaaddfb4a97d826e37bbc9a734724074679c7a9fe1ff4de9d0eca2abcb"
 metafile = true
@@ -399,9 +411,8 @@ hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
-file = "mods/awesome-dungeon-the-end-forge.pw.toml"
-hash = "329ef9cf0b519f327455d911ae2c231cc02303ec54998e85cf20833c8acbe9a5"
-metafile = true
+file = "mods/awesomedungeonend-forge-1.18.2-3.1.1(1).jar"
+hash = "814631c87db55ad777542811c0d94e043ab0fe8e91ae670f894fc24586ba96ea"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -456,16 +467,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "53fb2cfb3988b88b9587a5a0ba4b5612d7f26a989b05c911975f6af7be343364"
-metafile = true
-
-[[files]]
-file = "mods/brassamberbattletowers.pw.toml"
-hash = "156f20e301c99d84367017136ed28a3df34f9412e420bfc0f50a33044db0082a"
-metafile = true
-
-[[files]]
-file = "mods/buddies-for-baby.pw.toml"
-hash = "e7fc8763ac1c0227b66acd89ad7dac67de4ec26bc41b93fbbc10fc646fa1a710"
 metafile = true
 
 [[files]]
@@ -1280,11 +1281,6 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "49148fc0eda2e7bbd95f0311bdef62604bdcaa4e8e48975350a3523a80b2be78"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "f94010836c666619582c0e21b2bd08448ba61aa99060a8fbce504c7cbd815b24"
 metafile = true
 
 [[files]]
