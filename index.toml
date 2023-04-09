@@ -995,16 +995,6 @@ file = "mods/pamhc2foodcore-1.18.2-1.0.0.jar"
 hash = "d4941cff1f1e3645cea3df0e040e2bf80e8e3f903ab0c98729f6c711e8166aca"
 
 [[files]]
-file = "mods/pams-harvestcraft-2-crops.pw.toml"
-hash = "17e2beb989d98c665354decdfc2ad34689278757c43514750e4f718d65e65316"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-food-core.pw.toml"
-hash = "a5086ac61a4d229bdb0713129bb27e33dbd0fde9318b2143789a668e05740a26"
-metafile = true
-
-[[files]]
 file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
 hash = "beec8f7f650ee7afb5db43eeecf08b2a41271aeb7bb88852181726c7ab2106c8"
 metafile = true
