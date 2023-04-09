@@ -658,6 +658,11 @@ hash = "3018aeb9952f02e4b9333fd95f8773f2df4f1568c88649d9d63b942aefc1500e"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
 metafile = true
@@ -1205,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/tfb-anthro-origins.pw.toml"
 hash = "13151b06db5fe01c9aa7860fd1fa866599da6bf747c69e6e28385934002ce07b"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-forge.pw.toml"
+hash = "6b7f381e924452d52d0a05ceb05c61c32f27bd852e6ce726af961d0a8ca5c79e"
 metafile = true
 
 [[files]]
