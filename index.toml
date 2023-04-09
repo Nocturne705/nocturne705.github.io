@@ -409,11 +409,6 @@ hash = "2122a8e7c979649586f69ad7d67bc9e7765c4495147f8f93f4d86237c095eed8"
 metafile = true
 
 [[files]]
-file = "mods/better-flight-forge.pw.toml"
-hash = "ca128a3764143295dacea2b954694dd8ceb60d8908211a758aec0eb5f2e5c4bd"
-metafile = true
-
-[[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "d3b4b68aa24016f89b31af6fd11483aa2e367995c8c94fc19e95dab70ac8cafc"
 metafile = true
@@ -466,11 +461,6 @@ metafile = true
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "3a8d358a588c207aef11b3205dad09bdb81aac0da6cbd8b0529eb4a756ce0ea2"
-metafile = true
-
-[[files]]
-file = "mods/chunk-loaders.pw.toml"
-hash = "5e4e94fdf50f2c4422eed1b35390d535d99439fe9a78dd3e49dd142fcdbc85d8"
 metafile = true
 
 [[files]]
@@ -531,11 +521,6 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "39d9308e51d8ca2df0cbc782eb7f39a7bb3a90b1f70a77f5fdb884b7cad0fbae"
 metafile = true
 
 [[files]]
@@ -609,18 +594,8 @@ hash = "b9a21042c55e75256e733b18b41223111e27b5af4bdb45f2570f1b7be3c9b2d3"
 metafile = true
 
 [[files]]
-file = "mods/elenai-dodge-2.pw.toml"
-hash = "bad78afd332f429933a7d7ee29a6fcc4dd94fd513e1f3745d62379e5f6896e94"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "768168107df7cbee4da06c093a7695e0cc7ff0ad49a6b63e0857515f236f19f1"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "9698d77c462cbf16a5c3db9bc3cea684b36f3a26ef9320683f38c9525c678948"
 metafile = true
 
 [[files]]
@@ -680,16 +655,6 @@ metafile = true
 [[files]]
 file = "mods/fastload.pw.toml"
 hash = "3018aeb9952f02e4b9333fd95f8773f2df4f1568c88649d9d63b942aefc1500e"
-metafile = true
-
-[[files]]
-file = "mods/feathers.pw.toml"
-hash = "394f2f3fd257d658eb9c4e200d3544680efc0291148329c9491320d65449cdcf"
-metafile = true
-
-[[files]]
-file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
 metafile = true
 
 [[files]]
@@ -779,11 +744,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "26957cccd2e46d96b644f016aac4517184a537aa09d4e433abd767c1211dac05"
-metafile = true
-
-[[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
 metafile = true
 
 [[files]]
@@ -897,11 +857,6 @@ hash = "7b48ece27a713b4970857de27240b8ef354daa5dcad79f7f88703420808efa0b"
 metafile = true
 
 [[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "5ef2b2667a010d74129fdc7a7bc3703f1f8a764505019ecd17b9e1b5f37d09bd"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
 metafile = true
@@ -959,11 +914,6 @@ metafile = true
 [[files]]
 file = "mods/notimeoutnomore.pw.toml"
 hash = "0348372dcb62bea272ad030dd52219a1cda4b4ecc7a00afe3b07f46a8dc5d839"
-metafile = true
-
-[[files]]
-file = "mods/occultism.pw.toml"
-hash = "18b54eafebc81d2951877d1f921c98440af0da0cac4ed786b6f5ba1a2bcedd1c"
 metafile = true
 
 [[files]]
@@ -1115,11 +1065,6 @@ hash = "54127ed84ded9857c926c4d841d8c92b4e7d83bd02a08d0b28f60f7ccb509293"
 metafile = true
 
 [[files]]
-file = "mods/savage-ender-dragon.pw.toml"
-hash = "781ee00c579536d44ca64d44d019f0356129c9010871eda3a0747e10d607d38a"
-metafile = true
-
-[[files]]
 file = "mods/sebastrnlib.pw.toml"
 hash = "cd7a5339652c81f9e489b07036ca24a435c4c8ce87e91c3c2c47c36f7fc604dd"
 metafile = true
@@ -1180,11 +1125,6 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "49148fc0eda2e7bbd95f0311bdef62604bdcaa4e8e48975350a3523a80b2be78"
-metafile = true
-
-[[files]]
-file = "mods/smartbrainlib.pw.toml"
-hash = "dc02113e8e56bcf6980023e22623f086a4b70155c96bc1003e130ff083b2b997"
 metafile = true
 
 [[files]]
@@ -1268,11 +1208,6 @@ hash = "13151b06db5fe01c9aa7860fd1fa866599da6bf747c69e6e28385934002ce07b"
 metafile = true
 
 [[files]]
-file = "mods/the-bumblezone-forge.pw.toml"
-hash = "6b7f381e924452d52d0a05ceb05c61c32f27bd852e6ce726af961d0a8ca5c79e"
-metafile = true
-
-[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "8f51c31fa1375c46026a0433c0f53e71615c75d59915a0f7ee6e327edbf3b570"
 metafile = true
@@ -1335,11 +1270,6 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "59f57c0dc8838a3111cfb0c39aada7aeadf5e65046e64ea52a906d5b7d7fd9b2"
-metafile = true
-
-[[files]]
-file = "mods/you-died.pw.toml"
-hash = "8ba7337d7b72fdb1826d151ac377e935a6dfa5805f96c80be396b331422f6688"
 metafile = true
 
 [[files]]
