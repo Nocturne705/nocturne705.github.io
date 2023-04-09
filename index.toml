@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "3dskinlayers-forge-1.5.2-mc1.18.2.jar"
+hash = "923dafa77c5b2572c32f1babd14a3654cedd68f751640fbf69974e92e284befd"
+
+[[files]]
 file = "config/apotheosis/adventure.cfg"
 hash = "e5c8de888b85afd8045a4aca31b26c64010d13415f360724b23fe84ae177a6fa"
 
@@ -329,10 +333,6 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
-file = "mods/3dskinlayers-forge-1.5.2-mc1.18.2.jar"
-hash = "923dafa77c5b2572c32f1babd14a3654cedd68f751640fbf69974e92e284befd"
-
-[[files]]
 file = "mods/BrassAmberBattleTowers-1.18.2-2.3.5(1).jar"
 hash = "9d1b2e345fdd8a627c653b7552b7dceb4e2ea5983df42d8293c1d8af70e0d4e0"
 
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "95f667886b65aa3df3c25f59ca916d52a33c8955a7bc53a970ec90f1d64b870b"
+hash = "e7ebacbe9b1e9e28435942df0856e8a6ec8355462058afd846a02e28d6e7ee46"
 metafile = true
 
 [[files]]
