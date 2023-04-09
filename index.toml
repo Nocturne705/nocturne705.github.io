@@ -1116,11 +1116,6 @@ hash = "b341fd8fba1905b7cab64f9c5b85d205bcb5e16b3d1b6097a0b5ae7ed7895646"
 metafile = true
 
 [[files]]
-file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "4460c05de465c067af9b8ae8373eca9ed22805ee3316a089899441e1471454eb"
-metafile = true
-
-[[files]]
 file = "mods/pokecube-aoi.pw.toml"
 hash = "79040ffe689f1cdf994c250b92735f361aa6b08f4ca2e305cfe9d997388dafc1"
 metafile = true
@@ -1426,11 +1421,6 @@ metafile = true
 [[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "7d651612898cd34831516e4d9662d48e2b0a9756d87a71a7bcd55f1de429ed1c"
-metafile = true
-
-[[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "7dfb918a920c3bb82a663a71571e9da813fe633ba04ea2cfb4b040c6ab0a2705"
 metafile = true
 
 [[files]]
