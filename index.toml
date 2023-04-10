@@ -333,6 +333,10 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/3d-skin-layer.toml"
+hash = "a49a4cc453a52223020c5296830a7396dc2f4f8857e1592302d7634fe09966d8"
+
+[[files]]
 file = "mods/BrassAmberBattleTowers-1.18.2-2.3.5(1).jar"
 hash = "9d1b2e345fdd8a627c653b7552b7dceb4e2ea5983df42d8293c1d8af70e0d4e0"
 
