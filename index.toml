@@ -213,12 +213,36 @@ file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_all_tr
 hash = "9ae63461acfb7a5c82c5c1f0534e719cbb782e4309c8609602450d580e17b851"
 
 [[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_minecraft_is_real.json"
+hash = "deb627f3377aa66b25d08ea22ffbd173571b4915c19a2279be91c65438bbc763"
+
+[[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_minecraft_password.json"
 hash = "eff3db2a325f3dfff8ce4fa6e6bed1b93049af63e25bdbdf61cb089de7e03316"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_people_die.json"
 hash = "176d716c985217c8d51e299fa892040bc2e915edf63b5b5b564bad8a9478d65b"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_reprogramming.json"
+hash = "6ac733b2987ca7244be8fe5ddc59249b96f8f35d2dfa418e76e8744eda9ed43b"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/im_in_your_walls.json"
+hash = "d434e660881ea2111bbcfba70fa2b862d67cdb4a94d098f0b9d570145abcc225"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_dr.json"
+hash = "8cf5100971fc7ede4a9b242358d90208be1b9e468aaf77fb1b23c2ae6794a769"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_gpt.json"
+hash = "b1fa2721d6b32eeb35d1a88f573cd45ae07f4714e51b1fe045a8b42ee4528770"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_wormhole.json"
+hash = "be6c5859fec325b6b0dc63b011cd6681f4632d840f9daea84578ec44c53cbfcd"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/pack.mcmeta"
@@ -464,6 +488,11 @@ hash = "6e3bc306196e0edc56d8339c0029fda4d61b42df582e9898ba48b0d4e216b717"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "8da2e34253f60d56e4c2e70859384524ced2b7fc4614fd7812a1617ece63c87e"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "834cd67910e45c91ccc6528a40048fc4c02d1d8dc52f371fcba4891544684777"
 metafile = true
@@ -471,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "53fb2cfb3988b88b9587a5a0ba4b5612d7f26a989b05c911975f6af7be343364"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
@@ -561,6 +595,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "16feeedd5a2c886f702bdcc4b654f0a46ee91c4394ad1e2a1a7200c550f36996"
 metafile = true
 
 [[files]]
@@ -977,6 +1016,11 @@ hash = "4128d66e93a862e26e3887ad2edd59c9f418908ad0f57c032f419a80542cd361"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "5ef2b2667a010d74129fdc7a7bc3703f1f8a764505019ecd17b9e1b5f37d09bd"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "e595b7223439bd5526304657fa34cfc7ed514475dd6e0c5ec30ef27a1cdfb9b3"
 metafile = true
@@ -1044,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/notimeoutnomore.pw.toml"
 hash = "0348372dcb62bea272ad030dd52219a1cda4b4ecc7a00afe3b07f46a8dc5d839"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "390f5fe47c06bed5289e0d5727675a7c9e0537e0e968fd539beda529a3cd1abb"
 metafile = true
 
 [[files]]
@@ -1290,6 +1339,11 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "49148fc0eda2e7bbd95f0311bdef62604bdcaa4e8e48975350a3523a80b2be78"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "dc02113e8e56bcf6980023e22623f086a4b70155c96bc1003e130ff083b2b997"
 metafile = true
 
 [[files]]
