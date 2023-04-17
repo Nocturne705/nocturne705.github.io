@@ -85,6 +85,26 @@ file = "config/occultism-common.toml"
 hash = "e2dfcc408e0dd025658410ce76ea6a87683d0d26d4fbad856c9c3c25d3467ce5"
 
 [[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/damage_scaling.json"
+hash = "c7a1b7c49c0f83f9a53da892714269ae2324085e28d9478a3614c2d6779161ef"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/difficulty.json"
+hash = "32dfa94061fb8b4f4959d0a5c1d2bd92abb3a8443b0ba546b74b19310132b21b"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/items.json"
+hash = "b99a05ca3b1753f012a63b5ccb6edda57e60e5d4c34f9ae6c2823e81218a64f4"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/mobs.json"
+hash = "03fa14c7dbcda23845644cc91c846a8f52e7dc15132ae50628cc0f05446682b1"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/player.json"
+hash = "dc7420c5a037bfe810f41030b152d15c98a897cda847940d00ddff379651e4c7"
+
+[[files]]
 file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/tags/entity_types/blight_exempt.json"
 hash = "078c91b8da39b8cd56ea882e2c430ac70116e9de00101f131e7f28c4cf2f56e9"
 
@@ -516,6 +536,11 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "676147473a141e8fffdee6c1fa64857fac754e714bdf546ac7f8abaf747c129a"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "c5378e4866024f8d43344a8425d82fdaa6cfa09f401f9da793c1f61ca91b09f0"
 metafile = true
@@ -538,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "e7ebacbe9b1e9e28435942df0856e8a6ec8355462058afd846a02e28d6e7ee46"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "4e253e12a9b2702b8708228b9f617fa49510939dfa8ce90d30033573543ec351"
 metafile = true
 
 [[files]]
@@ -881,6 +911,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "26957cccd2e46d96b644f016aac4517184a537aa09d4e433abd767c1211dac05"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "4c0c2e4f70f0b29ed7453867cfe49bf658f5e7351ae8cd79e0c573738632592d"
 metafile = true
 
 [[files]]
@@ -1300,6 +1335,11 @@ hash = "cea3d396844c547fc4fb0a9a7cf3b513a3b7ea7cca51729af02f7e1eeb76fb69"
 metafile = true
 
 [[files]]
+file = "mods/shrink_.pw.toml"
+hash = "72f18d654bd7b74347fd8acf4972e71d0f6852615a076d2d416137d323d52336"
+metafile = true
+
+[[files]]
 file = "mods/shroom-dealers.pw.toml"
 hash = "8ce7b4fbf94eca00e9ea085bec521e1d5a76a18f647761307a69f415066f3dd6"
 metafile = true
@@ -1490,6 +1530,11 @@ hash = "4e10abf415163f490fe3ca8f353b7564dd97086b8d89c84e3e8edccf2a027799"
 metafile = true
 
 [[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "aa3b5446770af49e5555517eeb925d821b093dd8235ff53d08e94b8b10a91c5f"
+metafile = true
+
+[[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "7d651612898cd34831516e4d9662d48e2b0a9756d87a71a7bcd55f1de429ed1c"
 metafile = true
@@ -1507,6 +1552,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "59f57c0dc8838a3111cfb0c39aada7aeadf5e65046e64ea52a906d5b7d7fd9b2"
+metafile = true
+
+[[files]]
+file = "mods/yippee.pw.toml"
+hash = "1ca69bb8b323779efed6a067cd021c37c1546039bc5fefc4a8c9d28536eb6be8"
 metafile = true
 
 [[files]]

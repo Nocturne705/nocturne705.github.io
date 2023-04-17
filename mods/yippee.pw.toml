@@ -1,0 +1,13 @@
+name = "Yippee"
+filename = "yippee-1.0.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f09c7965d05f860ca1d4a37528df497f0fddc33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3809010
+project-id = 628521
