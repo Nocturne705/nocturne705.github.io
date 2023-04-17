@@ -1559,9 +1559,8 @@ hash = "59f57c0dc8838a3111cfb0c39aada7aeadf5e65046e64ea52a906d5b7d7fd9b2"
 metafile = true
 
 [[files]]
-file = "mods/yippee.pw.toml"
-hash = "1ca69bb8b323779efed6a067cd021c37c1546039bc5fefc4a8c9d28536eb6be8"
-metafile = true
+file = "mods/yippee-1.0.0-forge(1).jar"
+hash = "f996f153fd62d7d6fca121cd185953b6bc03f4fd3492d5483659acf9daa191af"
 
 [[files]]
 file = "mods/you-died.pw.toml"
