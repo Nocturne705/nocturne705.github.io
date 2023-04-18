@@ -697,6 +697,11 @@ hash = "d548b22722c1f0e1e2bf86bb5404066b4fa8259508ccd4d7a7a6615726aa15c6"
 metafile = true
 
 [[files]]
+file = "mods/eer-reforged.pw.toml"
+hash = "d2ddcaa224cc9bf4acd84875002a3bdb637945ecaa11baf3d327362742427f63"
+metafile = true
+
+[[files]]
 file = "mods/elenai-dodge-2.pw.toml"
 hash = "bad78afd332f429933a7d7ee29a6fcc4dd94fd513e1f3745d62379e5f6896e94"
 metafile = true
