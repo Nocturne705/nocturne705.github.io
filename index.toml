@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
+hash = "3941ea702dceed8ea0d775f34c1aa7266bb39087748f1afb52052b743ae388c3"
 metafile = true
 
 [[files]]
