@@ -820,11 +820,6 @@ hash = "14af17e7586d8f8da2a4ec3844f5b0b41c47e565068eeedbf38e3ce2e71b5738"
 metafile = true
 
 [[files]]
-file = "mods/flickerfix.pw.toml"
-hash = "710b15c7e7e7d7d3e88e4ca2c8658583b8ba1d67fe5259a348c40b3ba1c2755e"
-metafile = true
-
-[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "9662e5cd152f99293561b00a306bb61b972021e9e6f2ed5c319a8ffb2f301c27"
 metafile = true
