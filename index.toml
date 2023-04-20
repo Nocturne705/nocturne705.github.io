@@ -453,6 +453,11 @@ hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
 
 [[files]]
+file = "mods/bee-fix.pw.toml"
+hash = "51660bbfa6422a777bdb458d286b694e281ee546ce29bf8a87a2c7e02719dbae"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "d3c90b5e0e58325fb7d3e2da2eee63fd5f6c8592261dd17ff9ba6e02c365a69f"
 metafile = true
