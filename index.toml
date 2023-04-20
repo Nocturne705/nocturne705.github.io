@@ -173,10 +173,6 @@ file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origin_layers/o
 hash = "b32c5512955f8d24023373cdbae1b086448bcc180d3fdedad45c824b5c577893"
 
 [[files]]
-file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origins/feline.json"
-hash = "e1e92189c337ff394da66f1901b91ddc37ce6bffd8a060d824e78ee03ce1f8c6"
-
-[[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
 hash = "bcc15d0c476793a39f29401d6e2dc25e2d83e84824aa04d52f8f9d42ca11e3c4"
 
@@ -376,6 +372,10 @@ hash = "9d1b2e345fdd8a627c653b7552b7dceb4e2ea5983df42d8293c1d8af70e0d4e0"
 [[files]]
 file = "mods/BuddiesForBaby-1.18.2-v2.2.0(1).jar"
 hash = "4efc3828b38f8ede4ea61fa5725536613c69acb8180a89f8368995d4a5ed4676"
+
+[[files]]
+file = "mods/Origins-1.18.2-1.4.1.4-unified(1).jar"
+hash = "cf535c49e306d941981eb00ee2e9e692ab1e62e936cf582584bcb68a2aceeae0"
 
 [[files]]
 file = "mods/additional-additions-forge.pw.toml"
@@ -1131,11 +1131,6 @@ metafile = true
 [[files]]
 file = "mods/origins-classes-forge.pw.toml"
 hash = "719eed11183e478cf8f228e93e778fe652dc2a9703c5cb5ef685bc0b8ed9fce1"
-metafile = true
-
-[[files]]
-file = "mods/origins-forge.pw.toml"
-hash = "36bf28a4e72c977c24c0b4ccd51590ad3505b2985079d8fbfe182d893be53b6a"
 metafile = true
 
 [[files]]
