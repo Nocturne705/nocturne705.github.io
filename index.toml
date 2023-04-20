@@ -173,6 +173,10 @@ file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origin_layers/o
 hash = "b32c5512955f8d24023373cdbae1b086448bcc180d3fdedad45c824b5c577893"
 
 [[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origins/feline.json"
+hash = "e1e92189c337ff394da66f1901b91ddc37ce6bffd8a060d824e78ee03ce1f8c6"
+
+[[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
 hash = "bcc15d0c476793a39f29401d6e2dc25e2d83e84824aa04d52f8f9d42ca11e3c4"
 
