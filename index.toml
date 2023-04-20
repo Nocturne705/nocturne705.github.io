@@ -366,6 +366,10 @@ hash = "a49a4cc453a52223020c5296830a7396dc2f4f8857e1592302d7634fe09966d8"
 metafile = true
 
 [[files]]
+file = "mods/BeeFix-1.18-1.0.7(1).jar"
+hash = "b3a888c23041bc18c392f12986023c23ea5a972d33bf49a85dae2beb35f5c9ad"
+
+[[files]]
 file = "mods/BrassAmberBattleTowers-1.18.2-2.3.5(1).jar"
 hash = "9d1b2e345fdd8a627c653b7552b7dceb4e2ea5983df42d8293c1d8af70e0d4e0"
 
@@ -454,11 +458,6 @@ hash = "814631c87db55ad777542811c0d94e043ab0fe8e91ae670f894fc24586ba96ea"
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
-metafile = true
-
-[[files]]
-file = "mods/bee-fix.pw.toml"
-hash = "51660bbfa6422a777bdb458d286b694e281ee546ce29bf8a87a2c7e02719dbae"
 metafile = true
 
 [[files]]
