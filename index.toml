@@ -969,6 +969,11 @@ hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "747fdf61ef74db571cb9ba97792c7ba8c3712720cfceb23e990a6297ca0e1521"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "0cae93c7eaa9c1474d102e5e8512a81f737bd365aadca8171033c62540784e68"
 metafile = true
@@ -1106,6 +1111,11 @@ metafile = true
 [[files]]
 file = "mods/notimeoutnomore.pw.toml"
 hash = "0348372dcb62bea272ad030dd52219a1cda4b4ecc7a00afe3b07f46a8dc5d839"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "a6c31c3919ecc738bcbbdbb02b83e92037d590fe877928302c055f4ce5795553"
 metafile = true
 
 [[files]]
