@@ -85,6 +85,34 @@ file = "config/occultism-common.toml"
 hash = "e2dfcc408e0dd025658410ce76ea6a87683d0d26d4fbad856c9c3c25d3467ce5"
 
 [[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/damage_scaling.json"
+hash = "f69642e6314851700f514c894464acfb6fbd3169a2ff7e7826393f480b356a3f"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/difficulty.json"
+hash = "ee350c1e09f25f069110d5d7e078f7715e2165cb4be13bfba3a0a14a06d38274"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/items.json"
+hash = "b99a05ca3b1753f012a63b5ccb6edda57e60e5d4c34f9ae6c2823e81218a64f4"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/mobs.json"
+hash = "616eb66f5dc303011d8cb27f2b68981beb9854341d61da57fb7ae9bc18a14699"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/player.json"
+hash = "dc7420c5a037bfe810f41030b152d15c98a897cda847940d00ddff379651e4c7"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/tags/entity_types/blight_exempt.json"
+hash = "078c91b8da39b8cd56ea882e2c430ac70116e9de00101f131e7f28c4cf2f56e9"
+
+[[files]]
+file = "config/openloader/data/Blight_B_Gone/pack.mcmeta"
+hash = "164ddc0c4acd9c8bac9330fcdf1c1e62d675c02346130558fa1ba6e1003f077c"
+
+[[files]]
 file = "config/openloader/data/Shmeat/data/origins/tags/items/meat.json"
 hash = "596e85d6071c48166f366e16ff962bbb54e2df577e7884355adba734ede2c806"
 
