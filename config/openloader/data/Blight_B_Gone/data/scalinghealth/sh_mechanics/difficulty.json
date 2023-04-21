@@ -49,7 +49,7 @@
         "onKilled" : "difficulty + 10"
       },
       {
-        "entities" : ["minecraft:wandering_trader],
+        "entities" : ["minecraft:wandering_trader"],
         "onKilled" : "difficulty + 30"
       }
     ]
