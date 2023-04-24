@@ -1,5 +1,5 @@
 {
-  "defaultCycleTime": 10000,
+  "defaultCycleTime": 5000,
   "ignoredNamespaces": [],
   "ignoredTips": []
 }

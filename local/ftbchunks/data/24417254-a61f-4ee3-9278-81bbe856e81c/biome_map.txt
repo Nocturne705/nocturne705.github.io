@@ -1,0 +1,7 @@
+#244 byg:atacama_desert
+#008 minecraft:desert
+#3B0 biomesoplenty:lush_desert
+#6C1 biomesoplenty:lush_savanna
+#5FF minecraft:river
+#2B7 minecraft:warm_ocean
+#6F1 byg:windswept_beach
