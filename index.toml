@@ -414,6 +414,10 @@ file = "mods/BuddiesForBaby-1.18.2-v2.2.0(1).jar"
 hash = "4efc3828b38f8ede4ea61fa5725536613c69acb8180a89f8368995d4a5ed4676"
 
 [[files]]
+file = "mods/ExperienceBugFix-1.18-1.38.0.2.jar"
+hash = "0fadc3667e47c02f3236f74fbc29d1de24e5b330cd898e6cc2ce27e873171dfb"
+
+[[files]]
 file = "mods/Origins-1.18.2-1.4.1.4-unified(1).jar"
 hash = "cf535c49e306d941981eb00ee2e9e692ab1e62e936cf582584bcb68a2aceeae0"
 
@@ -923,11 +927,6 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "14af17e7586d8f8da2a4ec3844f5b0b41c47e565068eeedbf38e3ce2e71b5738"
-metafile = true
-
-[[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ace65cf55382d75594f2b2429302dd19b8b53c37d1a805fb5a46a766d95d2229"
 metafile = true
 
 [[files]]
