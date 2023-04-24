@@ -1,12 +1,12 @@
-name = "Nocturnus2.0"
+name = "Nocturnus"
 author = "Nocturne705"
-version = "1"
+version = "3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "02bece7b19a3e9d52bc8540053bbe078ac059a8776150e7f524dcc067c91b846"
+hash = "1a502711bd525c54481e921bd16257185231e1c4978d582987de9fcf3331b6ca"
 
 [versions]
 forge = "40.2.1"
