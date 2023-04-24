@@ -526,11 +526,6 @@ hash = "8614a548dcf88638360bac9aad937286937f87e8ee157c7348387ef81ec51ef0"
 metafile = true
 
 [[files]]
-file = "mods/betterloadingscreen.pw.toml"
-hash = "7e2f10d17daff001e665139d2df35e3b7e3dc090ce30074ca4197ef3448fdc78"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
