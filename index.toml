@@ -1021,10 +1021,6 @@ file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "99235fedc78e1c20229c9a75bc380fa13a72533c2013f7959a53c2a9981cddbd"
-
-[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
 
@@ -3379,10 +3375,6 @@ hash = "0e94e324bd64ea8fec229aff9fc96a201e48dbd22651e44d8353ad2b03710541"
 [[files]]
 file = "config/simplehats.json"
 hash = "fdc7d3bfda4dc9dd77111edf06d618b1185a5dfc4ed09c80589ed74dd316e38b"
-
-[[files]]
-file = "config/simplehats_hatdl/simplehats_hatdl.zip"
-hash = "cf7f09ae2cba99a110c00dfacb231ec8135729ddbf7bfc7b7b12333f2794eae6"
 
 [[files]]
 file = "config/simplehats_hatdl/uuids.json"
@@ -5961,24 +5953,24 @@ file = "kubejs/server_scripts/harvest.js"
 hash = "d0b2cfcef03a7d7695bdcce41e84f00bee0b35a2e2f8ff3d1e029d3e4cea5bf2"
 
 [[files]]
-file = "kubejs/server_scripts/mod_specific/_allthemods/allthemodium.js"
+file = "kubejs/server_scripts/mod_specific/ae/ae.js"
+hash = "f02621a3bae74884ab669ef654ea838b9378c5f38a1e86404c36b09ca189249f"
+
+[[files]]
+file = "kubejs/server_scripts/mod_specific/allthemods/allthemodium.js"
 hash = "92efb1f49ea41c4273d2b9ef1bba1609ecba99039b8351ea55967fe5fbc80ced"
 
 [[files]]
-file = "kubejs/server_scripts/mod_specific/_allthemods/atm_shard.js"
+file = "kubejs/server_scripts/mod_specific/allthemods/atm_shard.js"
 hash = "b789b2f0ca0c884b859e4085370009e465d0504efa889127b879a392eefc571e"
 
 [[files]]
-file = "kubejs/server_scripts/mod_specific/_allthemods/atm_star.js"
+file = "kubejs/server_scripts/mod_specific/allthemods/atm_star.js"
 hash = "ca743764f6cdb0c6bedd57a2b7fb931584623bbab88254eb6d6128a4e5bac581"
 
 [[files]]
-file = "kubejs/server_scripts/mod_specific/_allthemods/atm_star_creative.js"
+file = "kubejs/server_scripts/mod_specific/allthemods/atm_star_creative.js"
 hash = "6125a318cf82ed7a933156e3ca2bef2a6f02d0fceed829e6c477b868b57682db"
-
-[[files]]
-file = "kubejs/server_scripts/mod_specific/ae/ae.js"
-hash = "f02621a3bae74884ab669ef654ea838b9378c5f38a1e86404c36b09ca189249f"
 
 [[files]]
 file = "kubejs/server_scripts/mod_specific/angelring/angelring.js"
@@ -6103,198 +6095,6 @@ hash = "ddd8f8293f48b3c3d5935335d11598e57f2261d3f1de53d99d3ad3e0fdd105f9"
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
 hash = "9323120d25cddd9adb0fecf8890b5fc9fa8a094b11125a05743ea4e5ed9d02e4"
-
-[[files]]
-file = "local/ftbchunks/client-config.snbt"
-hash = "98100df4f7b4bf449b3f37b8aab8626efa4cca273f81a30473dc2da19227b728"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/biome_map.txt"
-hash = "6eb61564dc003614e6e9952b3bfd0ea005b3ee65688b727d4456619da0424cca"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/block_map.txt"
-hash = "652ae32db6e029d3bd4ad9f803cd43d17b34dcf4eba02cd1729bc7811e430827"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/dimensions.txt"
-hash = "1984e649050138dce002b0a4a5552a0f82897d6faf5a10ec86061369e3a29b6b"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/minecraft_overworld/0EA60-0EA60.zip"
-hash = "607de300f47a33ecb94f0d49c01ad726028e4fc9207b14304cefeb0f2cd0270b"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/minecraft_overworld/0EA60-0EA61.zip"
-hash = "942f773e47058e9943a06d73dac0bd276c1aca7736db26c38b621f2faeab2218"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/minecraft_overworld/0EA61-0EA60.zip"
-hash = "2814e2929c1350b97c4c5e6d10c24bdfe27bd1775d9f8f35e5611dc0d0b54ea9"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/minecraft_overworld/0EA61-0EA61.zip"
-hash = "9c7f5ecc12b27e5a4690e3ed5a7a0130647a79e3d27e6606f074082559b3f9fe"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/minecraft_overworld/dimension.regions"
-hash = "58ef22b7cac38e092ea27c04d7b428c4dad62ee1e913fa4c9f6b16f14ca13099"
-
-[[files]]
-file = "local/ftbchunks/data/24417254-a61f-4ee3-9278-81bbe856e81c/minecraft_overworld/waypoints.json"
-hash = "8e2893a1f5ec8e5dedaf4ef5bbdd6867c71891d3f639eb4454fd24493016b571"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/biome_map.txt"
-hash = "e9541113485ecad1f349de94db238597c9e1799b0404a4fd0cc3eb83f0fa880d"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/block_map.txt"
-hash = "04fb8fb3592673776cef5b6deef2b99d07cab9972ba13919970fed2828ae646e"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/dimensions.txt"
-hash = "1984e649050138dce002b0a4a5552a0f82897d6faf5a10ec86061369e3a29b6b"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/minecraft_overworld/0EA5F-0EA5E.zip"
-hash = "9aaa0651d1f1b143f0a39d29ebd88a15f292ac64e537cecbfbd6e173cdc83d46"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/minecraft_overworld/0EA5F-0EA5F.zip"
-hash = "2b9287cc18e070209187413288e43f45818c41ab73548ec30fffd292a00da669"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/minecraft_overworld/0EA5F-0EA60.zip"
-hash = "1aa69921d5bbf760a6abd0f0f0ee65bc9e8882c6bb66db90a9b3605f1d702731"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/minecraft_overworld/0EA60-0EA5E.zip"
-hash = "7737ab49044598d97e0d0949100416042e63d445581bb3cf3b786df43a4aec08"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/minecraft_overworld/0EA60-0EA5F.zip"
-hash = "43b7c6d8a39b0b671e343910aff7b17571ff7a42b6799f84328ac1282fa5c30d"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/minecraft_overworld/0EA60-0EA60.zip"
-hash = "f42c7313e18d8bd62177846d6f09a8f8524082a9155f82361f184e07ea062d1d"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/minecraft_overworld/dimension.regions"
-hash = "7fa3703c7909c5933bc52096eb9ac29bd9026464bcbef66b99c21e57ae8c8627"
-
-[[files]]
-file = "local/ftbchunks/data/271cbdb0-33ef-41e7-92f7-b23852b8c961/minecraft_overworld/waypoints.json"
-hash = "8e2893a1f5ec8e5dedaf4ef5bbdd6867c71891d3f639eb4454fd24493016b571"
-
-[[files]]
-file = "local/ftbchunks/data/85956867-d04c-4be3-a84c-253ab72e3d79/biome_map.txt"
-hash = "168c1e5d7c3e156eecfe29a20696684cc0b7a903117fb4e85166bfaee781fc67"
-
-[[files]]
-file = "local/ftbchunks/data/85956867-d04c-4be3-a84c-253ab72e3d79/block_map.txt"
-hash = "020343cbb848d7495a27aacc8fb2fc5a41933ebadb4a439f923d8dbf2d19eb0b"
-
-[[files]]
-file = "local/ftbchunks/data/85956867-d04c-4be3-a84c-253ab72e3d79/dimensions.txt"
-hash = "1984e649050138dce002b0a4a5552a0f82897d6faf5a10ec86061369e3a29b6b"
-
-[[files]]
-file = "local/ftbchunks/data/85956867-d04c-4be3-a84c-253ab72e3d79/minecraft_overworld/0EA5F-0EA5F.zip"
-hash = "676ec3cea5db21b3e7e011b5633f7ef4f8659d79eea2f71c8ada1ba6ee0b0a0b"
-
-[[files]]
-file = "local/ftbchunks/data/85956867-d04c-4be3-a84c-253ab72e3d79/minecraft_overworld/0EA5F-0EA60.zip"
-hash = "64495ac64b73ade028d3faad525794e36a2816c5f182fcfefe637489595a489d"
-
-[[files]]
-file = "local/ftbchunks/data/85956867-d04c-4be3-a84c-253ab72e3d79/minecraft_overworld/0EA60-0EA60.zip"
-hash = "c93b357b109b15827326e2abecfbd92d694909cc875662841e3435e6b6523796"
-
-[[files]]
-file = "local/ftbchunks/data/85956867-d04c-4be3-a84c-253ab72e3d79/minecraft_overworld/dimension.regions"
-hash = "b084d42aa3332e57f45fd79e92c9794594dc065140c235c4aa4c7e8c90548c37"
-
-[[files]]
-file = "local/ftbchunks/data/85956867-d04c-4be3-a84c-253ab72e3d79/minecraft_overworld/waypoints.json"
-hash = "8e2893a1f5ec8e5dedaf4ef5bbdd6867c71891d3f639eb4454fd24493016b571"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/biome_map.txt"
-hash = "c4484f556f2f6e6508fa2aa507eec0313ab4585fe6e0ecc6293bff182a5db623"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/block_map.txt"
-hash = "ff407cb09a5e0216d443102b7259e04ae0afd13aed0762f5e805843b5c1fd93c"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/dimensions.txt"
-hash = "1984e649050138dce002b0a4a5552a0f82897d6faf5a10ec86061369e3a29b6b"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/minecraft_overworld/0EA5F-0EA5F.zip"
-hash = "6fffac20460be2ff30f7334a51eecbdf2e39ffe7ede3d9bbf71f15832536a731"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/minecraft_overworld/0EA5F-0EA60.zip"
-hash = "527347a21e32adf09563f404c8ca298456157e86ebf1980aff5c3c8175f695b2"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/minecraft_overworld/0EA60-0EA5F.zip"
-hash = "83ad358e0ef8ee915875ba98dc316017a346390c50bb39f3e5a36329196811f7"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/minecraft_overworld/0EA60-0EA60.zip"
-hash = "95028b7080618724e81acc4c346a2d95811e496d62acfd6c682b5219d67d882e"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/minecraft_overworld/dimension.regions"
-hash = "b084d42aa3332e57f45fd79e92c9794594dc065140c235c4aa4c7e8c90548c37"
-
-[[files]]
-file = "local/ftbchunks/data/9cafebbc-c25f-4895-8899-128446ec5eb6/minecraft_overworld/waypoints.json"
-hash = "8e2893a1f5ec8e5dedaf4ef5bbdd6867c71891d3f639eb4454fd24493016b571"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/biome_map.txt"
-hash = "22f3ab87910a098e4d8985efc5fde4033baa7ddd1beab0c13d434cea4ca9f9c7"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/block_map.txt"
-hash = "8015a923edfaf8e5f8115eb960c9856a15f74cf2e54983f36401fab708664cd5"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/dimensions.txt"
-hash = "1984e649050138dce002b0a4a5552a0f82897d6faf5a10ec86061369e3a29b6b"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/minecraft_overworld/0EA5F-0EA5F.zip"
-hash = "186b432f470914899da6e27eab1af863371061e009115e86bf348e95a98e9278"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/minecraft_overworld/0EA5F-0EA60.zip"
-hash = "38d34ebb11f2de24295a74bba8eb7fc9e027f8f36a7f92de6f259e70be7c975c"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/minecraft_overworld/0EA60-0EA5F.zip"
-hash = "b50ceef37d8f439f27193142ebc4fec9056b01109b986b04127b44e8b52df059"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/minecraft_overworld/0EA60-0EA60.zip"
-hash = "e595e55ec35549eecc2095ec23f312126c07d51495729b4f7d1f8f1843f244aa"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/minecraft_overworld/dimension.regions"
-hash = "b084d42aa3332e57f45fd79e92c9794594dc065140c235c4aa4c7e8c90548c37"
-
-[[files]]
-file = "local/ftbchunks/data/d296a8f3-9e47-4bc0-81de-0a5ed13261be/minecraft_overworld/waypoints.json"
-hash = "8e2893a1f5ec8e5dedaf4ef5bbdd6867c71891d3f639eb4454fd24493016b571"
-
-[[files]]
-file = "local/ftbultimine-client.snbt"
-hash = "b13148f2ec24e44856ff13fdb9a9eb02b79095d23b1ef8c4c61359ac4da34c96"
 
 [[files]]
 file = "mods/3d-skin-layer.pw.toml"
