@@ -6758,10 +6758,6 @@ file = "mods/architectury-4.11.89-forge.jar"
 hash = "79885ee54f891c5e5eb2079fe975eccf79ffbe5f24f63aa1c8a0cffb9eacf841"
 
 [[files]]
-file = "mods/architectury-4.9.84-forge.jar"
-hash = "6a56f1cf02c6c36f5fc892d1c5354104dfa3f482ee05ac8bc91d7fe0e8b9a3af"
-
-[[files]]
 file = "mods/ars_nouveau-1.18.2-2.7.9.jar"
 hash = "f4d5a95c114a74102588bc7a0a300eca4ccf35ec6ff76b599da67c0952fd5942"
 
@@ -7561,8 +7557,8 @@ file = "mods/selene-1.18.2-1.17.9.jar"
 hash = "71db64a812efdb563f892970499b538fb00bd5f3a884da98a53c32841786a082"
 
 [[files]]
-file = "mods/shetiphiancore-1.18-3.10.10.jar"
-hash = "3bb6644e12787dbbffcee5c2d0f69a58f89961ea6d1e40ccc9ea9e39390e33a1"
+file = "mods/shetiphiancore-forge-1.18.2-3.10.14.jar"
+hash = "646e9a6816f2f4c497db8e18b3c3487bd8e942f972540c2527e89979abdf1d80"
 
 [[files]]
 file = "mods/showcaseitem-1.18.2-1.0.jar"
