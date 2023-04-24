@@ -5,7 +5,7 @@
 	# Pokemobs will be to auto recalled. [Default: false]
 	autoRecallPokemobs = true
 	# Allows pokemobs to auto select moves. [Default: false]
-	autoSelectMoves = false
+	autoSelectMoves = true
 	# Moves the battle log from the pokemob message gui to the chat. [Default: false]
 	battleLogInChat = false
 	# Volume scale of the capture sound. [Default: 0.2]

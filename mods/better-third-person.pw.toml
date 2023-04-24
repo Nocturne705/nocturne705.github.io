@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4177087
 project-id = 435044
-
-[option]
-optional = true
-default = true
-description = "Better 3rd person controls!"

@@ -2,11 +2,14 @@
 #General settings
 [general]
 	#Dimensions where hostile mobs will not spawn. Ex: ["minecraft:overworld", "undergarden:undergarden"]. . Run /forge dimensions for a list.
-	dimensionBlacklist = ["twilightforest:twilight_forest", "mythicbotany:alfheim", "ae2:spatial_storage", "compactmachines:compact_world"]
+	dimensionBlacklist = []
+	#Rate of tree spawn per chunk
+	#Range: > 0
+	treeWeight = 100
 	#Spawn Mana Berry Bushes in the world
 	genBerries = true
 	#Spawn a book in the players inventory on login
-	spawnBook = false
+	spawnBook = true
 	#How often Carbuncles spawn
 	#Range: 0 ~ 100
 	carbuncleWeight = 5
@@ -19,27 +22,24 @@
 	#How much mana whirlisprigs consume per generation
 	#Range: 0 ~ 10000
 	sylphManaCost = 250
+	#How much progress whirlisprigs must accumulate before creating resources
+	#Range: 0 ~ 10000
+	whirlisprigProgress = 250
 	#How often Wilden Guardians spawn
 	#Range: 0 ~ 200
-	wguardianWeight = 50
+	wguardianWeight = 0
 	#How often Wilden Stalkers spawn
 	#Range: 0 ~ 200
-	wstalkerWeight = 50
+	wstalkerWeight = 0
 	#How often Wilden Hunter spawn
 	#Range: 0 ~ 200
-	whunterWeight = 50
+	whunterWeight = 0
 	#Should the Wilden Hunter attack animals?
 	hunterHuntsAnimals = true
 	#Should the Wilden Stalker attack animals?
 	stalkerHuntsAnimals = false
 	#Should the Wilden Defender attack animals?
 	defenderHuntsAnimals = false
-	#Rate of tree spawn per chunk
-	#Range: > 0
-	treeWeight = 100
-	#How much progress whirlisprigs must accumulate before creating resources
-	#Range: 0 ~ 10000
-	whirlisprigProgress = 250
 
 [drygmy_production]
 	#How much source drygmys consume per generation
@@ -121,4 +121,3 @@
 		codexCost = 10
 		#Spawn Caster Tomes in Dungeon Loot?
 		spawnTomes = true
-

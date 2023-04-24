@@ -1,0 +1,13 @@
+name = "Pokecube AIO"
+filename = "pokecube-aio-1.18.2-3.22.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "baadfcc3db20d8b39049c6af6f206ba13f430399"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4109049
+project-id = 285121

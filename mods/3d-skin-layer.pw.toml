@@ -10,4 +10,4 @@ hash = "119DF284B7F01C91125D0942956FBB9C7664F7BA"
 [option]
 optional = true
 default = true
-description = "Renders the 2nd layer of skin in a more aesthetic layer than the default 2d. No performance impact, just aesthetic!"
+description = "Renders the 2nd layer of skin in a more aesthetic layer than the default 2d. No performance impact, just aesthetics!"
