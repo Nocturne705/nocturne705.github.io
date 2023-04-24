@@ -2798,7 +2798,7 @@ hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
 file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/damage_scaling.json"
-hash = "f69642e6314851700f514c894464acfb6fbd3169a2ff7e7826393f480b356a3f"
+hash = "4478886bc1927b5e5bea152debd3b0ea3b58e69a24bbdc6ca5b23d84535d130b"
 
 [[files]]
 file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/difficulty.json"
@@ -7411,6 +7411,10 @@ hash = "28a1be6464bf4700569d2db29eb7e369dee0bb09336dde04b294398869739145"
 [[files]]
 file = "mods/omgourd-1.18.2-3.0.0.7.jar"
 hash = "3d232ebb2662db16fbdf26defd3f74872e5454589a48d2fd31ad06f40160b82a"
+
+[[files]]
+file = "mods/origins-accessbilities-1.18.2-1.0.2.jar"
+hash = "ffb033a0f7adfb96e9e141a5a78243bdbdbc699df30900a8736929a98122ed25"
 
 [[files]]
 file = "mods/origins-classes-forge-1.1.6.jar"
