@@ -2826,7 +2826,7 @@ hash = "164ddc0c4acd9c8bac9330fcdf1c1e62d675c02346130558fa1ba6e1003f077c"
 
 [[files]]
 file = "config/openloader/data/Shmeat/data/origins/tags/items/meat.json"
-hash = "6bfea78f9132151c9b802b6a62b71185af3f2db0d6b1fd843311b8de8132417b"
+hash = "c8005d81b28f725a1d5a2ebd2bde4ff936b0340e67177b8cad626595461b9fda"
 
 [[files]]
 file = "config/openloader/data/Shmeat/pack.mcmeta"
