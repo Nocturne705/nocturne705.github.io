@@ -6518,6 +6518,10 @@ file = "mods/Patchouli-1.18.2-71.1.jar"
 hash = "1bcd352f81124b24832b536b62c138663682527886d4aaced595e7baa50e3ebb"
 
 [[files]]
+file = "mods/Pehkui-3.7.2+1.18.2-forge.jar"
+hash = "99d2984452c03661529c766eae666056da299312512cfe96ac5d6ba39467170b"
+
+[[files]]
 file = "mods/PigPen-Forge-1.18.2-8.0.1.jar"
 hash = "2bf78dcdf55917e4b13911eaad7f69c4e2c1d470f8345f58f9a7f8174d52a89a"
 
