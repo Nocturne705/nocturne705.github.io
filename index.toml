@@ -254,7 +254,7 @@ hash = "9ae63461acfb7a5c82c5c1f0534e719cbb782e4309c8609602450d580e17b851"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_bee.json"
-hash = "7227910fe17f3b7c67bf6ebc293815c2b0cdfc93b7e70d3e9266d550cc9ba00b"
+hash = "e0997e78f4331dc7f0152294f0f9ddc7b388d398ef5d7993a57028ad91d66578"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_minecraft_is_real.json"
@@ -271,6 +271,10 @@ hash = "176d716c985217c8d51e299fa892040bc2e915edf63b5b5b564bad8a9478d65b"
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_reprogramming.json"
 hash = "6ac733b2987ca7244be8fe5ddc59249b96f8f35d2dfa418e76e8744eda9ed43b"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_server_crash.json"
+hash = "37d177067acf33747e5129188f9646cdc9d13ebe464eadd17e22a2e0c304561a"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/im_in_your_walls.json"

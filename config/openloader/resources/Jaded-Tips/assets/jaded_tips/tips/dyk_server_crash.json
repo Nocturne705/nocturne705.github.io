@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "DID YOU KNOW?",
+    "bold": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Every time the server crashes, a fairy somewhere in the world drops dead. It's true!"
+  }
+}
