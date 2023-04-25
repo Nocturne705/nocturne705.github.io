@@ -22,7 +22,7 @@ hash = "1f07d96bf9b2971c3e0ce4b18d2355544d8d87520e1195c11511622b4c1e51cd"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "4b04c1561f73ad63b274dd4f5d9dffa06f3574a6e5649c23fade6a3f79bf8cbf"
+hash = "f70f4d6403c1db9ca116547af41586222e6a6d4dba1651e9793a945ad0f4f3a5"
 
 [[files]]
 file = "config/apotheosis/garden.cfg"
@@ -71,6 +71,10 @@ hash = "3deb3ba9788aa2fbbc588addaae6e95d4ff3191aa87fddb1b2b4f82f1b1f4bf4"
 [[files]]
 file = "config/createdeco-common.toml"
 hash = "8218d6c053f4ac108a171caf4ba7d1b4d2462b53a596328b250363c332bad32c"
+
+[[files]]
+file = "config/cyclic.toml"
+hash = "8048b850c38dde951f8fbb057ebfc414666f1c6511e301dd44c2ab6b2546c59d"
 
 [[files]]
 file = "config/guardvillagers-common.toml"
