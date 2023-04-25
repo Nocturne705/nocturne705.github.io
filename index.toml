@@ -2029,6 +2029,10 @@ file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items
 hash = "a7fd2c5daeff4a779d3891a0a88bc66796a8a6d9f0746a392b8389496cbab7df"
 
 [[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/tags/items/umbrella.json"
+hash = "fe7dc03a034667e520d29c0f9028b53a995993d56447125f90b5a1ad189f4985"
+
+[[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/tags/worldgen/biome/no_sun.json"
 hash = "532c43c9af89a5feaf18ea79fc56a278684fa0b896c76d9b17e2522719f35a4f"
 
@@ -2070,7 +2074,7 @@ hash = "37063ac688aed5f87e868b4982dbf88d4c349b7f3bfae99d6bfb455419d1092a"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/powers/burn_in_daylight.json"
-hash = "1e60674fdcb621ebf2535611d3eca4aafaa97ae6301f0bbe8df3828e2ee6405f"
+hash = "4ec07f80433115328780e3d016bc17903497ce76046dcc6e972c77849e509e8f"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
