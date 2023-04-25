@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:zombie",
+    "minecraft:zombie_villager",
+    "minecraft:pillager",
+    "minecraft:vindicator",
+    "minecraft:evoker",
+    "minecraft:illusioner",
+    "minecraft:ravager",
+    "minecraft:vex",
+    {
+      "required": false,
+      "id": "hunterillager:hunterillager"
+    },
+    {
+      "required": false,
+      "id": "mna:hulking_zombie"
+    }
+  ]
+}

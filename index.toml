@@ -209,8 +209,1868 @@ file = "config/openloader/data/jaded_music_dp/pack.png"
 hash = "91234459c5b4ebb46079bc03185f8d5099139421b7f510283a9315f32386bc3f"
 
 [[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/airelemental.json"
+hash = "164b238dfc8b24c3d6ff143e36c858b1c4396b26aa035d09761e3e1a355d61c7"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/atlantean.json"
+hash = "c84cc8965f957cefd7cccaaddc89decbc8cbc4efa1c54772e2073d03f141a352"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/automaton.json"
+hash = "fcee67ccc906d1cdca9f710f404820b35b604be95cb9107745dcf366267d7fba"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/avian.json"
+hash = "c024e45d9bc40c809b6a25b8277094ba919498715636fe03d861d45f37148fca"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/bee.json"
+hash = "3e32f663bf34db9dd27b498d435103a073feba64c203a9864c1598209352431f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/beetle.json"
+hash = "18726df9f6b1ec843e888e219101c7d7f4678713566ac1a8239ccac4bd5564b6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/brownie.json"
+hash = "07e64d5b0de0fda45d360cac98b16b55dbb6bf39749a300ba5e5c64231cd5b34"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/butterfly.json"
+hash = "bd52f8649f1afd840796efeb3a4d76f5e862a3d8130fbf81214a64fe31caccba"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/candling.json"
+hash = "1a9d71d8ab90e0854847948fc23078044eb512d813c025b694c27f3d317c4df1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/chameleon.json"
+hash = "777f5664bc4832a70c0687488f510880672ffedc2480c8a0dac8bcc4c16ff189"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/crab.json"
+hash = "fad8af35b89c16dcf85b5782951872ba42ebf8f0863476aa91d8d38c1be3897e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/creeper.json"
+hash = "ec69564494364942f6b3362161b0bf635b32d8131e892fe4c9c889d5d7809ed2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/demon.json"
+hash = "0b49563decd1cb08989032c36acb4faaa0fa4cf59909bc347b5904b4078a70ac"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/dragon.json"
+hash = "329f5c586f8ec46e6a5f29dc1070b71a17227239466be36470e274f990a1f79b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/dryad.json"
+hash = "dedc67277372e920243e3204c2bda41786b7ef89fb094890efaa444f44f3432a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/dwarf.json"
+hash = "116cb9b619ee84a64d7819f044a517ef3fae425f9b64dca6e6e54d6b4c758d91"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/elf.json"
+hash = "14e42f18e5616eddb7f7a1b11a7d4914b4bb55595c2539f8d0ee39e658980879"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/enderfolk.json"
+hash = "45d670dfdac31808b59cb520029ef1413291da925482e3243d89dddaeb28f7a7"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/fairy.json"
+hash = "de6fc7f8aa0b69f0d2934114cc0e9c2dfbfa01e8c08afa45929f01e45d744722"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/fireelemental.json"
+hash = "5e6482f438bc7c9ac25910e0171f2efa736e6be960cf8a999f112c73e7c86977"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/ghoul.json"
+hash = "2fbfc81c452779d1f3560e3afee053dae37189cabff829f6b5457c1a2cbc7a4c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/giant.json"
+hash = "25dae5615ba4a26ce04830e0ba23d097ff97bb5f46acc9ecc970c38f2a41f4d4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/gnome.json"
+hash = "28fec94b8f50a6fad74ac6b0ca640acd4e029cb2f73e9c26d89b0eb0f8f5357e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/goblin.json"
+hash = "f7c05cf85e598fc9434fffac2c86fa25e039752deeb12d09cbe9b12c0173a720"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/grandma.json"
+hash = "13bf6efaef02866a2ec8d66c2d04c16353ff569fb1097d4e6604f6985bf9a046"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/gunling.json"
+hash = "8666f70807eb3ffcc84d23f6f4b4fa4e34680ec49c76cc4b2a767ce1e04bc07d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/hare.json"
+hash = "230696f974a72db563e6a957697bdad6143b13cef8d24c9e51357e88c5e9200e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/human.json"
+hash = "89999047629135af001c08c770d710bab6057c50c238b4b3143184b27fadc2d6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/iceelemental.json"
+hash = "59cc39b62ce47de2723ff35f4dddd1dff7dc4bc4a43b3b6eb805866c3615d908"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/illager.json"
+hash = "7088014640d515943d3245ed9b6e6ba8bccb99d75db91a2de949133c859e298a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/irongolem.json"
+hash = "95b9f1d2679d30fbf0a158278e0c5d20bcf8b7fd8800fd7387073840fcbf01a8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/llama.json"
+hash = "d058b17aa3c76cc0d7200a99be7582f06df263e71df6c9c9aaaa3d73ad66777a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/melon.json"
+hash = "fe6d99e641745e8e0499cbfd6a9c95298932da739535320e2a9a61340c5f5ff3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/mush.json"
+hash = "a570695834187bb5eedd2af60e036d1fc0d6a7207a66cd40d5f0d406be1d1d24"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/noble.json"
+hash = "5e58c144dc386f9eee94ceea61057c806ccb91a086ecd46c90d5e5b35f6ce4de"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/orc.json"
+hash = "dfb23c059fc5470fbb67b775cea577f46a41a99bcc672138348649baf3ce969b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/packrat.json"
+hash = "0c601edd329885b5d47b51d14525b5249062eb022ea315c5b4c1fec8d55a1472"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/phantom.json"
+hash = "320ce1451d95684eb7b1166b9286adbb810eb6882aea7053aeef39718e76492e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/phoenixborn.json"
+hash = "090399493c7803d1221dc34e010e32177f9d56a0576dafd8ed3d0264c79ce1e1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/pixeling.json"
+hash = "faed5894ea7e72c4a2c9803c7a825175a24ddcbc47142f0db73ec28963f17092"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/poltergeist.json"
+hash = "79ba89b3c840418be799d90149deeb55a87723047527a55bbac9701fe8ab47c6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/pumpkin.json"
+hash = "e4281121eaf6e227d4f3469f39087a0e3c3e7259a3395f852c5eea52b60bd1bb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/raccoon.json"
+hash = "485f7cf674a3a0b22ece929881dba8ed99fe619f41efe0a494ecbbbc8e597e4b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/relic.json"
+hash = "803e4c58487075d1f8c62bb88c6407e6e3106c41f0ec4586e2541eb6314b258f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/seraph.json"
+hash = "3c5f4504724f7f69a4e6b44e3f5d45b8b940b87b2d8fc18cefea495dbdac9b9f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/sunwalker.json"
+hash = "3ac19e7235580644db8f0773ab9df11eee448b5bd3277c56b0a72d653f7abeb9"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/tabbyborn.json"
+hash = "16952bad8f3090535852500694e0ce3581f180fd69c5f2cb4fc4eb541cc42f3e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/theblind.json"
+hash = "38e4c93dc9865d4a823299c900500f095ca602c5fa7ba447974c8f76cd6370bc"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/treant.json"
+hash = "4ce0a1a40213326be8e4e3f1302d04518a9f45d537421b7195e1fd3d2292ce79"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/troll.json"
+hash = "f9405070cb10d0a5baf64eed831d279f85adfeb97885216907699dd855edec55"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/undead.json"
+hash = "0cadcc3574ecba9f911273f10f7ddc72cfcdad162abbc8fed16fa310b4c3b365"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/vampire.json"
+hash = "6af9aa4a3cd51b1e6d15f28576c128bce527fa4c57db34fc153597f5cc311e0c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/villager.json"
+hash = "3c849faf99e685a46a489b096ebcd3243e381265000d2763cf88199f0894bb87"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/werewolf.json"
+hash = "5f9acce3b88d231c1a524d86d12e7ff011319de6ffa9b0539d2050cfe99eb22f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/woodling.json"
+hash = "e0ae670b08ca48cd1a3f9058467d512ebb8f07829d808688af2eb669e3c1c107"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/origins/worm.json"
+hash = "109adf731ef47ea9ffde69218ea6ae260bea052d52171311f2ba00b2ad2db2dd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/airshot.json"
+hash = "60e4a9b36faef6aa713ef247c8ebd5df9d7b1ab7369eac52811ab56442a4a746"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/aoedamage.json"
+hash = "3395ada6337f0e4870eef1e74fb904bf8efef3e2989ca7dbf215174684d9ac8d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/aoelevitation.json"
+hash = "e59f41a0ace70e5929a5043cb7f13b7a9f2b3888d4d7b377bb34d37188ddab53"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/automaton/flashbang.json"
+hash = "97618b921b5501e0fc1e9138d0fcf70238ac523957bb8b752c634d72397a13ba"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/automaton/laser.json"
+hash = "e40e8afac717a8b1eb745f3daba2213520d23f57f01882dc35f3e348390ca75a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/automaton/overheat.json"
+hash = "a0d2f2bb130f0107662545215d3e20859eccbc3e4c24c9535f93f1e3d45937bb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/automaton/overheattick.json"
+hash = "211e6a385bf41907beb7c5f93e30ffae43a79f7e9e3f247050fe93de4cb10771"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/berserk.json"
+hash = "92e69f4020b756523fbf3faecfc8592b1b6ca34d840da6a528a4642f7b8ff329"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/birdlaunch.json"
+hash = "10ef8374bc499392a5233e23e7863132cc6f37f846f7973c452f773c3eea56bd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/blaze.json"
+hash = "28bb314542a336805f3396ea9c65129da111ee5f377aef49a8df5cda74d39c3d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/bonemeal.json"
+hash = "3e0b5922ed5e9df4f32378bfd3b4cd7d18377e1bef21dda28cd792f8b4cee367"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/cloaking.json"
+hash = "dca839d03e24beccc8f06a268447f7874b449e6d10b5bfb62d59d8daed85da24"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/creeper_explode.json"
+hash = "7443ba5de9af3864ac62a9fe6c15299927e1a0b070d2fd18dd08b78cc1cc8d97"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/dash.json"
+hash = "6791b9e25284a2779660b153e80e5ec6ca1974b93fbf2c6bfe7d0c1760faacae"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/dragonbreath.json"
+hash = "4c626a356e84859bc9b579e878b0868d2552b7792b8f4fae45e068071767516d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/flameofhope.json"
+hash = "560312f1021732918a4b83e67942c4abc91d4533b2e650eb192ac8a9af4b6eee"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/flush.json"
+hash = "57f85ee88bd0f3d3918def909d6626615438e09105244ce9a064fe702344755e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/golemshot.json"
+hash = "da83e5e05d9d024dbbd4b97243994f8a956a561238e949454a56d9d89be90aec"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/gunling/gunfuel.json"
+hash = "4d3a04f0c09e498f4347dd946281370c3266f82beee24715265c31f7cdefca6f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/gunling/gunpowder.json"
+hash = "45269bf962fdb164fa9baf904398502c4a1c05d7fb73e56ca93b73446306c02d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/gunling/gunshot.json"
+hash = "21b8a09132ea663f3caf66789c7225632ace5af7795213ffbcd08af587dbe10d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/gunling/iron.json"
+hash = "6f75749c793c1f62a24b1a5dbd1710ad153f73f153bf8668269ef7619c43c94a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/gunling/ironfuel.json"
+hash = "c8066a7e5246e552892b379a27b68be18e97e3669ada46a86e03323981567b1e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/harden.json"
+hash = "b53b7787b3989b9955e7796ebe76fc7763665fe4c59c4e430d42b89e6e55a422"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/hover.json"
+hash = "4294f722198c1e18fe933ee9347c50fd180719f53e8a42ba9dff822bfe446dca"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/icegolemshot.json"
+hash = "0248aef20f558cce1e9c99917721788b651bfffa468db1c9dd9df90624570cb6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/laser.json"
+hash = "e744f18ac4b39cebe92f9495215c79ea602e77cbb7fa126958410c50f2a5a024"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/launch.json"
+hash = "1eaba536677746a385873cd5595eebc6b391275cf853fefa5f37b80b6b8547ec"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/launch_high.json"
+hash = "8d7535fa14aa5e7a4dfd33ea6f7932e6281f02cb8c8bdc3d8142206fc4d0f2b0"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/phantomise.json"
+hash = "8a38e41d9945ce03c01d257036758366abc31c87423616a7464c71d38368e080"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/pumpkin.json"
+hash = "080cc637dd8d409d646b5afebcc100ef25b8303d7f7864f34ebcda4ae0ae47d8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/rebirth.json"
+hash = "72471fa649b110b61bc77ec9dd4c13992f55af5847b9522f7cf6f8984b219ecd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/rightheal.json"
+hash = "7dfc5dd8503bf914a2eeb89d9237443dce2320b26e87e668177c6907dcae947c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/shroomlaunch.json"
+hash = "a11ccabaf5b631de5db7ccab0d999594b4ce068772d475e34697aac63a1fd01b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/shulker_inventory.json"
+hash = "a3d56a5c4cff6a0264cf16ecb38974b8ee572fa4c9e91c10c146649c6d085db9"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/side_step.json"
+hash = "947ff3bf208e3d73a6336f685bd53f29451b300e6b125475198246ebf18ee641"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/spit.json"
+hash = "a91a135cb878d26f2b4cf99139ed7ccfc61bca0114d13912d8af201927e436fc"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/statue.json"
+hash = "a9f2ae4d00085a5c0de29699e76896d2cfef2c46ca9c0ccf7466666a17d84897"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/summon_iron_golem.json"
+hash = "f293e6792042f30bc2fa341974a6aa3ef2005faa0874029b7e97a03ab830019f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/summon_tree.json"
+hash = "c8842ff5273b792231351d8b14435b784e218e87ac5a09ff261d0de6d04f85a0"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/abilities/throw_ender_pearl.json"
+hash = "954ea5fd6e2b6e872e34febe6c82f06c4112979fadfc0230f3839ffc88d37cf0"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/beeteam.json"
+hash = "490e8586121ad02939a569db771dfb7d395e05547c99e534cbcf5512b049c004"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/beeteaminvite.json"
+hash = "d39e969e766b094d2edbcdf9a31a8e0257be83a50fcd47875725713142b1a065"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/endermanteam.json"
+hash = "d2e5477d5cbf3bf75990b5fea20a1fa544036f99d71d634c26c9b83210e5d645"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/endermanteaminvite.json"
+hash = "ea4e79ebc3025003203fc67b35396d2666a3ed8590b3fb045b4d02638bb42e1f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/endermanteaminviteenderman.json"
+hash = "ea4e79ebc3025003203fc67b35396d2666a3ed8590b3fb045b4d02638bb42e1f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/illagerinvite.json"
+hash = "4f102660431d6006c4a842949764f222203dc7d61e50f6bce5f2732256ca2862"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/illagerteam.json"
+hash = "8a1bfedfbc5f4dbae1c5225b6466c2e6b3332c5796fcca1a671281b4c9341987"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/irongolemmad.json"
+hash = "f17ba1ed9383cab71e557cadb67f61de6b78974913a4c84eaeac4bc376eb75c2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/noble.json"
+hash = "258c898c651b2d62484f5b434eeb23b928e5cf5747b5234ef5dfe4b02e13720b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/passive.json"
+hash = "6e5ddd37a4a457af2f7ee813519d8255745499a778ee10a4c7fb28251311478a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/scarecreepers.json"
+hash = "9698e3321a59fef8f807eb8b5fb7ad608a26ff4ff97c615a27b4835f3bd43c52"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/trading.json"
+hash = "e379e9e7e1961739848870a75bc071ca37fae755c64b807b3c203cd927460a79"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/undeadinvite.json"
+hash = "23a41fcc04f47a1bbcf0bd9da31192ca0d492dda39a308425ae6ed906d4c34e1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/undeadteam.json"
+hash = "30d513429140fa1855cbe4a229b30356694d2de016363886feb88a08c077726b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/vampirewolf.json"
+hash = "0869571832070e119c6b4342e5fcac91c6438bc6ff81e6ea7fe0b21255d91b81"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/villagerdiscount.json"
+hash = "a8a86da656424da2f87526315fcf3ee7a70fd2eee8f51bab82c4637f77017530"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/villagerdiscountamazing.json"
+hash = "ed4ca32b2fa476473edb92aeb14448929cc918097156ca9d4fd7cc175740031c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/villagerdiscountbetter.json"
+hash = "76ea1d825027475ad42b39b9dbbac8949a48cdc2f1092e60c17de96c0a099233"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/ally_modifiers/wolfhunt.json"
+hash = "44105c366ab9cc67e8b08faf3c5ab77cec710d2dcc90a12915ea9ac618e1eab8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/armor_modifiers/beetle_armor.json"
+hash = "a5cb056734f56d4429c8a24e6a31df11413e2fd4e39fdd4b6146d2032be183e6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/armor_modifiers/ferrumphobiaarmor.json"
+hash = "b653159b38248ec12add15c130c8caf87b864f62b371d23dae3555a7c51fabc0"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/armor_modifiers/golden.json"
+hash = "0145ce916b757511c956b9dfa34636aa5db4bcfc411be3b88dd868cc4b9c65c3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/armor_modifiers/iron.json"
+hash = "fa54ea49eefdab9d421d723a6e4580c4a1757678a333ff0a6e6fcf9e8f380b1e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/armor_modifiers/leather.json"
+hash = "ae70d425f75bbc7bd5c02b668c1f52b0ca406d64902b46a696c20bc45a363ad1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/armor_modifiers/lightweight.json"
+hash = "0d0f747b4dcd5a8ca1375e51a5a5ac2929d4b7835efcb22cfc69c11dbfa8f7eb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/armor_modifiers/natural_armor.json"
+hash = "12429a93920803e42db3b719939a12cf4f154351203d1d1eb56f44dd5ec545f8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/armor_modifiers/no_shield.json"
+hash = "2c3ac8f742c0222e0bc3a4ac625a9d9766e3ddc91dc19c66f4eb0ae56cfe5a19"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/biome_modifiers/coldfreeze.json"
+hash = "115f60e62b9b34dd08746f661a13dd11232644dc14a6a0778da5f0a50c3614b5"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/biome_modifiers/hotspeed.json"
+hash = "12c11736c3116a346f9086a71fd3ba82f944b8c3c2ea0dc93e4fe48cb3e66c0d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/biome_modifiers/iceelemental.json"
+hash = "a8f3ab31cdd82532773db18d2e34a3c01a9a02569a532f54f53bc405d52208b8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/biome_modifiers/nocold.json"
+hash = "7faf321e62a1a0281bc4522f266a5ba0a2760a0e4ea5dad6153c6a11e536f18d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/biome_modifiers/nodry.json"
+hash = "6314a340651c88c4d321eb6b949a393ef6462d8ee152880197795aa7bf3594e5"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/damage_taken_from_snowballs.json"
+hash = "0b9111d89a0227a9328465e3ff1087d3bc18f820ddb4be73cfd78dc143675147"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/delicate.json"
+hash = "c6d427b9d935fed66bd47d51d89cfd61ff6fc8d013d602d7607f85e56737f06b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/drown.json"
+hash = "99ddb379851746b4a20e9b4c04f0eb22db17b4d8c8b8f4fd97abcaa38ec86572"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/eternal_flame.json"
+hash = "0b9eb336757cb9d3495fef2d04ad7c61df7390000a97e1a1713f3de12cfedf2e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/fall_immunity.json"
+hash = "cd3fb5ec8583ff59db9d2c3e2b953804680361f195bed401a7ae97987da8f2db"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/ferrumphobia.json"
+hash = "7ae9c594ef6e68848808c9995c435a2f35e9d81f12e5c514ecfb0868d6d13087"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/fire_immunity.json"
+hash = "ceed456b06620cfe9096d454a0de9a9c74045ad94f7dd72604d45d568c2dff56"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/flamable.json"
+hash = "4f77e92fe5db0af80879406d5df752022ba3d63172c5390e0fe77d1a184001c0"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/highlyflamable.json"
+hash = "d7c64a4b584534f2dfab2156b6adabd1afa631e5f1a57e109ed018f18706f25a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/hollowbones.json"
+hash = "b912b5b163feeb29c3625975cfb828b68dddabf160f54c3de4814e53de5c5ce0"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/hotblooded.json"
+hash = "dedba702f266bb35edd26b001fadeadd27a4bcf17959dc242b8df9b922b97656"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/hungerresist.json"
+hash = "850180e42507f8c828846946a038305aa9ab50ffe7924342a35543c8b86aadf6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/more_kinetic_damage.json"
+hash = "e6d3a7906575579e6a3fcbb5a8ce735dc2ed4b3de912b47af5d138c700e94de6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/poisonresist.json"
+hash = "dc504cc42f5aa17c0fa14f59574e0bfa6a60d55331780b9ab87aa5ec9c15a624"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/spiders.json"
+hash = "66dcedb56add3ee48412eb8f11bd78b08b7f9fbd346b12db5968328e0036ac5d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/water_vulnerability.json"
+hash = "bde9dbfc45e5b6fb6ffef669d31ecf130169526642ab9d94748ac4992a90efe6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/wick_water_vulnerability.json"
+hash = "e68b2301ac660fbd1b69bba871e41f573bc49d6118a23707587d2a5e215c7936"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/damage_taken_modifiers/zombieillager.json"
+hash = "a50a08563de05aa2e167931e21df87448779345bdd1f86f05fd909263a59d3ed"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/airelemental/airdiet.json"
+hash = "558fcbeadbbb88894e076b97ddf9c31d9ccf84a87750eb3499471776901407b3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/airelemental/airfood.json"
+hash = "03cc974c97cc83e0d43ea3b52af77cf0490d6e06c1570f6a8bc801ca48f081c6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/airelemental/feather.json"
+hash = "9a5812feb814efe9fe45b019c8b1ed0d03878f00df6386ff8cfda21b484a89e3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/blood.json"
+hash = "469980018c23c73bb70ecdb897411d8945cb6f91077488c422f2eb037d22420f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/bonediet.json"
+hash = "711b420c02074ea7eaf3bafa87d39d051df00f05a40e8036dc3beec2530cc479"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/candle/animalfat.json"
+hash = "5771eea4b5064dede88004dde95124009cad49d806dff0a2abeb372f4c70eedf"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/candle/honeycomb.json"
+hash = "746dc8fa055b5d85c529182b3249095b2f6e3259bcc9865ebde0ba8abd2160a7"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/candle/string.json"
+hash = "19fdaa8b6da5cde79aa285a743ded3edf3fafd43f202af23eb6ca470103707be"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/candle/tallow.json"
+hash = "46214a42db1010406e7acbbafa4366b256bac369e516d06fc616a84ba9c5b090"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/carnivore.json"
+hash = "97a594fb20a5593ec65c72d6633fb0b7534a57f81d33eec9d9733dd95001030d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/claydiet.json"
+hash = "43d639d4a854e916a2918477400173ae9db498226a64bd47f3d282e387540f34"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/coldbiomediet.json"
+hash = "905a7d2a2c3e645ba72f73a873c3b0f4e38f55b038fc8f7dacd9eae3d31e56fb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/damage_from_potions.json"
+hash = "5deb56783a4c9cef0172f27d07919d41c59ca5fff6b99a90e7774ee7e197e176"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/dietnone.json"
+hash = "19de5bfc1cdadfc082d105c5314278f458f63a5d210c10de16eddc5dee87fc55"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/fireelemental/blazingbucket.json"
+hash = "d2fec3f07adc11c46f5aa0a0ec88d848f22b07061356740b26b4e36b9aacb661"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/fireelemental/charcoal.json"
+hash = "00d414f4e9cf3e269ea1f3ba340704723d701c186252b717767bbc88f51f21f5"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/fireelemental/coal.json"
+hash = "37ae209a4073d1683bf9fb85269f7a60e27d84200b7c4a1559be5004eceaa5ee"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/fireelemental/lava.json"
+hash = "4ce9bad42d652ed33a430af9486177fecf72eea631a8cd7ef90bde94cdfa2c37"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/fireelemental/lessnutritionfire.json"
+hash = "13e62f2d51085368fa415168f94246e853acf655497ae9c90bdfba07e15ba1d6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/fishbuff.json"
+hash = "16e5d98639f0fe0d89cc9d5c29a84c905e96bd5444159ca3bd7fd7d6bde4da04"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/ghostdiet.json"
+hash = "8c478ec16a0fd764653b6140a7a7662632eb847968eb74d85042953338918562"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/ghoul/blood_bottle.json"
+hash = "a3a2e1ce2b3d9a3dd901efecfc09ecce646777ca7a33c9f85bc4d1a041961730"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/ghoul/blood_bucket1.json"
+hash = "ae03090458bd48141e82f661f3135120986b57382ccf140d472398b0642a1344"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/ghoul/blood_bucket2.json"
+hash = "f9318d6cb7bc62e558a76daf98da10a19e98d9ef458eff5c58154838a6683144"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/ghoul/blood_slime_balls.json"
+hash = "253cbb4fca64abff29b130e77cd20bf630e0d3dfddc5e2c2ced8d62717e63fd1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/ghoul/ootheca.json"
+hash = "08679a9443ace02383adb3e91a89ad45c210c9d9da724939c332beb83e2e12c3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/giantdiet.json"
+hash = "ae05b6749881388856177f981ca3b386483a353684d3c0027978c36685750703"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/honeybuff.json"
+hash = "9c6889ed1a96259f03094d5b352e66c68abe0d037e3db5983a14e8d21831d1d1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/honeydiet.json"
+hash = "82ac7fa2d38deae8f6e1c42bd4c63ab47a616b94056df63c31b9c7daf79fd3e2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/inedibles.json"
+hash = "c368811bffcfc2fde3fd58f3bc77b7d1360b3c18bf91390120fd5f852afef83b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/irondiet.json"
+hash = "fe3a2d24a27709f070d1bcb6004a8ab3563e9d354defd96f1337948d50556db8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/irongolem/crushed_iron_ore.json"
+hash = "36d65fc6cde7874a1e55c7a8914ce7c59bccd081090b0d879be6f9044a67e0e8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/irongolem/iron_sheet.json"
+hash = "9ab6712538434fdd9109d343d51ba6c36bc6fe68f8c73572f4c1e550d638df5c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/irongolem/ironingot.json"
+hash = "b809011df5af04c6fb6bce118b8b7c680f0b811405c3de652ef2868a290f730f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/irongolem/ironnugget.json"
+hash = "b880f8b64054b9a40c94971313990a3b40c1908af4bf8853e13ca0abd274b099"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/irongolem/metal_bar.json"
+hash = "33768d0ee8787b5ccccd3afb22ac2786626ed0507a74790d236cbe71fdfb0856"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/irongolem/rawiron.json"
+hash = "2f647b46dc1d2973e38359d78f1b6baaf00c56d82e8794e1328425f7aa46a9e7"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/lessnutrition.json"
+hash = "3a0ec525e8498b343568c0090f9803ffaa8671681297900a94f627ac33a79da2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/miniscule.json"
+hash = "79a252c2e70d438b9159c73a5becf14a2cb185f07b224ecce2d7f59f82753ca2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/nectar.json"
+hash = "25eacac610e9fc2a508602b3911bfd5fdaf02de527a652b9b0c31526ebbe55eb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/nohunger.json"
+hash = "f2f541acc36818654fd166ad3a3f2d4bcf012a1d295be8cab3424c1df13be838"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/pescatarian.json"
+hash = "ae41ed5ffb40da17ddd0cf5f1e79df821cc3e4b7c76550403c851172d9789b60"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/poltergeist/bone.json"
+hash = "26db1971f62bd79dafb9b9ff012e31abb77d70c511f9a2fcafe59d04063e5642"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/poltergeist/phantom_membrane.json"
+hash = "a24490021698c84ed2e9eabcdaf0646a77789dc8e15b47b3f59a43ec15d2dcd4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/poltergeist/soul_bottle.json"
+hash = "ae0d863e30e57bace922dd3f9cb8dcf46f61b76a18424e9df9b80208173beb91"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/poltergeist/soul_heart.json"
+hash = "3f6ca9b7edce47ce3840ff2c1e414ba3ca9e4ad77c11414fbbfb68e9cff511bc"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/rawbuff.json"
+hash = "72263aabb88b2e6a6336b683475f2802a8bc0be74bc1dfb4ae108d7d705bba22"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/rawdiet.json"
+hash = "038c2338292b2ee1ec5380077a10ee78d1f276f85a53c468d0fde6854205566a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/relic/ashbrick.json"
+hash = "4b0043daa927ad504ad1d8684b738839438a2a4529e426e4ecb42e60f3d9165e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/relic/brick.json"
+hash = "b8ee1d5d3417aa900ab65e5055a08eb78504eb53176250f1362ce334985bda51"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/relic/clay.json"
+hash = "e9565cf6c4e4e76a32e88b394999c792f806892b2ac513ec8b71eccca792a000"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/relic/netherbrick.json"
+hash = "1d05c188f8b49d53c7def9552ed8f662db18a6ff389b4c32ae4b6e2592446f78"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/relic/scortchedbrick.json"
+hash = "60a90b281673b68771d7f0639fbda98892272ce68c6713cc9b103587b555f5ce"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/relic/searedbrick.json"
+hash = "bd7d0cee762558ae44c8fcb1017a1abb3686d4e8381ea806f828f44d0b9516a4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/rottenbuff.json"
+hash = "3daf232283dca7e5b78ddbde2bfab393e2e6afe29e3707e330ee9162abda0881"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/rottendiet.json"
+hash = "dfc9b3bdcccd516406cf641607dd0a21d311a0228fa84a852c22aae0c206edc3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/smalldiet.json"
+hash = "2505c772cc901154f51d71318df212866ab9fa3cdc5f5a26d7e363e9387e7525"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/stewsbuff.json"
+hash = "c4a29775f3945d21dee789dd9b9d234d5bcf8348348af71379f3808e84e850f7"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/sweetsbuff.json"
+hash = "84232ad9502212f895c7808f5871b48c4ea97958bada7687d0142e63919d2f51"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/vampire/blood_bottle.json"
+hash = "91d7d17a85f831b359915b8c57ff4f663c4f1c21a6480bd95ff0395676607529"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/vampire/blood_bucket1.json"
+hash = "00e3ef82b5e7f26cb47e3ea0d090a0995b8d09e16a6e68cff7d6fdbbe41e3212"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/vampire/blood_bucket2.json"
+hash = "ed8961a1023c864386b7b8e56a8f6d72299d238f4aaee45ccc66706898b1e473"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/vampire/blood_slime_balls.json"
+hash = "1bf64b8177fd45e167070dab6132a9b26bf12b8489ea939395c3a4f9d4b23c7e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/vampire/rightclickdrain.json"
+hash = "58ca7d91b4d8cf6654aac6d2ecbd15039258d7592009b77b314f8ae3e6840ac8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/vegetarian.json"
+hash = "c2164edec0956318eb0e8c5ac183c58db9799d0819d4d7d54fafabab7aed69f2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/waxdiet.json"
+hash = "61c9b6b61df2419ef3516beb8cc1390388f7208f00507816c483b9e7e6dc21fc"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/weak_stomach.json"
+hash = "f68e09e169b0c6d930a1ece62694966f2a38f388a70b9fd0199903f05428e499"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/diet_modifiers/worm/bonemeal.json"
+hash = "5d626eeb86d46431ad2520c924e26ee4bf3c57fee0e7b491573d56b0ac527cfd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/entity_groups/undeadentity.json"
+hash = "cd0f0cb07f79f1f9d5f744c1978c0ab9ab0a184ee3853dc45a6170043e060700"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/fivefalldisabled.json"
+hash = "c5a353090325bf6ca5726130ca32ec8069371269b5e6822b1bcf61b7f507abc7"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/fourfalldisabled.json"
+hash = "9dd2af4dfb1d2dcc68071a54309ff7bc6509f3c8e6c3e77453225603f23adf1f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/halffalldisabled.json"
+hash = "b93fc12d5cad65cff3357272c62f17d1b1036a77356d9961182b9d97c2cacdf4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/harefall.json"
+hash = "b83db7bfae7c47d625fc54511c4d5fc53926bb05a6df64fd66b86f7cd9db83bb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/harefall1.json"
+hash = "d1e5591523b5975b0f3906dfb9f0ec6ba9edfa1116a151915b8ee61d9b66c6ea"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/microfall.json"
+hash = "4187ef41a0153666cf551f207c9b43e288dae5b51201d1633c8856eb3cab846a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/quarterfalldisabled.json"
+hash = "dbe82d08ceec1692f43fb7870a0551864eb0f6901766a51c4b8d950853f1583a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/restrictfall.json"
+hash = "b039d956905ee9e90925e9ce3db309aed1842d6a2e22f1eb776cfdc430e0f2fe"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/slowfall.json"
+hash = "6160006444d5ad10344ff7b5aca288ea443a76a58b646b41c9df625d3c1d99fd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/fall_modifiers/threefalldisabled.json"
+hash = "dcaf0ed2a50670848c9651c370c9627ecf0f083eacba81c1f9fe8dad3db4c942"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/health_modifiers/fifteenheart.json"
+hash = "4af0f47f3429a3a25a3e61fbe1572e8a0eb0ca16519803d2dc697ea5dc4970ab"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/health_modifiers/fiveheart.json"
+hash = "99d8d103d2198e4379251bb47beb82430be71349a453d1361f3c89e273ed473a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/health_modifiers/sevenheart.json"
+hash = "49e0a6e2f1e6278980ceee7138c3ca467b13792a3751882fda6f3ff4e681cba5"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/health_modifiers/tenheart.json"
+hash = "48d798c1f9ab06bd1eae73b1a5100fadd3626847adddba06e5e2e2b448944d82"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/health_modifiers/threeheart.json"
+hash = "28c2fed8a1f9fd2494a37db964baf3a57ef986a1e310116773812dd43124415e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/health_modifiers/twentyheart.json"
+hash = "558bc9c97db279c088d573e956468ee551ac22524c01d4a94ead0443aa79b375"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/jumping_modifiers/fivetalljump.json"
+hash = "ca81e779433f7ec8ee6f85eb13d49658342a444d43c3dc3cfcfa12c1b80d9daa"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/jumping_modifiers/fourtalljump.json"
+hash = "6197f284f09907467402f4e3fae3874986263b14f700490d5cdecdf683683c9b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/jumping_modifiers/halftalljump.json"
+hash = "1305083b804cec85ac7cab33f399ce532a789aa68da06b68980029a9ab7495ce"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/jumping_modifiers/harejump.json"
+hash = "8793276637541aaa94fddc05b8a30df7dfec9448d1d2fcd629cfc4f0cd268817"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/jumping_modifiers/quartertalljump.json"
+hash = "386b980429692fdd0eb652f0c6cc47f4c6239acaea3282c3c2a9138aa59a4f12"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/jumping_modifiers/threetalljump.json"
+hash = "ca81e779433f7ec8ee6f85eb13d49658342a444d43c3dc3cfcfa12c1b80d9daa"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/axedamage.json"
+hash = "87572c47bc714451c75abd16a79d8c7be0d8111a855de1204b9cb2c407782dca"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/bowdamage.json"
+hash = "0cc4578c99b9d1ff0ed01134aa3ef8bed2ecf5ba26e8088de2df4e3e310f03d8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/claws.json"
+hash = "826957ff8cf9c5c62a8a4b0e50ef6c02377adc11d93c225ae20a1b88264d7374"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/explosiononhit.json"
+hash = "26c094565310209ad11495286e317db53a3bf34a39af2bef451a6aed16ad1fd3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/holy_smite.json"
+hash = "edf9d55590cabf26a0a5573c915c9d848230ebb3a8f2159aadde1864108463ad"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/holy_weakness.json"
+hash = "e821f260e21ade2718126a6a91004fbde34b59ac537c71c34206bfde34ef09bb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/iron_hands.json"
+hash = "a66364373e02ff544b95bc703fd489e7862f407a2e2450bfbdbed1db1233ccea"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/life_leech.json"
+hash = "6bc6655c67b24673b5965ee9638bfe2c54f0ba4c9ca7689ec37f9df4421bcd9f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/llama_spit.json"
+hash = "f2ab67df0d7a226e6f556d18f34566781757ab67484ba66bb603c968569b129f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/nighthunter.json"
+hash = "b67911eb342e2dfb828a145bdbd0f3a5a79217e43e4197b6e3302f8d29da093f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/passive.json"
+hash = "7d35b19f154f33731af9b469bbb0388b17e4e6ad50d29c787354fd83ad861ca6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/poison.json"
+hash = "0c7fe2b7b1bed8f36b2bc1d585fab77150e8ab3ec99652ec23e20794f1f1d0dc"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/soul_harvest.json"
+hash = "b525ed800c660c2381242279f489edb97412b8baf2b2c30cba46c55020624838"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/strong.json"
+hash = "faa8609e5d7d613d2327521272ca8a4d999641f8946b4be5a8bd4f747805ba78"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/vines.json"
+hash = "7d70bc7a8cb216f319141339a1da8f221695f448f1de47a2ac358e113fecbe53"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/on-hit_modifiers/weak.json"
+hash = "97e1acffd230f4a082fd14c1469edbbec62864f726026e989dd3b905d73a2eb4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/reach_modifiers/extra_reach.json"
+hash = "8f538accfcc25bac1b2d3f74925c55df050331a05fe048ffe3db389ac51db3ea"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/reach_modifiers/halfreach.json"
+hash = "73f504223926c4d6f86b9dd963f6363492fc879c51d3777656154560ae4a5b64"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/reach_modifiers/quarterreach.json"
+hash = "4595cc7da180af9c69735607e7c95767605ff6245798720e6ab1a483d334f16f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/beetroot.json"
+hash = "570da17af7780819792d6e44253d901eb2c4b54bd5cdb4948bc2bd8a636a4ec4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/bonemeal.json"
+hash = "022629e1ead3f09b8442b61d54459206d526d0992b575645e83bc37de32b5847"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/cheapcookie.json"
+hash = "0edb721b58b9561bb4cdaaea45545e7a303068ea60512d127d8da768d602ffd2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/dirt.json"
+hash = "daa1892a2bc8b7dfd2de788fa825b395e3cf887f2efd0bb6c3619c88172310e3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/explosive.json"
+hash = "5a0dbffa40a7fab60e73f41f9533c39cb3bab5c523b24cc55bb4e7164757a695"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/gold.json"
+hash = "656f028aa12c2f9b2b80b945a5476fbe3a11ea28bdbc7a04be8b90bc42230485"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/mushroom.json"
+hash = "7769af774988985214b8edf0d06c43928b18ee93d2b0f261a96c5aa359f19014"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/mycelium.json"
+hash = "16aeb94da4a4f23395df037fced07a5c1c2de7b50179e8cc9ce114783b67a8bf"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/pumpkinpie.json"
+hash = "883360a138f5652713c4c4a1e7b08436a1e2962b84319b50df7a54d713485936"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/rabbit.json"
+hash = "c7ffba3cb17bdbb4ae69013e0b00d23c220da188525ef20b05cc779773f7c7af"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/recipes/sugarextract.json"
+hash = "d743ca42bbabb3a37675052edb339ad8733acde070efeec24f8f7bda0a7bbbbe"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/adaptivesize.json"
+hash = "7bbd7adb3aacca4a1a1d755f839f704bc2c605f06b5da0e7e598b5084aa0b878"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/belowaverage.json"
+hash = "44953c3e52dc86a58c4006987751361515b32e788c493f5e84574dc5f195a58d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/crabwidth.json"
+hash = "2d07d4d62424a324a87bcb0014c4b20f0bc1e1f21760e207d9fe3304aa7f9430"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/dwarfwidth.json"
+hash = "de43d460c95fb2bcdbdf662b552345c0a53d22a0d7a14dd98ccfec7cda851305"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/elfwidth.json"
+hash = "da0d9b59e184c86b89cfd3c1eb10ed23b023dd70adf874dfde7b83592e9def62"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/endermanwidth.json"
+hash = "2b99ad99a8908ff455f1d88c59fe37ea2e785084514173169d22444841ce6e76"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/fiveblockstall.json"
+hash = "eb4088228f326170ff7aef8bf557a99634666c772b64f063724230262dcf4139"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/fourblockstall.json"
+hash = "8ab864934c6ed6fefa8cb483f7bb0e875806c7de33580de029fa0dad791bbe38"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/halfsize.json"
+hash = "146e29792ec313b36ee699c262c3661bd9f88567c9b4cbd9f40ac9c1c23a9328"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/micro.json"
+hash = "fb8fd44dca03b09349f75d53fdc950ab2d394b883f36ef51f4c05a9bb4e09f81"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/normalsize.json"
+hash = "88f22be943e3a54a8f7723f2daf758c0655686f602bae8d439f8b81dc45fba48"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/quartersize.json"
+hash = "4a7004b6995693185f401038c67dbe346078ca417de3f280a8bb1905906be2a6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/reset.json"
+hash = "3f6a253f09151a1e8b305c590615761384622775d97772ab408b4267bc352dc5"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/threeblockstall.json"
+hash = "311fc63273cd699cfb2830ad9bac4e925bb4e4e54642256065fef4a83599bf62"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/threequartersize.json"
+hash = "f6b96806dd22a6707de7939f4aba31c657780febcdf8fb77c3708847cdde4e0e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/size_modifiers/twoandahalfblockstall.json"
+hash = "7bb0cf5a8212da156e006c867002b082ed6df335f9bf81fe19c5950a1e0d5063"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/careful.json"
+hash = "df9ee7a97b47594c61ea4877450d68816763b355b5e5dcc68b15ba366033838c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/climbing.json"
+hash = "61b8b67aecc49268078e76ef0b9df8a3ab908fd28996033718db462ec5071987"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/dirtswimmer.json"
+hash = "afb78d9fcbcaf197df25a60ca2726e317fa7b1f2a62a8f109ec7c6cb48ea0969"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/double_jump.json"
+hash = "b4c6ba3c47f34145e13cf5b25c78329940dd1d00abeb8882ab14ba75dae1891e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/elytra.json"
+hash = "18069bff76bf8cd486c0e7ec88a82074cd172ebfe4815975a5f7e17572c2a6d8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/flowerpower.json"
+hash = "efdbfeef645311d5aae2f436a4b3fd243a302fa7528fac5ba7caf3d5734825aa"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/frostwalker.json"
+hash = "0c24867ed65734fdd752e67fb714d23bc26cb8c8bdb0fc6554d4ba5ca4c39dda"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/greater_wings.json"
+hash = "6e5e1b88659049c69be7eb34582effee48aa46300479f18a3b1bada7439c6166"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/greaterflight.json"
+hash = "5d026020d70d95d11a4c1df6ccc6745f665002d775569e3dc8e94e9944745488"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/groundslam.json"
+hash = "bd2b3fc758a40d0bdcdce447aa25b65b360bb07caf47144c0e070f8975377557"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/infinitearrows.json"
+hash = "3ebc0ed0bf6c7fab466b7257f6381c57a761eb0693ae1e3db3afb7d5ac28b3dd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/lay_eggs.json"
+hash = "1506c0681139def9df59d7e4cc035e40a3494af5790249fe421b39973821fc77"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/lesserflight.json"
+hash = "2dfb9ec3ed0fb2fd7250d901ac3a99a1e18a451ee11b1646432c08cdd4127633"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/master_of_webs.json"
+hash = "e0062002ae7beb2e6bedf625ac84afa36e6f3d14753e9468d81b0b0746f6e2b1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/no_cobweb_slowdown.json"
+hash = "af7727946290717cf5ea1c4003b4c7025249462a306979a8c272e385dcd29f43"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/sprint_jump.json"
+hash = "d1f043ed7af2240a39d22cae16ee1b671a13d0398d28800c4e14c7ac3701edc9"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/strong_arms_break_speed.json"
+hash = "dd695c68c92e5bc7c42dc2c01307cde9206444b8f1740acfcdfbd7311ade5b4e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skills/velvet_paws.json"
+hash = "79cdfacb6601272865a7ec5e1e284afde67f904b6bf39a61e95570aa7c132f7f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/airy.json"
+hash = "fb5406e0d51efaa3b6dcd65241fd370c56becf9c7ff840a8e07a58da09107cda"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/aura_particles.json"
+hash = "cf14f4360e8ab3bb1d3fda34464fb3eec9809b62b59e8a7530ef8753afe77ea8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/aura_particles_electric_spark.json"
+hash = "475b7552dd3532115f97726896126272f65924182475e271a6c5425616f9763e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/bark_skin.json"
+hash = "c5a0b43631af434e30d3b5dd7acc4e516c44dd1b1b8fe0b69ffa688e21499fc4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/black_skin.json"
+hash = "399bee2b20844ee7d8ebe7f8184aca145ef4c02d027b0a1f5808f993e1e89246"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/blue_ghost_skin.json"
+hash = "4dfe421d500bab03e17a938581f2f89061f510d07aadbdef707260367a1703f8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/blue_skin.json"
+hash = "961b26f1d4d7a7c3c6173a94bfd3c4eeb00115df8c396f8a1a28367645a8a70e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/dark_ghost_skin.json"
+hash = "ed1965224aa3e96ba2f435f2b6fc7280017e6e3d3a86f60be38e02a620bbd10a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/drip.json"
+hash = "abd57ad240cb39b9500dc6a89130ce21b11d440781e26bcd44d879bf3fb796c6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/ender_particles.json"
+hash = "a14fd235c8307556b44ec34ace77a8553edd17ce88cfef1d52cfc6bee2458560"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/fairy_particles.json"
+hash = "63c2ff3d3b858068026233acbadf77112647badd9b6d3c34da31c5ccb963166e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/flame_particles.json"
+hash = "1ec1511ea1fa9cf1eb5632d7dfccc48b727960ceac5b4dea735c66e0a570e362"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/ghost_skin.json"
+hash = "6e74a3987dbc958ebe5f92525f0a43ec17426a81cb612f93f409ac6ac325d063"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/glow.json"
+hash = "ae60b6cb423b226ad312efe7e23c808197e7e83357efd22ac9f8ce129b4ab3fa"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/goblin_skin.json"
+hash = "847dde5b12b9c5af50247efd066bab94bf0d34cbdb21ae849550fe920e5f6810"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/happy_villager.json"
+hash = "71265a9319769784d9d1ab3320c77b46c97720028be8e00a75ae80f902943302"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/honey_particles.json"
+hash = "4fbfa1330c76c5c4ee08d61198854f9906ccc4ff36a8d35326d6bb1312ddc6bb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/light_red_skin.json"
+hash = "f9f82b8e8a79aa87257cc325ab9fffcb4c8fbb4ad9d89a374614143fdb698033"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/mush_particles.json"
+hash = "f743ecd2f2f9a124d3ed9dbf2dcc9a31cdda7485e62e7dc79f05b1a0f0c93fc2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/orc_skin.json"
+hash = "5caa2e15fcd6f44a3b2eb98f64276a59d935636e7432d0422f975cb95f33e97e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/rainbowhead.json"
+hash = "2669dc1c8e4fac37096bab4d6a680e3afcb5bf4c784bc5a0d1f5dd00bc165f2b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/red_skin.json"
+hash = "fb9e36a989c826b65d8df1ffdbdd2e11e5b4f3f7dbb2f88abfcf7ad57e52a9da"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/smoke.json"
+hash = "c619f4363a767d1cd20d2dfd37ad0be31b4289b8a853f43b0c56e3846c897a11"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/smoke_particles.json"
+hash = "1db3fd8fa79a80243937339abf12812579347cf7bb622f771aee48dc60cafa2f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/sporeblossum.json"
+hash = "be4f76de16eb6da679b003c93248fe462adacd39a3ab6753d1eb8104362e850f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/thick_spores.json"
+hash = "00eec4bce77d8e582fc89d530887fad7d4a6f9559172d7d22a679e0fb89a8fcb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/translucent.json"
+hash = "c861ac0bfb13f897b1647a442c55a55e1751bd773e5ef82c96549439ba547a8b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/troll_skin.json"
+hash = "e64951b9dd699e5d254dbdd26812041f5d4b7f537165ca6680c09c080cc2ea9d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/undead_skin.json"
+hash = "93145b4923581a324c9df734bfa4b2b9c19a052c728ac2505e54a8b335a77593"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/skin_modifiers/wick.json"
+hash = "46a16f2191f3c2384e57a684e7c4ff4e42321865672a7fed64215807112e75fc"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/crabwalk.json"
+hash = "67def1469ed9d44daaf3fddedeb51a229c348da2601c1d093487ebda80cc802e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/dwarfspeed.json"
+hash = "3182d2e9f34f43f25743483c2677b73e0e8fbffcb76415674cc8030079fcc056"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/fivetallspeed.json"
+hash = "93c6d7c019820933354acbb19b4de530e294bf259af21834f91e7157cbe5bbe6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/fourtallspeed.json"
+hash = "489dd66ec390b4df6df4ca050c2dcce220e809b2a302c8fa6cc77692cb9fcec8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/halftallspeed.json"
+hash = "2fc06dc6d918352377ba5a2b0736808652651099b02732caa945c9ef845e0da7"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/ice_slip.json"
+hash = "8bdbc96d9f9c2de71d38138a33d3a2fd2681c21815427eacc6e01755ee109687"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/nightspeed.json"
+hash = "510bddc29d682239a709871c166b9a477445baf1f54e2714bcc67707a0e83b6b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/quartertallflight.json"
+hash = "edaf039eccbc30bad80dad62a09ecd1b505ef29c5771350f8b37d627999bc976"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/quartertallspeed.json"
+hash = "601f3a6bb606ae38c0bb126a8649f219391a4d94ea543f9ac11bbad8a841b4ba"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/slow.json"
+hash = "449a07b1c1348d854c49040dc490577dfe8e9d2e981ec3b1c560f24deecf3b01"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/swim_speed.json"
+hash = "98e608bb6ce88219a480b8f35839d693fd296cba718d42a618c5319ab491476e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/tailwind.json"
+hash = "515fada4c5b2b7004a68672003019d8fc7581e2abb2992c3519618096ce5a53c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/speed_modifiers/threetallspeed.json"
+hash = "2fc06dc6d918352377ba5a2b0736808652651099b02732caa945c9ef845e0da7"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/abovemypaygrade.json"
+hash = "eaa57b260cfb0c180130082446f4d7e281b542c752fa2ffcda2c7bc205f54f6c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/afraidofdark.json"
+hash = "a8ace90282fc943421139e24c95b6fd5d75c6085a202764c103a1785ea8d4dd4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/afraidofsun.json"
+hash = "3db4120685fc1967bb3beae135e013bccf46f359a581dcc49232b8d4d0831f3d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/banner.json"
+hash = "31e9348ca2f4633e7ee81b0dfe9c5b31de18c44ae833ad235aed6d1fb6c42880"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/belowmypaygrade.json"
+hash = "0719f34b1a8b7aae563e829fb3bdc9c51d2db86970771be4e2ff7896d8c89260"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/blendin.json"
+hash = "9c008ae1e2a498d52120953719cf4497d67840b71b2b00a1cc6ac6b467df507b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/claustrophobia.json"
+hash = "9f73d4eb84c40dabc55c7b2e8b9d502ae01e36f00f233aca92fac53935535320"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/dayweak.json"
+hash = "3c8b16321147b727695cb347b7fe96f80f27fbfe3958f2b026d8ca2d3f1524d2"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/dolphins.json"
+hash = "7a6791e42a6593d21ff1fc44e2dcd56ff48e51890429912d1e2187ba0cee8dd3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/fast.json"
+hash = "92d45be9bbcb676e18c5dc08175272dd2b5342e12786f2ef7da2c935ca777425"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/firehunger.json"
+hash = "c5ae7825c8bfb84b8f69c304572af100c19f6d2ba149d4a14a360ec6a8eb2e9a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/forestregen.json"
+hash = "f1502205201d858e0e98b7b193ce6b440d0649f0fd75b38df6284441e7a10ba4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/glowing.json"
+hash = "071df6b6ef4994c2818798b2f1eea98394eaaab1669bef7c0cc676c5a46b0610"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/greater_water_breathing.json"
+hash = "f2df774a77027e479a18b5adc28a44476901aa4e90655edd4015dda005a302a9"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/greaterregeneration.json"
+hash = "6e609ffd57eeed479dd2d53ff0bf6aa9c06bb5d6e5ebc70fe895b8fe5eb8cdc3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/haste.json"
+hash = "668a2a2b5656f216370666e1e4545fb64dc657e1590b8da0ebf18b3595fd911a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/healingmagic.json"
+hash = "e2b51273c91978346750d0350aaaccb19850790fdf4835bf8cd6cf89838f99f9"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/holywater.json"
+hash = "f18ff337c91a7f894b68cf5b1c8bcebe5e7b0b1ab5ce606c7e07eb149a961a63"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/lightunderwaterbreathing.json"
+hash = "10f15c293df6e40fe81471de87ef5b2727a4b8b6c99c6f003e4610cf6fd305ef"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/lucky.json"
+hash = "9398cf2988ebd950a2d0fde0420019c713d18dba2c9c0f45095ff4d9bf4237ce"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/melonhate.json"
+hash = "4ed26f4f6f3199746ad698999e2804db7510eca9e475d0cc731a37f6bf76da9c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/mycelium.json"
+hash = "5e4b534d0cbc336928bd2c776289a2d7557724b59268990c9e3ed17e0c9feada"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/nighttimestrength.json"
+hash = "25a0b0b5833c11b5e2ab6797b30eb24c7fcd450a7f503b9b57a4875e882723f3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/nightvision.json"
+hash = "66ca4e1238c5f27af511592e3bc550b482cbf1957805bcccf9f699e071ff1cc6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/passiveregeneration.json"
+hash = "b6a75433d25b671af89cfabecc08943349caf4abcabfd91609ae9f9dbf0746f1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/pumpkinhate.json"
+hash = "a762501b9cca413d704a9d2cd7fde37ce956a0305e552e14365ea4b927fadda3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/regen.json"
+hash = "b3794398938a9841006f605a8d24edcdd3ed6da91f302d01e19c2da7d0e5eb06"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/shiftinvis.json"
+hash = "b4761f174436cc810c261743273fcefff48834f65dbd0c34386c97e98971dced"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/sinking.json"
+hash = "bd3e94c0d5f6855aa2a7171d56dd0922252327ebee204a8dd957aa8c56bf4459"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/slow_falling.json"
+hash = "da1b600b1618939b5df759135bd1ac9e888673ca215b2f696afd6fdd62dcd249"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/slowwater.json"
+hash = "4160b9dfe130cb37769c7a7fa15c81f60ea5500b02a90a2b6efc54f6774b1676"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/strength.json"
+hash = "2dce361d728da8854f8ba0587a1abada75ea6d4e53556d8ae1a5a9f7ff723d23"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/undergrounder.json"
+hash = "995c5b9c8c6ba9bc836b0d4868bcb3cbd2d6035ddaddfcfc0e243afda8157f8d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/water_breathing.json"
+hash = "ba9e1a44f83cc2aab3f18429a0bb01a2d4e36ff4fe51c955db4cdee5dabfa2fd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/water_regen.json"
+hash = "a0b0e9982a8b53afbbfb2dd78609ed349b1295ab0494dd533f8824e367f6357b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/status_effect_modifiers/weakeyes.json"
+hash = "fb12e722d022d3574a47bd9ae1846c843bbddd25e8b30120165b3a1bd37f94d6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/vision_modifiers/blurry.json"
+hash = "ca1769035f61b0c522f6c9afa00cae83f35894c430d9b5c8a64dc278dae9e1d6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/blind.json"
+hash = "7deb3ebcd0820211c0032409f7b14ce7fdd7007087345349b9a3db4176b4c066"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/blindvision.json"
+hash = "dc2b41de801e6330a97d845016f1703789ca6486af17a2d1d5613c150a15710d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/breakspeed.json"
+hash = "937e58a27b053ab5f13b3ad6740203fea6240077179eb2095fc9e35733a19e1e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/daywalker.json"
+hash = "d2a164424f1fd97942e1c9d00ce45e8e3f3ed7bab34e9f7680af5385b73b1d46"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/deepsleep.json"
+hash = "282098d9145d797b248bb5669d21cdee48cc66a5748e1e9ebc20e83607c77f12"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/dried_out.json"
+hash = "abfa20a13c5bbfc35346425a26c55c273192128861785ffe6dcb94982b4650a9"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/drillhand.json"
+hash = "d0257071e30764ab94f3e768ad08d485b2a427f6b03b4c11bc533be5233e528f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/dull.json"
+hash = "74fa70fe42d8ccd9e120b451b24abee82f207cff8b5bfc476397d3349cb09aa8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/elytraprevent.json"
+hash = "d8e59f820e47615da5e6dbf03dc9c4952a6e85c25dffef931a33c779cd758f12"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/fireheal.json"
+hash = "f491c2a9a45c93b598d740f5f2dea9848da7c9041f33fc044ded0ec59f13b7e8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/fresh_air.json"
+hash = "a4b721b264383a85b17faf4faf814bf52e48b0d9fbbb8fe60480d405fa75c039"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/heliophobia.json"
+hash = "863d8831bf76975ae52506207b4b36a140d0ff1e2609be13f4fce7579ffa2564"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/lay_bee.json"
+hash = "999a86ad10f066d9e50bf97088e1d85fb71b3dd34e45d5e287c21683bb171689"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/lay_bee1.json"
+hash = "fbed0c73cad8b00ff4253d046767d9984cfb44000261b8664f18d796ec534dc6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/lay_eggs.json"
+hash = "1506c0681139def9df59d7e4cc035e40a3494af5790249fe421b39973821fc77"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/lay_gunpowder.json"
+hash = "345fcf4d1a83973dcbe19d8e2c9b990fa8f8a18e9ab7de3c9d548217f67ad748"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/lay_ice.json"
+hash = "328ca0d6ef08c56b6a63549aa8c6ffe51ca31c679674e97370a657832a609fb8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/noores.json"
+hash = "01fcc66cc4358b1e67575b5ce3ed5ae99bb1ce45834840c655883d5e1a4f9ab6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/nopickingitemsup.json"
+hash = "fff418e2da022879c440a30d36a4f9559b7f538db65f12d7416d1f7efb5d7e9f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/nosleep.json"
+hash = "3ef9e403dbbf3ec0317dd2d87098571a2bb42abe19e18b3d543e3254a5a1b4cf"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/noswords.json"
+hash = "fa8c5acdc0f0fb60331b205f3daafe9bd51c3cbdf50d31e1c7f80395e8b4c769"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/photosynthesis.json"
+hash = "e96b9747aa3f4d9ccfb26460f7bd57e2f66a85c12df4d058d9e1effd358b6541"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/pixeling_hold/feather.json"
+hash = "a578c2f9e5e04204f5a096f31c50cb21e0125630b8acb6d80d6c5c6501314fcd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/pixeling_hold/glowstone.json"
+hash = "d6756458cdf074e2ae8ebcfff064cbdde8b8fcccfd2ba22ecc1d4d33ecec286c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/pixeling_hold/rocket.json"
+hash = "8870d86e135254272929309f9f10f85a7d365491f7fbfda16f6ee28275835546"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/pixeling_hold/string.json"
+hash = "fb866bb018b1c9605aabd24e8ab20b6b0ce867f8299cc70e362c9ec32d5ec650"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/pixeling_hold/sugar.json"
+hash = "d6756458cdf074e2ae8ebcfff064cbdde8b8fcccfd2ba22ecc1d4d33ecec286c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/pumpkin_hate.json"
+hash = "db55fb418477e4bd1376455c1b4361483a7726ce2098f0165208d70facc8e22d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/shed.json"
+hash = "c9adbf3a228c8f3a94cb5d64768d7dfd80ba7077816abfd9c34330734910b919"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/smart.json"
+hash = "cafb3dbe24d1e0e10c3a4e87afa41d9c526934f61a7540b0828eae3a2383d96d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/walkonwater.json"
+hash = "a8a40fd3dd5eb473d84fc61e034dbdff81479609e96330cab13ee77d21b15e5b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/powers/zmisc_modifiers/werewolf.json"
+hash = "af8a0e9980fc854fb96cc6345937ed5769c05992b853846a97edbbf56312c23e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/recipes/glowing_moss_block.json"
+hash = "6cd9b7bf6800d08601d80d35a6fa5a72bc6ea40badf4debe27575e2fd13f219a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/recipes/glowworm_silk.json"
+hash = "daec9ca7ee18132102ed52e9a567cd9b5b27e67a64eeb73378dc72a06dbfa6a4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/recipes/origin.json"
+hash = "e4dcd377cb5e7024d0a56e4c2fce4347dc5818bd2a2e2e3e4b905def8c178279"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/blocks/banner.json"
+hash = "cb9961c5b1e467c5bcb2483e6f16bfb1af3a96b74d6ff3c646ef69c9b2b8dcfd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/blocks/ice.json"
+hash = "63828ce648fb52e91d0e4e468af99d0f23dc00ae01a3a561dc3fb61ba796cebb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/blocks/melons.json"
+hash = "6200be6db34fb5697806c0cf417535f827bda9d63cab1ff22fc935b4bea039ae"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/blocks/natural_stone.json"
+hash = "bd0e0f34724bdeffe88e9906fb2b2c0cc952e7802636016da23c6a681402c63c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/blocks/ores.json"
+hash = "dc9d4a46d4cb74291df290c550cd9560d6b2f4371051c6184dc309818dc5d2a6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/blocks/pumpkins.json"
+hash = "b6a3ac14b795d9b7c9ed6675802796dfc07e6b1e5a3b8a4d6e98ebb362032284"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/blocks/trap_blocks.json"
+hash = "008370bbb893197e7e5bce49a2d405297717b22ffaebcf0afe48b9a3c9f1e38a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/blocks/unphasable.json"
+hash = "9d08ccf4f6891006264cae3f4ab122342216ce46b766ec23202cd9f124cdc80c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/entity_types/passive.json"
+hash = "767da9af478e726b63115989cef06021bbf47a0dcd95dfa79f38d9ef0146d462"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/entity_types/spiderweakness.json"
+hash = "c6857a7ce7f8e1daf7804690e7467af43e6f93e9031cb42bc6460ee8cdf32290"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/entity_types/villagerweakness.json"
+hash = "f4376e45fb1da68d3cfa8f68cd1f503fde3615dd8f9de72d5d60476957f5061b"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/air_diet.json"
+hash = "983283402753179644df9979e23d6cca43bf9066ee4299930a227711d7e6dfb1"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/axes.json"
+hash = "c2a01754392771aad0d8cebb77165835d454a5f1c3cf08a426c1110091767c07"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/blood.json"
+hash = "753c4a79d3aa6772dae0abd457d553b3bdf6c2c505db16d6335cd3596f3279fc"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/bones.json"
+hash = "99fc96cb05a33b0e2cca2509323aaac40511be43c1b17323e5ab8a633f3cf95c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/carnivore.json"
+hash = "6406719c38c74505d71d5ea7edb1aef40a866ddc47fbb0993de45245de15b7e8"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/clay_diet.json"
+hash = "c21cf8d73fecf8262cc1976ae7ed910f2379773fbc27cbf3a31d4278aca0c2f6"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/coldbiomediet.json"
+hash = "44365b347c537624f4d505df389d3c31ad04bcd5764cb701e51a1bf6cad796b0"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/cookedmeat.json"
+hash = "c1150ba10087b817b8aeb35d56c1fab97d95003f12b5ad358aec63a75f31ea48"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/fire_diet.json"
+hash = "5deb1c5a53799277464b9868e9935f020909b3b47f4cc187f8ff61332da0a52a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/food.json"
+hash = "fde726866db2a54bb95b6957283ba8a10b07c719cc18bfba070279ad3b8dc584"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/ghost.json"
+hash = "20e1a0d09c3efcbd58be4f5195598d5e23c414f49fe8b38f734307c3803b873f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/ignore_diet.json"
+hash = "c2576a33b239e77e43c684d89b36e501abce93ebe59a46c747bcbc2cac9ea3f3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/iron_diet.json"
+hash = "350616bff5c98798d34561ae023d2309017dc5eea68a07299920b7e7501a4b7d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/iron_items.json"
+hash = "71b7639b16902c8f122743f35485fba09dcfa9d7ec37159d94a1e48ff319bf37"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/meat.json"
+hash = "2fa0bdcd46d89509065e4ff2190f2b20bde2ef87a576b4074608a70c95615482"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/nectar.json"
+hash = "901e59b9b00825e2520fa2c90fbd09ff2a2f317d5d46eb2f9be99062aab7e68e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/pescatarian.json"
+hash = "4540b9c930361cce71547828045388c42242154f973e040f96d257d3da89d5aa"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/ranged_weapons.json"
+hash = "9b5b271fd913d6c9fe6b8742e833a53761d16e78be80a5efa2629b20e7ed4aeb"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/raw_meat.json"
+hash = "46ba1c015a9b322d57aa1fc39c0bad9f7502e65a183c48033a6883df64a07d1a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/rotten.json"
+hash = "963d588adc9ebaa96fd75c9c25bdbd884f86a748e77a3148d6d47a6dcb09cd80"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/shields.json"
+hash = "4ee4548b791ed34c4b6d04a64cc403689703e2969ddd93aab71a437bdd354bdd"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/stews.json"
+hash = "5ad7da72c4169104733e0b00d54eb51b899d03af225370ebd1df53821a3c2570"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/sweets.json"
+hash = "0745d459d59d9d7d69fa4492a1a6500af4a3593861c88cdbb51dd4fb20be1335"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/swords.json"
+hash = "99681bc38359d0e846b4855bf853464a1f8f979f587f64d7c255a80b677b06da"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/wax.json"
+hash = "91c63bb35989a51c5bbf56880701aa14efa7c034dc9fc85cba9c7e7ff1291bf3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/weakstomach.json"
+hash = "08c5190b051bafe9a2fa9b473bf1038bae32f182c060133d81b9a2881a021373"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items/weapons.json"
+hash = "a7fd2c5daeff4a779d3891a0a88bc66796a8a6d9f0746a392b8389496cbab7df"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/tags/worldgen/biome/no_sun.json"
+hash = "532c43c9af89a5feaf18ea79fc56a278684fa0b896c76d9b17e2522719f35a4f"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/mythical_origins/origins/fairy.json"
+hash = "e67dfc45fc1b2ed986c418ae2ee00f258ff16ba5e3c6d9576781151898256603"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/mythical_origins/powers/bug_sized.json"
+hash = "80ec4c31d89f0167f419c09d69fe91930e58dd3c7d386db6d5480eb5d57b75a4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/mythical_origins/powers/forest_strength.json"
+hash = "2af3bd876095f1551be841db5ec10857a2b10fdec5e25393f87244f60b5ac44c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/mythical_origins/powers/magic_pockets.json"
+hash = "3060dfe111312b4b70f6d420db39c51502cf55460e9814e3a0889aec8b9e68fa"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/mythical_origins/powers/mini_heart.json"
+hash = "9db492ed10d19de61f28cb9302031dfef7ed335fbf95245688226f6ac331bb9d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/mythical_origins/powers/small_wings.json"
+hash = "ef4b72fcce5a6a83a17a84e1947836642ce55b01ea0c1f0aa109f8b534ae969e"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/mythical_origins/powers/transparent.json"
+hash = "1aa4e8f7ecf78dbd6d780d69a1504b6a08e07bdc5f06977d649a3049bf2c5e09"
+
+[[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origin_layers/origin.json"
-hash = "b32c5512955f8d24023373cdbae1b086448bcc180d3fdedad45c824b5c577893"
+hash = "de132c8c19cf4779ca944d752714793f22c26406cdf831a11bc998367dcb6098"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origins/feline.json"
+hash = "37063ac688aed5f87e868b4982dbf88d4c349b7f3bfae99d6bfb455419d1092a"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/origins/powers/burn_in_daylight.json"
+hash = "1e60674fdcb621ebf2535611d3eca4aafaa97ae6301f0bbe8df3828e2ee6405f"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
@@ -569,6 +2429,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
+file = "mods/bucolic-origins.pw.toml"
+hash = "d61e6adc1abcc18d90afce0f5e07eb19d235ca6c5be5855b98cc0f7bbf4c5bf5"
 metafile = true
 
 [[files]]

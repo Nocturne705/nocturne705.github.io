@@ -1,0 +1,7 @@
+{
+    "name": "Magic Pockets",
+    "description": "You have magic, secret pockets that can store up to nine more stacks of items.",
+    "type": "origins:inventory",
+    "title": "Magic Pockets",
+    "key": "primary"
+}

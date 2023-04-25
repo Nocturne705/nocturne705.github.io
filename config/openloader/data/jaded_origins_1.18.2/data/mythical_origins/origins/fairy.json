@@ -1,0 +1,20 @@
+{
+    "name": "Fairy",
+    "description": "An adorable, but dangrous little creature. It is small, and has tiny wings, but man is it scary.",
+    "powers": [
+        "origins:hotblooded",
+        "origins:light_armor",
+        "mythical_origins:bug_sized",
+        "mythical_origins:forest_strength",
+        "mythical_origins:transparent",
+        "mythical_origins:mini_heart",
+        "mythical_origins:small_wings",
+        "mythical_origins:magic_pockets"
+    ],
+    "icon": {
+        "item": "minecraft:amethyst_shard"
+    },
+    "order": 10,
+    "impact": 3,
+    "loading_priority": 1
+}

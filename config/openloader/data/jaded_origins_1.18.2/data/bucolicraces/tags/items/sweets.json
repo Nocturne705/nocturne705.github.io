@@ -1,0 +1,56 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:apple",
+    "minecraft:cake",
+    "minecraft:cookie",
+    "minecraft:melon_slice",
+    "minecraft:pumpkin_pie",
+    "minecraft:sweet_berries",
+    "minecraft:honey_bottle",
+    {
+      "required": false,
+      "id": "minecraft:glow_berries"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:sweet_berry_cheesecake"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:chocolate_pie"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:cake_slice"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:apple_pie_slice"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:sweet_berry_cheesecake_slice"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:chocolate_pie_slice"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:sweet_berry_cookie"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:honey_cookie"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:melon_popsicle"
+    },
+    {
+      "required": false,
+      "id": "farmersdelight:fruit_salad"
+    }
+  ]
+}

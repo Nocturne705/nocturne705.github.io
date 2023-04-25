@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nDn",
+        "DND",
+        "nDn"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:glass"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        },
+        "N": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "origins:orb_of_origin",
+        "count": 1
+    }
+}
