@@ -249,6 +249,10 @@ file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_all_tr
 hash = "9ae63461acfb7a5c82c5c1f0534e719cbb782e4309c8609602450d580e17b851"
 
 [[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_bee.json"
+hash = "7227910fe17f3b7c67bf6ebc293815c2b0cdfc93b7e70d3e9266d550cc9ba00b"
+
+[[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_minecraft_is_real.json"
 hash = "deb627f3377aa66b25d08ea22ffbd173571b4915c19a2279be91c65438bbc763"
 
@@ -275,6 +279,10 @@ hash = "8cf5100971fc7ede4a9b242358d90208be1b9e468aaf77fb1b23c2ae6794a769"
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_gpt.json"
 hash = "b1fa2721d6b32eeb35d1a88f573cd45ae07f4714e51b1fe045a8b42ee4528770"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_minecraft_isnt_real.json"
+hash = "dd84140f6d14c94b9c17bebe13b530820f9b8dc9b5d91d8ca4f4ccbb6820c643"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_wormhole.json"
