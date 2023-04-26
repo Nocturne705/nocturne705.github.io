@@ -2029,6 +2029,18 @@ file = "config/openloader/data/jaded_origins_1.18.2/data/bucolicraces/tags/items
 hash = "a7fd2c5daeff4a779d3891a0a88bc66796a8a6d9f0746a392b8389496cbab7df"
 
 [[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/origins/feline.json"
+hash = "c651d6fa3f2a0faca2e68a353982d9b10f4aa6345cf07642858befbcd807ba55"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/origins/phantom.json"
+hash = "2b042f4289a5fca48d0b4a51b161d6115936b55c840363f90a177d37a111c6f3"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/powers/burn_in_daylight.json"
+hash = "d9c8835bc51e1dce035c999ca75ff1b02f5c18988309ba337727227209e3f8c4"
+
+[[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/tags/items/umbrella.json"
 hash = "fe7dc03a034667e520d29c0f9028b53a995993d56447125f90b5a1ad189f4985"
 
@@ -2066,15 +2078,7 @@ hash = "1aa4e8f7ecf78dbd6d780d69a1504b6a08e07bdc5f06977d649a3049bf2c5e09"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origin_layers/origin.json"
-hash = "de132c8c19cf4779ca944d752714793f22c26406cdf831a11bc998367dcb6098"
-
-[[files]]
-file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origins/feline.json"
-hash = "c651d6fa3f2a0faca2e68a353982d9b10f4aa6345cf07642858befbcd807ba55"
-
-[[files]]
-file = "config/openloader/data/jaded_origins_1.18.2/data/origins/powers/burn_in_daylight.json"
-hash = "d9c8835bc51e1dce035c999ca75ff1b02f5c18988309ba337727227209e3f8c4"
+hash = "95f504391e4d07292190950cc26a5a9528697126189d8ea5d2ddcc5e31bf9934"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
