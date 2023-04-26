@@ -2038,7 +2038,7 @@ hash = "2b042f4289a5fca48d0b4a51b161d6115936b55c840363f90a177d37a111c6f3"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/powers/burn_in_daylight.json"
-hash = "d9c8835bc51e1dce035c999ca75ff1b02f5c18988309ba337727227209e3f8c4"
+hash = "262773bc17237db28382cbe58f520a24c2a656d771317c370bbc6e3a36bbe301"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/tags/items/umbrella.json"

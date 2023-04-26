@@ -13,13 +13,16 @@
 			{
 				"inverted": true,
 				"type": "origins:biome",
-				"condition": {
-					"type": "origins:in_tag",
-					"tag": "jaded:no_sun"
-				}
+				"biomes": [{
+						"biome": "vampirism:vampire_forest"
+					},
+					{
+						"biome": "biomesoplenty:ominous_woods"
+					}
+				]
 			},
 			{
-                                "inverted": true,
+				"inverted": true,
 				"type": "origins:equipped_item",
 				"equipment_slot": "mainhand",
 				"item_condition": {
