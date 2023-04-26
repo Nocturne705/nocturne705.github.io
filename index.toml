@@ -2030,11 +2030,11 @@ hash = "a7fd2c5daeff4a779d3891a0a88bc66796a8a6d9f0746a392b8389496cbab7df"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/origins/feline.json"
-hash = "c651d6fa3f2a0faca2e68a353982d9b10f4aa6345cf07642858befbcd807ba55"
+hash = "3c6abecf7dca728e159727a8dbc1383e97f6ac57e36ea20fedd738eebfaecd9c"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/origins/phantom.json"
-hash = "2b042f4289a5fca48d0b4a51b161d6115936b55c840363f90a177d37a111c6f3"
+hash = "9d1a70e8f2494fa3031d04928427491b04f8ecf600561604b90fb58d154a8d8a"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/jaded/powers/burn_in_daylight.json"

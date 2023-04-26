@@ -1,4 +1,6 @@
 {
+        "name": "Phantom",
+        "description": "For some reason has X-Ray while phasing.",
 	"powers": [
 		"origins:phantomize",
 		"origins:translucent",

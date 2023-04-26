@@ -1,4 +1,6 @@
 {
+        "name": "Feline",
+        "description": "Kitty meow mew moew mmrow mew morw mrow?",
 	"powers": [
 		"origins:fall_immunity",
 		"origins:sprint_jump",
