@@ -2070,11 +2070,11 @@ hash = "de132c8c19cf4779ca944d752714793f22c26406cdf831a11bc998367dcb6098"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origins/feline.json"
-hash = "37063ac688aed5f87e868b4982dbf88d4c349b7f3bfae99d6bfb455419d1092a"
+hash = "c651d6fa3f2a0faca2e68a353982d9b10f4aa6345cf07642858befbcd807ba55"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/powers/burn_in_daylight.json"
-hash = "f0b501f80f3d1299e825be90f6fde468c3c9652f742a0df145448f180bd0420e"
+hash = "d9c8835bc51e1dce035c999ca75ff1b02f5c18988309ba337727227209e3f8c4"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
