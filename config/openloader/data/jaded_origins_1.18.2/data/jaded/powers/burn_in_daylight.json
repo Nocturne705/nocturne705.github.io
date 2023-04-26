@@ -13,12 +13,9 @@
 			{
 				"inverted": true,
 				"type": "origins:biome",
-				"biomes": [{
-						"biome": "vampirism:vampire_forest"
-					},
-					{
-						"biome": "biomesoplenty:ominous_woods"
-					}
+				"biomes": [
+					"vampirism:vampire_forest",
+					"biomesoplenty:ominous_woods"
 				]
 			},
 			{
