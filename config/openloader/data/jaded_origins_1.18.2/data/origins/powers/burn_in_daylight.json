@@ -14,7 +14,7 @@
 				"inverted": true,
 				"type": "origins:biome",
 				"condition": {
-					"type": "origins:category",
+					"type": "origins:in_tag",
 					"tag": "jaded:no_sun"
 				}
 			},

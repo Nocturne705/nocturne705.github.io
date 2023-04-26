@@ -2074,7 +2074,7 @@ hash = "37063ac688aed5f87e868b4982dbf88d4c349b7f3bfae99d6bfb455419d1092a"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/powers/burn_in_daylight.json"
-hash = "4ec07f80433115328780e3d016bc17903497ce76046dcc6e972c77849e509e8f"
+hash = "f0b501f80f3d1299e825be90f6fde468c3c9652f742a0df145448f180bd0420e"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
