@@ -2298,10 +2298,6 @@ file = "mods/ExperienceBugFix-1.18-1.38.0.2.jar"
 hash = "0fadc3667e47c02f3236f74fbc29d1de24e5b330cd898e6cc2ce27e873171dfb"
 
 [[files]]
-file = "mods/Origins-1.18.2-1.4.1.4-unified(1).jar"
-hash = "cf535c49e306d941981eb00ee2e9e692ab1e62e936cf582584bcb68a2aceeae0"
-
-[[files]]
 file = "mods/additional-additions-forge.pw.toml"
 hash = "3986ffbaaddfb4a97d826e37bbc9a734724074679c7a9fe1ff4de9d0eca2abcb"
 metafile = true
@@ -2433,11 +2429,6 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
-metafile = true
-
-[[files]]
-file = "mods/bucolic-origins.pw.toml"
-hash = "d61e6adc1abcc18d90afce0f5e07eb19d235ca6c5be5855b98cc0f7bbf4c5bf5"
 metafile = true
 
 [[files]]
@@ -3161,6 +3152,11 @@ metafile = true
 [[files]]
 file = "mods/origins-classes-forge.pw.toml"
 hash = "719eed11183e478cf8f228e93e778fe652dc2a9703c5cb5ef685bc0b8ed9fce1"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "36bf28a4e72c977c24c0b4ccd51590ad3505b2985079d8fbfe182d893be53b6a"
 metafile = true
 
 [[files]]
