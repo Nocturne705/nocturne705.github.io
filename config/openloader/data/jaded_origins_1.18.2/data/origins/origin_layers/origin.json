@@ -3,6 +3,10 @@
 	"order": 1001,
 	"enabled": true,
 	"origins": [
+		"grounded_origins:beach_crab",
+		"grounded_origins:deer",
+		"grounded_origins:moth",
+		"grounded_origins:penguin",
 		"bucolicraces:undead",
 		"bucolicraces:demon",
 		"bucolicraces:dwarf",

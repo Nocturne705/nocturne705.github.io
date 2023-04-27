@@ -2078,7 +2078,7 @@ hash = "1aa4e8f7ecf78dbd6d780d69a1504b6a08e07bdc5f06977d649a3049bf2c5e09"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origin_layers/origin.json"
-hash = "e3e1f991de13d7265ead2b3ca23887362cece5497eff43364c8bb95e1f1c8b17"
+hash = "07f854e96019d0dbacc840d954c93d095a8aa2b7fd6061650d384da13648a4d0"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
@@ -2863,6 +2863,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "ff7d3a13bf54bc26dd5bc6cf02a29c873536fb6698cded03f2be4c71f7da2b29"
+metafile = true
+
+[[files]]
+file = "mods/grounded-origins-forge.pw.toml"
+hash = "a81d4397665c04e22101e06670d6d368af6d10864029ae1b7cdb8a555d15194e"
 metafile = true
 
 [[files]]
