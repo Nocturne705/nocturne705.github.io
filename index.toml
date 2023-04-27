@@ -30,7 +30,7 @@ hash = "eb5c7e4ac9b208d70fca3d9bff2398ba8b544a459da5a815cee615b5aa67e7c0"
 
 [[files]]
 file = "config/apotheosis/names.cfg"
-hash = "506bf5d08794ece045631c48dfbbd5ea5c9e85ea5c6632f482e9d4213c2825c1"
+hash = "8e45841f04e6d30ccdab352f03439434a9b5699c1b11a8690d31690b9b163c39"
 
 [[files]]
 file = "config/apotheosis/potion.cfg"
@@ -2149,6 +2149,10 @@ file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/im_in_your
 hash = "d434e660881ea2111bbcfba70fa2b862d67cdb4a94d098f0b9d570145abcc225"
 
 [[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/real_or_not.json"
+hash = "c10d912b338ad35659751b009b098a5c4a8c71445fab0f59ce11bf4713523bdb"
+
+[[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_dr.json"
 hash = "8cf5100971fc7ede4a9b242358d90208be1b9e468aaf77fb1b23c2ae6794a769"
 
@@ -2157,8 +2161,20 @@ file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_gpt.js
 hash = "b1fa2721d6b32eeb35d1a88f573cd45ae07f4714e51b1fe045a8b42ee4528770"
 
 [[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_gpt1.json"
+hash = "de09bbb07240993dea2b613e22bce66c46843e97fdb0650a2655712b2e615168"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_gptwtf.json"
+hash = "b99582168e82a3e2e28a8e755e6c135b93ad72a8a0c38ef330c5476689b9e6b6"
+
+[[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_minecraft_isnt_real.json"
 hash = "dd84140f6d14c94b9c17bebe13b530820f9b8dc9b5d91d8ca4f4ccbb6820c643"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_oh_god.json"
+hash = "5017869032d4f5a1baf82133674183d550c05d2dc226608728f1a3ba92d5d6cd"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_wormhole.json"
