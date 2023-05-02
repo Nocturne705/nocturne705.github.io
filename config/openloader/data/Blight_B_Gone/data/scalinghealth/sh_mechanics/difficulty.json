@@ -5,9 +5,7 @@
 	"changePerSecond": 0,
 	"mode": {
 		"type": "distance",
-		"distance": {
-			"distanceFactor": 0.01
-		}
+		"distanceFactor": 0.01
 	},
 	"groupBonus": "1 + 0.05 * (areaPlayerCount - 1)",
 	"groupBonusRadius": 128,
