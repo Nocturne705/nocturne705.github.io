@@ -110,7 +110,7 @@ hash = "de6d6114c0648aacb73392e0926210a66decb5c620e1de5db646a1ba4cd67533"
 
 [[files]]
 file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "8ca6bb889dd0e3e943b3a7a343e9c1ce006af598d714a98f5a0538f749d8b665"
+hash = "d55b7b7fa1342ace578d6809f699125d12c4e7610df78ae251f25c685b4b143a"
 
 [[files]]
 file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/items.json"
