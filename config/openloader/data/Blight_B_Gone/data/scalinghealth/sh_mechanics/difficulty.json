@@ -1,15 +1,12 @@
 {
   "startingValue" : 0,
   "minValue" : 0,
-  "maxValue" : 250,
+  "maxValue" : 500,
   "changePerSecond" : 0,
   "mode" : {
-    "type" : "distance_and_time",
+    "type" : "distance",
     "distance" : {
-      "distanceFactor" : 0.0025
-    },
-    "average" : {
-      "radius" : 256
+      "distanceFactor" : 0.01
     }
   },
   "groupBonus" : "1 + 0.05 * (areaPlayerCount - 1)",
