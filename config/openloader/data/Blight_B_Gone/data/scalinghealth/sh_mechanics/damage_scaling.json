@@ -1,6 +1,6 @@
 {
-  "difficultyWeight": 0.04,
-  "genericScale": 0.04,
+  "difficultyWeight": 0.02,
+  "genericScale": 0,
   "affectHostiles": true,
   "affectPeacefuls": false,
   "modBlacklist": [],
