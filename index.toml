@@ -30,7 +30,7 @@ hash = "eb5c7e4ac9b208d70fca3d9bff2398ba8b544a459da5a815cee615b5aa67e7c0"
 
 [[files]]
 file = "config/apotheosis/names.cfg"
-hash = "8e45841f04e6d30ccdab352f03439434a9b5699c1b11a8690d31690b9b163c39"
+hash = "093317b792d7a75a9e0c95470e5385c3ebc1f25bda5e5f230a92029886c58fdf"
 
 [[files]]
 file = "config/apotheosis/potion.cfg"
@@ -59,6 +59,14 @@ hash = "1bea289c8438b97132093362c358eaeacdffee2ac969937176d409637e55c28a"
 [[files]]
 file = "config/astralsorcery-common.toml"
 hash = "25df89c30f846c487f311bc70f8aa0d578419b36e195bc820bdd52ddf2978c58"
+
+[[files]]
+file = "config/blue_skies-client.toml"
+hash = "d32b06c31421f969e6add4d4dff2bf2443a42a11125a02410d29f4c90073f6ff"
+
+[[files]]
+file = "config/brutalbosses-common.toml"
+hash = "d24c9ab294b3b4a0b4143b4710012aeceb8e07e68a5a1c93033c81135c26f24c"
 
 [[files]]
 file = "config/create-common.toml"
@@ -98,11 +106,11 @@ hash = "e2dfcc408e0dd025658410ce76ea6a87683d0d26d4fbad856c9c3c25d3467ce5"
 
 [[files]]
 file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/damage_scaling.json"
-hash = "f69642e6314851700f514c894464acfb6fbd3169a2ff7e7826393f480b356a3f"
+hash = "de6d6114c0648aacb73392e0926210a66decb5c620e1de5db646a1ba4cd67533"
 
 [[files]]
 file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/difficulty.json"
-hash = "7c11dfde10b0184467cf7463cc029c1087da84e2151198ddd9428b9c621d3810"
+hash = "8ca6bb889dd0e3e943b3a7a343e9c1ce006af598d714a98f5a0538f749d8b665"
 
 [[files]]
 file = "config/openloader/data/Blight_B_Gone/data/scalinghealth/sh_mechanics/items.json"
@@ -2153,6 +2161,14 @@ file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/real_or_no
 hash = "c10d912b338ad35659751b009b098a5c4a8c71445fab0f59ce11bf4713523bdb"
 
 [[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_Ocean_Towers.json"
+hash = "4cd3da1d57e1e36d5f37ea32c6233bacb13396571551933bb40e8676efa8e835"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_Patches.json"
+hash = "270a346823d50e13c0de0253fe5aa305508d22dbcdf09b89dac7ac0e31c2f983"
+
+[[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_dr.json"
 hash = "8cf5100971fc7ede4a9b242358d90208be1b9e468aaf77fb1b23c2ae6794a769"
 
@@ -2167,6 +2183,10 @@ hash = "de09bbb07240993dea2b613e22bce66c46843e97fdb0650a2655712b2e615168"
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_gptwtf.json"
 hash = "b99582168e82a3e2e28a8e755e6c135b93ad72a8a0c38ef330c5476689b9e6b6"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_ignore_MOTD.json"
+hash = "9f905f95c9fa83c1407124993f33c489b2033cc29673d7ad23ea52076d3f5ee7"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_minecraft_isnt_real.json"
@@ -2437,6 +2457,16 @@ hash = "328e8abf27b75afab53e475fdbba4d5aeceb0740306cdac319322c6786d509fb"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "8da2e34253f60d56e4c2e70859384524ced2b7fc4614fd7812a1617ece63c87e"
+metafile = true
+
+[[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "acee936dece13a20480102ee02af50b5a474dc9db7c1170be230a0bbb157f60c"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "834cd67910e45c91ccc6528a40048fc4c02d1d8dc52f371fcba4891544684777"
 metafile = true
@@ -2449,6 +2479,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
+file = "mods/brutal-bosses-dungeon.pw.toml"
+hash = "6de44c3eccb162fda32e288af48bb5dc529bf64a843a8b5847f46e3fadaaee72"
 metafile = true
 
 [[files]]
@@ -3135,6 +3170,11 @@ hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
 metafile = true
 
 [[files]]
+file = "mods/nomadic-tents.pw.toml"
+hash = "a9feac8a1a97164481d341e65784947e0946bb01189798b2fa1016c5ed84cf06"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "373b8e3c0ffb6fb4a11eab28f76471a29e7293fe8169261d0ef32d4d4497f5a3"
 metafile = true
@@ -3460,6 +3500,11 @@ hash = "4d80a201bcef189e2e4714ee7c7059cd1cc4eec7d75e22f73ac790af3f9b7ca1"
 metafile = true
 
 [[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
 metafile = true
@@ -3525,6 +3570,11 @@ hash = "8f51c31fa1375c46026a0433c0f53e71615c75d59915a0f7ee6e327edbf3b570"
 metafile = true
 
 [[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "905575f6d3c20a47b8bdae4e9ee48532c3c00acfd899c9b87e5555475ae1d9a9"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "59e4f827ee3454a896f49ec72a98c4dad7de3a329bab60f6f73be54aca66f5e1"
 metafile = true
@@ -3557,6 +3607,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "13f8109e8a1c15d11b50dc4c4c743d45366e47928614c5868952a2afc738788c"
+metafile = true
+
+[[files]]
+file = "mods/undergarden-tetra-patch.pw.toml"
+hash = "208b88c2cf380be3fe1945dcbb30131fd051b3575dc6fa43e1d5f1a0288b265b"
 metafile = true
 
 [[files]]
