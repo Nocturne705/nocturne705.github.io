@@ -30,7 +30,7 @@ hash = "eb5c7e4ac9b208d70fca3d9bff2398ba8b544a459da5a815cee615b5aa67e7c0"
 
 [[files]]
 file = "config/apotheosis/names.cfg"
-hash = "093317b792d7a75a9e0c95470e5385c3ebc1f25bda5e5f230a92029886c58fdf"
+hash = "d677be5a222f80f938ecbc62fe666833f924c7e9d4cc207d55ccd6acd3abd5e5"
 
 [[files]]
 file = "config/apotheosis/potion.cfg"
@@ -2141,6 +2141,10 @@ file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_minecr
 hash = "eff3db2a325f3dfff8ce4fa6e6bed1b93049af63e25bdbdf61cb089de7e03316"
 
 [[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_new_mods.json"
+hash = "eaa412c843c82152297abf706fa2f8a34dc9d0566bcb8cab77c43fcb5b7fbad3"
+
+[[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_people_die.json"
 hash = "176d716c985217c8d51e299fa892040bc2e915edf63b5b5b564bad8a9478d65b"
 
@@ -2449,11 +2453,6 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "328e8abf27b75afab53e475fdbba4d5aeceb0740306cdac319322c6786d509fb"
-metafile = true
-
-[[files]]
-file = "mods/blood-magic.pw.toml"
-hash = "8da2e34253f60d56e4c2e70859384524ced2b7fc4614fd7812a1617ece63c87e"
 metafile = true
 
 [[files]]

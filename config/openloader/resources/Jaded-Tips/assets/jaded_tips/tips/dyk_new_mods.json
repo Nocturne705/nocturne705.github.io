@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "DID YOU KNOW?",
+    "bold": true,
+    "color": "yellow"
+  },
+  "tip": {
+    "text": "Sometimes, new mods pretend to work and then suddenly cause the server to enter a crash loop after 24 hours. It's true!"
+  }
+}
