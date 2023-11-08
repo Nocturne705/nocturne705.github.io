@@ -87,9 +87,8 @@ hash = "556f4d100557d0d230ee21dca59cb7fe57b7daba4256bc84fece11875a2e613e"
 metafile = true
 
 [[files]]
-file = "mods/cooking-for-blockheads.pw.toml"
-hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
-metafile = true
+file = "mods/cookingforblockheads-fabric-1.20-16.0.1.jar"
+hash = "a3c4ba8ec44ec366ca936294c21d12834e9a03c05078ef1c02c8f69f859331d7"
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
@@ -242,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/soundphysics-fabric-1.20.1-1.1.2.jar"
 hash = "ee1844c468dd9134dcd1a670ba39d27b5e1cd7165d23c5bf19ff0d2bb8716fe9"
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "ca3ef53ef31a648063269f3cad4908c991ee06088f949b3cffa29a49c35da942"
+metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
