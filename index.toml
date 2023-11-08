@@ -9,6 +9,10 @@ file = "mods/Origins-1.20.1-1.10.0.jar"
 hash = "c022f72118f6fc26ce2888ba4d09f11b303b1c586a4fa565e7292ebf3b838adb"
 
 [[files]]
+file = "mods/Structory_1.20.1_v1.3.2.jar"
+hash = "fe4778c37f43d585618e127b8845bc651b6016272504b9f90861499ef5723212"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "6b2d9d8f2a3f9b34289d9a8f96722307d9decdfbf5121c468b76238d240a91f8"
 metafile = true
@@ -241,11 +245,6 @@ metafile = true
 [[files]]
 file = "mods/soundphysics-fabric-1.20.1-1.1.2.jar"
 hash = "ee1844c468dd9134dcd1a670ba39d27b5e1cd7165d23c5bf19ff0d2bb8716fe9"
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "ca3ef53ef31a648063269f3cad4908c991ee06088f949b3cffa29a49c35da942"
-metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
