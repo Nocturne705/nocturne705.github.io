@@ -1,6 +1,0 @@
-{
-    "name": "Transparent",
-    "description": "You are constantly transparent.",
-    "type": "origins:model_color",
-    "alpha": 0.5
-}

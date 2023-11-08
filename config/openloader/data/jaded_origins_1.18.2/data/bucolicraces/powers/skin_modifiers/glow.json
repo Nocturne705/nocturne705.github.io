@@ -1,6 +1,0 @@
-{
-  "type": "origins:particle",
-  "particle": "minecraft:glow",
-  "frequency": 6,
-  "hidden": true
-}

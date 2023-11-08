@@ -1,7 +1,0 @@
-{
-    "type": "origins:prevent_sleep",
-    "message": "You don't feel tired",
-    "set_spawn_point":true,
-    "name":"Insomnia",
-    "description":"You can't ever seem to fall asleep"
-}

@@ -1,13 +1,13 @@
 name = "Goblin Traders"
-filename = "goblintraders-1.8.0-1.18.2.jar"
+filename = "goblintraders-forge-1.20.1-1.9.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bbd8dbb5ea64ba3c945b4560e75acb9d62222d02"
+hash = "341b9ec065568812c217ad7f38b7acc1b0313d9a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4010650
+file-id = 4802505
 project-id = 363703

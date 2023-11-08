@@ -1,8 +1,0 @@
-{
-    "type": "origins:effect_immunity",
-    "name":"Poison Immunity",
-    "description": "You are immune to poison",
-    "effects": [
-      "minecraft:poison"
-    ]
-  }
