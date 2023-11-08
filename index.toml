@@ -113,6 +113,11 @@ hash = "1853fd16382c6d552b0dbd3d2ac304865360fa5993434a34d621ba8d3e3485a1"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "f21bb18a2c7c81c466f99ac219bdb494ffc39e6ee651f19cb22ca67c49108adc"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "d616c26d95b6e468c5b1b6be91b7cb5537b8039d270395abaca3675aa03f97f7"
 metafile = true
