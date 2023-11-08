@@ -39,9 +39,8 @@ hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
 metafile = true
 
 [[files]]
-file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "595dd6740cf1617fcbe7ce334746ce86e89e259671b75b4a120f5e8d506aa755"
-metafile = true
+file = "mods/bettercombat-forge-1.7.2+1.20.1.jar"
+hash = "33a5ab59ef5e48b7bd0c127714df03c9bf8938e0e8f12e804a54a97731458da6"
 
 [[files]]
 file = "mods/bewitchment-1.20-6.jar"
@@ -105,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "62c60626de0785ffa5b5d801240fe730e3f07c2e31b97a1f751754b12e7451fb"
 metafile = true
 
 [[files]]
