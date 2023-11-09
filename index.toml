@@ -173,6 +173,11 @@ file = "mods/dragonmounts-1.20.1-1.1.5.b3.jar"
 hash = "3ddf2a059d036e3248b3b23c8641b1aa9986b6ff1a6b38813da8cef31ce4922e"
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "720e9b95940d4037e0b70dacbbcc315995b5c39ca7d98fb8c78702f8300fda05"
+metafile = true
+
+[[files]]
 file = "mods/extraalchemy-fabric-1.20.1-1.10.0.jar"
 hash = "58ae6938d385bc40ebea12f1a9d9ef9ffac494123e182262d4b2c4c6ad492582"
 
