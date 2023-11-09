@@ -157,6 +157,11 @@ file = "mods/cookingforblockheads-fabric-1.20-16.0.1.jar"
 hash = "a3c4ba8ec44ec366ca936294c21d12834e9a03c05078ef1c02c8f69f859331d7"
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "7d053abf99422fbeaf478c836397a81f56b26e18b1be2c8ebce19ee6c2a62f64"
+metafile = true
+
+[[files]]
 file = "mods/create-1.20.1-0.5.1.f.jar"
 hash = "4d69c98e33aee3c98d76d11aab3d497ff0c82d367f1378b2dee19971932aa206"
 
@@ -228,6 +233,11 @@ hash = "7bb7e21c69250697b5a032f2f2601930a4c9c1e5df5e51aff3437834392d9431"
 [[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "05f9a51ced84de964b706f5183568179e6491204b05c2d5071d7a0cd4f8bc958"
+metafile = true
 
 [[files]]
 file = "mods/simplefarming-1.20.1-2.2.6.jar"
