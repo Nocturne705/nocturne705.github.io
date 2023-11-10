@@ -245,6 +245,11 @@ hash = "292d36c08101d4dd836794c66528bc83530d4f609d7e4a1c9ade32deb18320b5"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "57abd88097d24c490d2b98db1bd958fc4665de8b4d13a8a0d72b421c082754f2"
+metafile = true
+
+[[files]]
 file = "mods/simplefarming-1.20.1-2.2.6.jar"
 hash = "69c9ba54661af558521b474a024a50a9c40cf15fa288c1fe77939898eadca1b6"
 
