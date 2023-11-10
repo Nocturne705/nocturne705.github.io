@@ -105,6 +105,11 @@ file = "mods/alexsmobs-1.22.6.jar"
 hash = "37ecc255481f62787ca7539e8c099e5c75275b626ebac05698d539d684990dc5"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "1b10be36f5460c267754f62b2207ac92fa70bb3849415024ef367708382065a3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 
@@ -125,6 +130,11 @@ file = "mods/bettercombat-forge-1.7.2+1.20.1.jar"
 hash = "33a5ab59ef5e48b7bd0c127714df03c9bf8938e0e8f12e804a54a97731458da6"
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "65b5227828f61f2f7617869c1d6e855a12f27d555e9163068d4d1cc5aaab56dc"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment-1.20-6.jar"
 hash = "898962bfd48c19e1eea4721182fc697291d2d98dc619ecf04c7ec4a0a9ec0b4f"
 
@@ -141,6 +151,11 @@ file = "mods/caelus-forge-3.1.0+1.20.jar"
 hash = "e7d9c0bd0be90331c9d77d2b7f8df9054df88ea663f95addbbaae543d24fb92a"
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "e2ff0e13ee116c5e0bb75943b34d28655f9f795f50d1373df9f84a76a728e305"
+metafile = true
+
+[[files]]
 file = "mods/citadel-2.4.9-1.20.1.jar"
 hash = "36058eed1dad7b57598cb60a584165f57c80f1f5807043e2e3c4052e58ca83d3"
 
@@ -151,6 +166,11 @@ hash = "29cc609a80f3cf27a8e53a43473b71ff24ecb3a6eb480c610017f8a98429e867"
 [[files]]
 file = "mods/comforts-forge-6.3.4+1.20.1(2).jar"
 hash = "3f2b7f2045fa6ea706f6ad986311260752e601f6a9651b5b6f36b3426c2591f1"
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "9a828921bd3198d1825ac128565e574f7b5cc42483951a1dde8c8ef52a585f77"
+metafile = true
 
 [[files]]
 file = "mods/cookingforblockheads-fabric-1.20-16.0.1.jar"
@@ -164,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/create-1.20.1-0.5.1.f.jar"
 hash = "4d69c98e33aee3c98d76d11aab3d497ff0c82d367f1378b2dee19971932aa206"
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "eb5f28528421c86e7a2746b160b298b3655bd8949eb23a29391d416ea8b7fd1c"
+metafile = true
 
 [[files]]
 file = "mods/curios-forge-5.4.2+1.20.1.jar"
@@ -189,6 +214,11 @@ hash = "58ae6938d385bc40ebea12f1a9d9ef9ffac494123e182262d4b2c4c6ad492582"
 [[files]]
 file = "mods/fabric-api-0.90.4+1.9.30+1.20.1.jar"
 hash = "8b243316d0330de0fb1262892a25e43b2041f63d1a9fdc3ad59d741883d7cb2b"
+
+[[files]]
+file = "mods/findme.pw.toml"
+hash = "d4527228e08d8ad7d60341f86c597067e08c398a0ab828610ebef8ee018a4ee1"
+metafile = true
 
 [[files]]
 file = "mods/framework-forge-1.20.1-0.6.16.jar"
@@ -235,6 +265,26 @@ file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "761951579e472b25df134a45301ba5f3ee300afae2e7af1a00c2030dad26a55d"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "d1c2d0649a28881f034d4a1f771a9cac22e6f1bbbeb110f0c118d6739e8711cb"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "cfb8bd6c214d11044e237af659a00491d3e8ccfffb30628238165e4565acbd4a"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "292d36c08101d4dd836794c66528bc83530d4f609d7e4a1c9ade32deb18320b5"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "05f9a51ced84de964b706f5183568179e6491204b05c2d5071d7a0cd4f8bc958"
 metafile = true
@@ -266,6 +316,11 @@ hash = "df9abe5a24a52b0b3e63716a6f603204e04632e11b3c22d2d7ccc099d328e9cb"
 [[files]]
 file = "mods/structurize-1.20.1-1.0.662-BETA.jar"
 hash = "fd5707191a9816892a658d77d9fe8f3fc8ba973deb127c78dafc9b9af9913b98"
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "f5ea965cb7ce9c1c2b1581448ac0bdebdae9dbaf98ef45a9e5222c0732ace888"
+metafile = true
 
 [[files]]
 file = "mods/tetra-1.20.1-6.0.0.jar"
