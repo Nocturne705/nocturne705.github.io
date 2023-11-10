@@ -17,10 +17,6 @@ file = "mods/Bookshelf-Forge-1.20.1-20.1.6.jar"
 hash = "55864af2d3a6fd20a93b33d9fe9d6df807baaa12b62d5355136a8bc64846d214"
 
 [[files]]
-file = "mods/Cobblemon-forge-1.4.0+1.20.1.jar.disabled"
-hash = "fab536534227c9ecc5506f82d92803f2ace491fd147caabe2c1cddfffcc24f76"
-
-[[files]]
 file = "mods/CorgiLib-forge-1.20.1-4.0.0.4.jar"
 hash = "0f7de10380fbd8496838d5ecf271e3b5bdae1140b56576429734bb2f8313e21e"
 
@@ -51,10 +47,6 @@ hash = "fe4778c37f43d585618e127b8845bc651b6016272504b9f90861499ef5723212"
 [[files]]
 file = "mods/TerraBlender-forge-1.20.1-3.0.0.169.jar"
 hash = "8537065d54201d6cafafe6507b084ed08592b95cacd61defccccf4e2fc5063c2"
-
-[[files]]
-file = "mods/Tips-Fabric-1.20.1-12.0.4.jar"
-hash = "cc0a761dc5c6cbff009071cf200302bbf9dabc29a91b8151fa6706b91a412fd1"
 
 [[files]]
 file = "mods/YungsApi-1.20-Forge-4.0.2.jar"
@@ -105,11 +97,6 @@ file = "mods/alexsmobs-1.22.6.jar"
 hash = "37ecc255481f62787ca7539e8c099e5c75275b626ebac05698d539d684990dc5"
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "1b10be36f5460c267754f62b2207ac92fa70bb3849415024ef367708382065a3"
-metafile = true
-
-[[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 
@@ -122,8 +109,9 @@ file = "mods/ars_nouveau-1.20.1-4.7.4-all.jar"
 hash = "71a6d2510c87de38d80f36f3ca78cac06c32bc28edaff055e6277d9355375cef"
 
 [[files]]
-file = "mods/balm-forge-1.20.1-7.1.4.jar"
-hash = "ddb5d0eb82e4fb6de3bc6e94e3d772e5f9b1f3770927194a1bf07a35c3baf988"
+file = "mods/balm.pw.toml"
+hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
+metafile = true
 
 [[files]]
 file = "mods/bettercombat-forge-1.7.2+1.20.1.jar"
@@ -133,10 +121,6 @@ hash = "33a5ab59ef5e48b7bd0c127714df03c9bf8938e0e8f12e804a54a97731458da6"
 file = "mods/betterf3.pw.toml"
 hash = "65b5227828f61f2f7617869c1d6e855a12f27d555e9163068d4d1cc5aaab56dc"
 metafile = true
-
-[[files]]
-file = "mods/bewitchment-1.20-6.jar"
-hash = "898962bfd48c19e1eea4721182fc697291d2d98dc619ecf04c7ec4a0a9ec0b4f"
 
 [[files]]
 file = "mods/blockui-1.20.1-1.0.115-BETA.jar"
@@ -160,21 +144,18 @@ file = "mods/citadel-2.4.9-1.20.1.jar"
 hash = "36058eed1dad7b57598cb60a584165f57c80f1f5807043e2e3c4052e58ca83d3"
 
 [[files]]
-file = "mods/cloth-config-11.1.106-forge.jar"
-hash = "29cc609a80f3cf27a8e53a43473b71ff24ecb3a6eb480c610017f8a98429e867"
+file = "mods/cloth-config.pw.toml"
+hash = "c41da4281babbf24ce778fcae1da1da9c2d0bdf9a73b01310e1d7fb120c19cc1"
+metafile = true
 
 [[files]]
 file = "mods/comforts-forge-6.3.4+1.20.1(2).jar"
 hash = "3f2b7f2045fa6ea706f6ad986311260752e601f6a9651b5b6f36b3426c2591f1"
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "9a828921bd3198d1825ac128565e574f7b5cc42483951a1dde8c8ef52a585f77"
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
-
-[[files]]
-file = "mods/cookingforblockheads-fabric-1.20-16.0.1.jar"
-hash = "a3c4ba8ec44ec366ca936294c21d12834e9a03c05078ef1c02c8f69f859331d7"
 
 [[files]]
 file = "mods/craterlib.pw.toml"
@@ -208,14 +189,6 @@ hash = "720e9b95940d4037e0b70dacbbcc315995b5c39ca7d98fb8c78702f8300fda05"
 metafile = true
 
 [[files]]
-file = "mods/extraalchemy-fabric-1.20.1-1.10.0.jar"
-hash = "58ae6938d385bc40ebea12f1a9d9ef9ffac494123e182262d4b2c4c6ad492582"
-
-[[files]]
-file = "mods/fabric-api-0.90.4+1.9.30+1.20.1.jar"
-hash = "8b243316d0330de0fb1262892a25e43b2041f63d1a9fdc3ad59d741883d7cb2b"
-
-[[files]]
 file = "mods/findme.pw.toml"
 hash = "d4527228e08d8ad7d60341f86c597067e08c398a0ab828610ebef8ee018a4ee1"
 metafile = true
@@ -237,10 +210,6 @@ file = "mods/journeymap-1.20.1-5.9.16-forge.jar"
 hash = "1e092ba96cf92843492438594cad91f907e857943586a99367ce2597929ff65f"
 
 [[files]]
-file = "mods/kotlinforforge-4.3.0-all.jar.disabled"
-hash = "3ab83c53de3c0e3f9fc0d08295ea067ff456d1cff31c707a7889e6c09f8c94d0"
-
-[[files]]
 file = "mods/minecolonies-1.20.1-1.1.303-BETA.jar"
 hash = "b2a98fb70e1466fc8a37b3a85149777aae68a0f6e01e24091f5691fd171cf73d"
 
@@ -257,21 +226,12 @@ file = "mods/origins-forge-1.20.1-1.10.0.2-all.jar"
 hash = "81e734a109aa3cf31ebce978395bd5068efe04854d94de5ea9bd8cf11c3180e5"
 
 [[files]]
-file = "mods/paladins-1.0.2+1.20.1.jar"
-hash = "7bb7e21c69250697b5a032f2f2601930a4c9c1e5df5e51aff3437834392d9431"
-
-[[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
 
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "761951579e472b25df134a45301ba5f3ee300afae2e7af1a00c2030dad26a55d"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "d1c2d0649a28881f034d4a1f771a9cac22e6f1bbbeb110f0c118d6739e8711cb"
 metafile = true
 
 [[files]]
@@ -282,11 +242,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "292d36c08101d4dd836794c66528bc83530d4f609d7e4a1c9ade32deb18320b5"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "05f9a51ced84de964b706f5183568179e6491204b05c2d5071d7a0cd4f8bc958"
 metafile = true
 
 [[files]]
@@ -306,8 +261,9 @@ file = "mods/sophisticatedcore-1.20.1-0.5.100.457.jar"
 hash = "ca8491fc8d74ebf043e272029446683bc97204eaf82c94e2bad5eedd8166765f"
 
 [[files]]
-file = "mods/soundphysics-fabric-1.20.1-1.1.2.jar"
-hash = "ee1844c468dd9134dcd1a670ba39d27b5e1cd7165d23c5bf19ff0d2bb8716fe9"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "a7bbec221b1da6b34cbd7fb3cb5ad0ee0bb8c5a59ed4bf883bc136c75afbcd9c"
+metafile = true
 
 [[files]]
 file = "mods/structure_gel-1.20.1-2.15.0.jar"
