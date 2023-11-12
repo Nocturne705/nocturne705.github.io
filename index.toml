@@ -153,11 +153,6 @@ file = "mods/comforts-forge-6.3.4+1.20.1(2).jar"
 hash = "3f2b7f2045fa6ea706f6ad986311260752e601f6a9651b5b6f36b3426c2591f1"
 
 [[files]]
-file = "mods/controllable.pw.toml"
-hash = "3d74b3c918d76634e0ce5012c7eab09d2b7637c92d521676b4cf1bc4f37d9fa3"
-metafile = true
-
-[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
