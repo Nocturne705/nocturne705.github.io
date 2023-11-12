@@ -119,7 +119,7 @@ hash = "33a5ab59ef5e48b7bd0c127714df03c9bf8938e0e8f12e804a54a97731458da6"
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "65b5227828f61f2f7617869c1d6e855a12f27d555e9163068d4d1cc5aaab56dc"
+hash = "007dd7de2a5d05f790ee950174d6ca6fce8bfa0dec50a6752c1259c3cf22e112"
 metafile = true
 
 [[files]]
@@ -209,10 +209,6 @@ hash = "68ebafd63a0234b904f6be54a51781a9cfba43cc1ff6202d7f96affaec785597"
 metafile = true
 
 [[files]]
-file = "mods/framework-forge-1.20.1-0.6.16.jar"
-hash = "9c92918e6d4b3bb78d45ceee532941d709c0e37aba79e70fc76be91a3daf4ead"
-
-[[files]]
 file = "mods/framework.pw.toml"
 hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
 metafile = true
@@ -287,7 +283,7 @@ hash = "ca8491fc8d74ebf043e272029446683bc97204eaf82c94e2bad5eedd8166765f"
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "a7bbec221b1da6b34cbd7fb3cb5ad0ee0bb8c5a59ed4bf883bc136c75afbcd9c"
+hash = "0aeeab49965f9bcfb9118d10e90131163a119f2465050b03563335bab1e6b685"
 metafile = true
 
 [[files]]
