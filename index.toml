@@ -194,6 +194,11 @@ hash = "d4527228e08d8ad7d60341f86c597067e08c398a0ab828610ebef8ee018a4ee1"
 metafile = true
 
 [[files]]
+file = "mods/forge-creeper-heal-unofficial.pw.toml"
+hash = "03372fabb83b5fc07b57a943d7662c163708d90a99bcbc6cf5583326a856fc6d"
+metafile = true
+
+[[files]]
 file = "mods/framework-forge-1.20.1-0.6.16.jar"
 hash = "9c92918e6d4b3bb78d45ceee532941d709c0e37aba79e70fc76be91a3daf4ead"
 
