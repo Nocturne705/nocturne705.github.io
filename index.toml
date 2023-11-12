@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-creeper-heal-unofficial.pw.toml"
-hash = "68ebafd63a0234b904f6be54a51781a9cfba43cc1ff6202d7f96affaec785597"
+hash = "03372fabb83b5fc07b57a943d7662c163708d90a99bcbc6cf5583326a856fc6d"
 metafile = true
 
 [[files]]
