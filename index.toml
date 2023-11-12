@@ -154,7 +154,7 @@ hash = "3f2b7f2045fa6ea706f6ad986311260752e601f6a9651b5b6f36b3426c2591f1"
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+hash = "3d74b3c918d76634e0ce5012c7eab09d2b7637c92d521676b4cf1bc4f37d9fa3"
 metafile = true
 
 [[files]]
@@ -204,8 +204,13 @@ hash = "d4527228e08d8ad7d60341f86c597067e08c398a0ab828610ebef8ee018a4ee1"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "09a411ab9db1d566891f073af10d272fd6569ec59f9338641549051a81cf5f38"
+metafile = true
+
+[[files]]
 file = "mods/forge-creeper-heal-unofficial.pw.toml"
-hash = "03372fabb83b5fc07b57a943d7662c163708d90a99bcbc6cf5583326a856fc6d"
+hash = "68ebafd63a0234b904f6be54a51781a9cfba43cc1ff6202d7f96affaec785597"
 metafile = true
 
 [[files]]
