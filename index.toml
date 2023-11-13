@@ -278,6 +278,11 @@ hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "7d053abf99422fbeaf478c836397a81f56b26e18b1be2c8ebce19ee6c2a62f64"
 metafile = true
@@ -329,6 +334,11 @@ hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
+metafile = true
+
+[[files]]
 file = "mods/festive-delight.pw.toml"
 hash = "745758e17769bb799a9f75fb9b3d0465fb5ee4ab8eeb438e753bb14a8828ef45"
 metafile = true
@@ -358,6 +368,16 @@ file = "mods/goblintraders-forge-1.20.1-1.9.3.jar"
 hash = "ff114b109d4db541178f3ea0bb87f7709799fe6565e5c709267c836b50d7b1db"
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
+metafile = true
+
+[[files]]
 file = "mods/jei-1.20.1-forge-15.2.0.27.jar"
 hash = "43c66b26b541614b168f2d8dc881254dc1f40611e093ed55c7a46299c5c45f49"
 
@@ -368,6 +388,11 @@ hash = "1e092ba96cf92843492438594cad91f907e857943586a99367ce2597929ff65f"
 [[files]]
 file = "mods/login-protection.pw.toml"
 hash = "d6669ccd9ed05cf4859dee3fd2a46ef5aef12179e1f505c8dd92dc653033897a"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
 metafile = true
 
 [[files]]
