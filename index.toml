@@ -283,6 +283,16 @@ file = "mods/origins-forge-1.20.1-1.10.0.2-all.jar"
 hash = "81e734a109aa3cf31ebce978395bd5068efe04854d94de5ea9bd8cf11c3180e5"
 
 [[files]]
+file = "mods/origins-minus.pw.toml"
+hash = "78fc85206130f9dbb6e3152789ffbf5b99e80b58bddbaee58e3fe585df2f018e"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "dd654c96ba07a758edd92ee404092220e2411c57fdfef54b3b5ced42d9b4855f"
+metafile = true
+
+[[files]]
 file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
 
@@ -342,6 +352,11 @@ hash = "3e2dd1b44550cbcff3b97a5386104269ac0ed3c0a7c14228fbc04ad96e516e25"
 [[files]]
 file = "mods/tombstone-8.5.5-1.20.1.jar"
 hash = "093c9039b9869e678570639f821ea2981f36826c8410007baffeb18701635d46"
+
+[[files]]
+file = "mods/toomanyoriginsminus.pw.toml"
+hash = "35d89738355de7752af69752374379044f4f93b59fda13dc4a144fca9ac63e6d"
+metafile = true
 
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.1860-universal.jar"
