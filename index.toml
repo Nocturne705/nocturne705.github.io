@@ -17,10 +17,6 @@ file = "mods/Bookshelf-Forge-1.20.1-20.1.6.jar"
 hash = "55864af2d3a6fd20a93b33d9fe9d6df807baaa12b62d5355136a8bc64846d214"
 
 [[files]]
-file = "mods/Butchersdelight+beta+1.20.1+2.0.8f.jar"
-hash = "76f0855100c6b933fe6a3583b3ad35e21bb76d973006668f54b539b7f0e9fdbe"
-
-[[files]]
 file = "mods/CorgiLib-forge-1.20.1-4.0.0.4.jar"
 hash = "0f7de10380fbd8496838d5ecf271e3b5bdae1140b56576429734bb2f8313e21e"
 
