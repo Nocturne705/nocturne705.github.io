@@ -97,6 +97,11 @@ file = "mods/[1.20.1-forge]-Epic-Knights-8.8.jar"
 hash = "8780d50939934f2bc28a38734a3b1b5b90fd6c3e40b0b2a44f95816626451642"
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "802a3d250a29992bc05fc6b549b2eda2d8239ea6bf7dbcd5e651fa32f2552b8e"
+metafile = true
+
+[[files]]
 file = "mods/alexsmobs-1.22.6.jar"
 hash = "37ecc255481f62787ca7539e8c099e5c75275b626ebac05698d539d684990dc5"
 
@@ -151,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/citadel-2.4.9-1.20.1.jar"
 hash = "36058eed1dad7b57598cb60a584165f57c80f1f5807043e2e3c4052e58ca83d3"
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "072fe6ea98520df441325294e7e17382afb015b26bd33ba5546a3fc5379fab20"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
