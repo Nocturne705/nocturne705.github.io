@@ -209,6 +209,11 @@ hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
 metafile = true
 
 [[files]]
+file = "mods/festive-delight.pw.toml"
+hash = "745758e17769bb799a9f75fb9b3d0465fb5ee4ab8eeb438e753bb14a8828ef45"
+metafile = true
+
+[[files]]
 file = "mods/findme.pw.toml"
 hash = "d4527228e08d8ad7d60341f86c597067e08c398a0ab828610ebef8ee018a4ee1"
 metafile = true
