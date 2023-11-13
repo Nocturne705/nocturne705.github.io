@@ -154,10 +154,6 @@ hash = "e2ff0e13ee116c5e0bb75943b34d28655f9f795f50d1373df9f84a76a728e305"
 metafile = true
 
 [[files]]
-file = "mods/citadel-2.4.9-1.20.1.jar"
-hash = "36058eed1dad7b57598cb60a584165f57c80f1f5807043e2e3c4052e58ca83d3"
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "072fe6ea98520df441325294e7e17382afb015b26bd33ba5546a3fc5379fab20"
 metafile = true
@@ -170,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/comforts-forge-6.3.4+1.20.1(2).jar"
 hash = "3f2b7f2045fa6ea706f6ad986311260752e601f6a9651b5b6f36b3426c2591f1"
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "230c1a480d27d53a339b064c4d9cb07b7f8411180bd67f220669d55e18832d74"
+metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
