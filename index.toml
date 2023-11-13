@@ -192,6 +192,11 @@ hash = "eb5f28528421c86e7a2746b160b298b3655bd8949eb23a29391d416ea8b7fd1c"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "ee7e8aedd0febb425a837c78acf2a4b5b8729c0a854c3b6a2d57ed27f5cf5afe"
+metafile = true
+
+[[files]]
 file = "mods/curios-forge-5.4.2+1.20.1.jar"
 hash = "1780cf50bc3d946027c428ad6dfee2383da7235eb26fe6feea37e7c960e66b92"
 
@@ -256,6 +261,11 @@ file = "mods/journeymap-1.20.1-5.9.16-forge.jar"
 hash = "1e092ba96cf92843492438594cad91f907e857943586a99367ce2597929ff65f"
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "d6669ccd9ed05cf4859dee3fd2a46ef5aef12179e1f505c8dd92dc653033897a"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies-1.20.1-1.1.303-BETA.jar"
 hash = "b2a98fb70e1466fc8a37b3a85149777aae68a0f6e01e24091f5691fd171cf73d"
 
@@ -286,9 +296,8 @@ hash = "761951579e472b25df134a45301ba5f3ee300afae2e7af1a00c2030dad26a55d"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "cfb8bd6c214d11044e237af659a00491d3e8ccfffb30628238165e4565acbd4a"
-metafile = true
+file = "mods/rubidium-mc1.20.1-0.7.1a.jar"
+hash = "d545b03823051f307cc2f5217e42af52ae3044170908fab4530d2eb04b6f311e"
 
 [[files]]
 file = "mods/selene.pw.toml"
