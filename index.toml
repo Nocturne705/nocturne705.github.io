@@ -197,6 +197,11 @@ file = "mods/curios-forge-5.4.2+1.20.1.jar"
 hash = "1780cf50bc3d946027c428ad6dfee2383da7235eb26fe6feea37e7c960e66b92"
 
 [[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "58770f4072ef8baf6a5b3481dbe2f802faa31a63eb5a89a5620bb9c8bbe5457b"
+metafile = true
+
+[[files]]
 file = "mods/domum_ornamentum-1.20-1.0.147-BETA-universal.jar"
 hash = "60354d2f4efe531dc0e055ebe14763f766225571b1a814598e33384602fdcb22"
 
@@ -352,11 +357,6 @@ hash = "3e2dd1b44550cbcff3b97a5386104269ac0ed3c0a7c14228fbc04ad96e516e25"
 [[files]]
 file = "mods/tombstone-8.5.5-1.20.1.jar"
 hash = "093c9039b9869e678570639f821ea2981f36826c8410007baffeb18701635d46"
-
-[[files]]
-file = "mods/toomanyoriginsminus.pw.toml"
-hash = "35d89738355de7752af69752374379044f4f93b59fda13dc4a144fca9ac63e6d"
-metafile = true
 
 [[files]]
 file = "mods/twilightforest-1.20.1-4.3.1860-universal.jar"
