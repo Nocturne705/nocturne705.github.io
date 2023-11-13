@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "name": "Jaded Origins Animals",
+        "id": "jaded_origins_v1",
+        "pack_format": 8,
+        "authors": [
+            "Jade"
+        ],
+        "description": "Custom origins for the Nocturnus SMP server"
+    }
+}

@@ -1,6 +1,110 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/Shmeat/data/origins/tags/items/meat.json"
+hash = "c8005d81b28f725a1d5a2ebd2bde4ff936b0340e67177b8cad626595461b9fda"
+
+[[files]]
+file = "config/openloader/data/Shmeat/pack.mcmeta"
+hash = "9839c23ef48bd61142ff8e7e19077691aec3d86ce042638872a424568a3ce595"
+
+[[files]]
+file = "config/openloader/data/Shmeat/pack.png"
+hash = "c0c1980ce6f5de68a7063c454185aa219a7bb992a241e3dd5abeec2a43ae0365"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origin_layers/origin.json"
+hash = "b32c5512955f8d24023373cdbae1b086448bcc180d3fdedad45c824b5c577893"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
+hash = "bcc15d0c476793a39f29401d6e2dc25e2d83e84824aa04d52f8f9d42ca11e3c4"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/slim/powers/slim_freeze.json"
+hash = "6d686679e19b9d83163cea8eeed9e4eebf4c1497d90b2e71947d30e6d1398c2d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/slim/powers/slim_immune.json"
+hash = "57131ef30bb23d5da94955d07ed3f34d7438167e863c9d901306b2bfc92b5d4d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/slim/powers/slim_jump.json"
+hash = "59e05f292137a156bc2111a68a9186bbf22a36640e6a398357b1f58f29c1c9ec"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/slim/powers/slim_nobreathing.json"
+hash = "c472edd9bcb7c6d4937757294000d41a79c0332b517d7b692fd5feef71118d3c"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/slim/powers/slim_resistances.json"
+hash = "95829d671040447706f7aceaef60b8efc47999a0994240870893cd09b2d07bdf"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/slim/powers/slim_slow.json"
+hash = "8d343a6d66f5be21d7fd94870beb125244761e470d63111bf95d6d47b29d8680"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/data/slim/powers/slim_squeeze.json"
+hash = "b2cc273876a2f6ae81b43aea344b96e3362b8f332f83581163a94675d94c1b3d"
+
+[[files]]
+file = "config/openloader/data/jaded_origins_1.18.2/pack.mcmeta"
+hash = "e8c8eced3b9d8d7d5f502b2adca5c37e319c3ee047b6d63d620b18d302bc159a"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/models/item/music_disc_11.json"
+hash = "8b40f21b36da0ed4b9d2678f38f365742715cad1a89bed7701f0a9c9bea581bd"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/models/item/music_disc_newworld.json"
+hash = "8ffe31d9a0ca467b0223d9429fe641ed8ed6ba33190b2d74873e5edccf09403d"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/models/item/music_disc_stalehands.json"
+hash = "dd06c813ff8c003d9dd13b2d730a8f1674066f28c07f959955391d690d907b50"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/models/item/music_disc_toodeep.json"
+hash = "91f5ff444518a1d781c3f00c368006393f9ec576fd689ca023ad47f46fa93482"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/sounds.json"
+hash = "78b39fd990edd317d541bf446eb4233f9d03356a2d57f4e8b7f5662840e076f7"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/sounds/records/newworld.ogg"
+hash = "98f068d65b48d3847184e47c0975e41750a6dcdb75203787875fecb6a1153cd3"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/sounds/records/stalehands.ogg"
+hash = "66832004798c14ff39854e210763e8ab1b5f2b8d10da80f97fb60ed70bc152ad"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/sounds/records/toodeep.ogg"
+hash = "d98ce5bebbca6af465262606a0abe3a776d6df0d48f821ee77290d91cabefba8"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/textures/item/music_disc_newworld.png"
+hash = "b54108af6574fb51d031d90c67c72ad4e97d6b7133338a950d9473ab119f41b7"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/textures/item/music_disc_stalehands.png"
+hash = "770408e85f8c655f8777ab97f4a69259371e28c8b914651da592aeca4442974e"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/assets/minecraft/textures/item/music_disc_toodeep.png"
+hash = "91234459c5b4ebb46079bc03185f8d5099139421b7f510283a9315f32386bc3f"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/pack.mcmeta"
+hash = "e7235b7cc681e78f7a7ddc2f2f79f20319e51dbe29c34a3b26d1e74cd31574d0"
+
+[[files]]
+file = "config/openloader/resources/jaded_music_rp/pack.png"
+hash = "91234459c5b4ebb46079bc03185f8d5099139421b7f510283a9315f32386bc3f"
+
+[[files]]
 file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 

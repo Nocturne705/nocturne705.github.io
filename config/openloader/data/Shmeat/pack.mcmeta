@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "name": "Shmeat",
+        "id": "shmeat",
+        "pack_format": 9,
+        "authors": [
+            "Nocturne705"
+        ],
+        "description": "Adds meat to origins tags"
+    }
+}
