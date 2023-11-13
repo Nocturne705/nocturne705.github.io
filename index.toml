@@ -284,6 +284,11 @@ hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "1cd365278de0da9556eea435b41d7c4adeab251e80ea6be22b6ba60debfaf5b0"
+metafile = true
+
+[[files]]
 file = "mods/origins-forge-1.20.1-1.10.0.2-all.jar"
 hash = "81e734a109aa3cf31ebce978395bd5068efe04854d94de5ea9bd8cf11c3180e5"
 
