@@ -368,11 +368,6 @@ file = "mods/goblintraders-forge-1.20.1-1.9.3.jar"
 hash = "ff114b109d4db541178f3ea0bb87f7709799fe6565e5c709267c836b50d7b1db"
 
 [[files]]
-file = "mods/iron-chests.pw.toml"
-hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
-metafile = true
-
-[[files]]
 file = "mods/ironchests.pw.toml"
 hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
 metafile = true
