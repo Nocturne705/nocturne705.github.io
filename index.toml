@@ -153,10 +153,6 @@ file = "mods/TerraBlender-forge-1.20.1-3.0.0.169.jar"
 hash = "8537065d54201d6cafafe6507b084ed08592b95cacd61defccccf4e2fc5063c2"
 
 [[files]]
-file = "mods/YungsApi-1.20-Forge-4.0.2.jar"
-hash = "d3cd5188e83f2bb53ea296155108e94a8842babdf9e6774847c93fb55f306445"
-
-[[files]]
 file = "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
 hash = "5a74294725232c665b908af6e25224d111550cf69d74613e415b9f48ff150d16"
 
@@ -494,6 +490,11 @@ file = "mods/tetra-1.20.1-6.0.0.jar"
 hash = "3e2dd1b44550cbcff3b97a5386104269ac0ed3c0a7c14228fbc04ad96e516e25"
 
 [[files]]
+file = "mods/the-bumblezone-forge.pw.toml"
+hash = "7dbdc0d7265b6e32b285175e32bd0b517996da30c84bbc62d9c4624750ab28a1"
+metafile = true
+
+[[files]]
 file = "mods/timeoutfixes.pw.toml"
 hash = "abe8fd03f6e75ea52bb82253c9cb68b2707dc5f4ab89a0c4933757f133bf865b"
 metafile = true
@@ -503,9 +504,19 @@ file = "mods/tombstone-8.5.5-1.20.1.jar"
 hash = "093c9039b9869e678570639f821ea2981f36826c8410007baffeb18701635d46"
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "da4c35340146ae23a6ae0c2a616e4eac2314084d47abfba67aa8e573392b51e5"
+metafile = true
+
+[[files]]
 file = "mods/twilightforest-1.20.1-4.3.1860-universal.jar"
 hash = "e11a159ff58b0b0490ea13cee027aa48622af7d68672bfbe1176ea127d1ff9d7"
 
 [[files]]
 file = "mods/waystones-forge-1.20-14.0.2.jar"
 hash = "a9824eacb37f1b6b45c505600d84e5f0d083d788b7fe983b1884c19223603de5"
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "04766bb05ab45a66403718eb819a6e61cfe2a35ffe82546e46890cf0a6f9fe52"
+metafile = true
