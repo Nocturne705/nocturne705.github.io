@@ -503,11 +503,6 @@ file = "mods/tombstone-8.5.5-1.20.1.jar"
 hash = "093c9039b9869e678570639f821ea2981f36826c8410007baffeb18701635d46"
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "42135c5e65617571cca69bd95df510355b13d62d6f6190ff71ed5d81a87c18a0"
-metafile = true
-
-[[files]]
 file = "mods/twilightforest-1.20.1-4.3.1860-universal.jar"
 hash = "e11a159ff58b0b0490ea13cee027aa48622af7d68672bfbe1176ea127d1ff9d7"
 
