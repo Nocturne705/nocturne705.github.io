@@ -273,6 +273,11 @@ hash = "230c1a480d27d53a339b064c4d9cb07b7f8411180bd67f220669d55e18832d74"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
+metafile = true
+
+[[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "cf89b7eb32d4b032ec2d7e5e6b94a159b37077bfe622aff964b5b1c85be4946a"
 metafile = true
@@ -438,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium-mc1.20.1-0.7.1a.jar"
 hash = "d545b03823051f307cc2f5217e42af52ae3044170908fab4530d2eb04b6f311e"
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "dbe03acc1a3ad86c78aa728d9b2a97991f4cc5cb113fcc2747caab1ee49b56e7"
+metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
