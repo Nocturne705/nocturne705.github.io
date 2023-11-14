@@ -517,6 +517,11 @@ file = "mods/waystones-forge-1.20-14.0.2.jar"
 hash = "a9824eacb37f1b6b45c505600d84e5f0d083d788b7fe983b1884c19223603de5"
 
 [[files]]
+file = "mods/you-died.pw.toml"
+hash = "d43f2ba86cabc610745c6787be36ec9be8c919e539f8b1e59cffeaeeba1d5b25"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "04766bb05ab45a66403718eb819a6e61cfe2a35ffe82546e46890cf0a6f9fe52"
 metafile = true
