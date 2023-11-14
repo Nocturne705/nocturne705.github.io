@@ -484,6 +484,11 @@ file = "mods/tetra-1.20.1-6.0.0.jar"
 hash = "3e2dd1b44550cbcff3b97a5386104269ac0ed3c0a7c14228fbc04ad96e516e25"
 
 [[files]]
+file = "mods/timeoutfixes.pw.toml"
+hash = "abe8fd03f6e75ea52bb82253c9cb68b2707dc5f4ab89a0c4933757f133bf865b"
+metafile = true
+
+[[files]]
 file = "mods/tombstone-8.5.5-1.20.1.jar"
 hash = "093c9039b9869e678570639f821ea2981f36826c8410007baffeb18701635d46"
 
