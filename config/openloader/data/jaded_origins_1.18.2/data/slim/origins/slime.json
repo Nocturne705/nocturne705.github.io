@@ -2,15 +2,9 @@
     "name": "Slime",
     "description": "Humanoid and hyperintelligent slimes!",
     "powers": [
-        "slim:slim_freeze",
-        "origins:no_shield",
-        "origins:more_exhaustion",
         "slim:slim_immune",
         "slim:slim_squeeze",
-        "slim:slim_nobreathing",
-        "slim:slim_slow",
         "slim:slim_jump",
-        "slim:slim_resistances"
     ],
     "icon": {
         "item": "minecraft:slime_ball"
