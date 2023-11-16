@@ -241,6 +241,11 @@ file = "mods/blue_skies-1.20.1-1.3.29.jar"
 hash = "68c1bfa1383ef8f5aa069e26e95eab7d88266bfdb5ad152871caa2af0c215c3f"
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "d045aa9a64e260d41cbe3d6c7964bcc0593d5e0a00fbeb0aea126e8402b33133"
+metafile = true
+
+[[files]]
 file = "mods/caelus-forge-3.1.0+1.20.jar"
 hash = "e7d9c0bd0be90331c9d77d2b7f8df9054df88ea663f95addbbaae543d24fb92a"
 
