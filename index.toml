@@ -18,7 +18,7 @@ hash = "b32c5512955f8d24023373cdbae1b086448bcc180d3fdedad45c824b5c577893"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/origins/slime.json"
-hash = "272f05e9c2d1fa80eae864bea326c937a37636a420c2f42deb3d2ba0aa942d3c"
+hash = "1c4292648b946ce2fee4b76f3817e9f1b62aa43a56139d1d4b7524162703a045"
 
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/slim/powers/slim_freeze.json"
