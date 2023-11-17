@@ -385,8 +385,9 @@ file = "mods/jei-1.20.1-forge-15.2.0.27.jar"
 hash = "43c66b26b541614b168f2d8dc881254dc1f40611e093ed55c7a46299c5c45f49"
 
 [[files]]
-file = "mods/journeymap-1.20.1-5.9.16-forge.jar"
-hash = "1e092ba96cf92843492438594cad91f907e857943586a99367ce2597929ff65f"
+file = "mods/journeymap.pw.toml"
+hash = "2fbd2b2673ac9bb029de4c85b1972bbd0b6145b36832c3473fb347bd5d4a9cb6"
+metafile = true
 
 [[files]]
 file = "mods/login-protection.pw.toml"
