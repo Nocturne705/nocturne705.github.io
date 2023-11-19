@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/openloader/data/Shmeat/data/origins/tags/items/meat.json"
-hash = "c8005d81b28f725a1d5a2ebd2bde4ff936b0340e67177b8cad626595461b9fda"
+hash = "3ddcb0005378af51bef4d65d6b5dbf263826e482b8c34fae61f51d5636e1d2c6"
 
 [[files]]
 file = "config/openloader/data/Shmeat/pack.mcmeta"
@@ -51,6 +51,38 @@ hash = "b2cc273876a2f6ae81b43aea344b96e3362b8f332f83581163a94675d94c1b3d"
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/pack.mcmeta"
 hash = "e8c8eced3b9d8d7d5f502b2adca5c37e319c3ee047b6d63d620b18d302bc159a"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_all_true.json"
+hash = "9ae63461acfb7a5c82c5c1f0534e719cbb782e4309c8609602450d580e17b851"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_minecraft_is_real.json"
+hash = "deb627f3377aa66b25d08ea22ffbd173571b4915c19a2279be91c65438bbc763"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_minecraft_password.json"
+hash = "eff3db2a325f3dfff8ce4fa6e6bed1b93049af63e25bdbdf61cb089de7e03316"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_people_die.json"
+hash = "176d716c985217c8d51e299fa892040bc2e915edf63b5b5b564bad8a9478d65b"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/im_in_your_walls.json"
+hash = "d434e660881ea2111bbcfba70fa2b862d67cdb4a94d098f0b9d570145abcc225"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_dr.json"
+hash = "8cf5100971fc7ede4a9b242358d90208be1b9e468aaf77fb1b23c2ae6794a769"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/tip_gpt.json"
+hash = "b1fa2721d6b32eeb35d1a88f573cd45ae07f4714e51b1fe045a8b42ee4528770"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/pack.mcmeta"
+hash = "cdf385ece11c497c6236be85394c7f06fa56b5d78e8e64dba3482ad29e7c0648"
 
 [[files]]
 file = "config/openloader/resources/jaded_music_rp/assets/minecraft/models/item/music_disc_11.json"
@@ -109,16 +141,8 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
-file = "mods/Aquaculture-1.20.1-2.5.0.jar"
-hash = "fbfe4728f3b67a9add2c45506d7bd0dd948d35025c7f6d45d3d0304a9199fa3c"
-
-[[files]]
 file = "mods/BiomesOPlenty-1.20.1-18.0.0.598.jar"
 hash = "71eb3ddb35c1c2db6c15f80f001a6655508435a5f3828c7e2f666eada616c19d"
-
-[[files]]
-file = "mods/Bookshelf-Forge-1.20.1-20.1.6.jar"
-hash = "55864af2d3a6fd20a93b33d9fe9d6df807baaa12b62d5355136a8bc64846d214"
 
 [[files]]
 file = "mods/CorgiLib-forge-1.20.1-4.0.0.4.jar"
@@ -219,6 +243,11 @@ hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+metafile = true
+
+[[files]]
 file = "mods/better-farmers-combat.pw.toml"
 hash = "ebbc27d0282ca7d57b946a4072757dc063a1b501a19565886d4554bcd6bdbf37"
 metafile = true
@@ -247,8 +276,18 @@ hash = "d045aa9a64e260d41cbe3d6c7964bcc0593d5e0a00fbeb0aea126e8402b33133"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "a8beef77c7ca4f31b9b85f4f123f2f461814b249551720b4f75c197e2aca68fc"
+metafile = true
+
+[[files]]
 file = "mods/caelus-forge-3.1.0+1.20.jar"
 hash = "e7d9c0bd0be90331c9d77d2b7f8df9054df88ea663f95addbbaae543d24fb92a"
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "0e52682bc312452372b3dba9dfb27ea933246b0e5e2d3678372f357986ac76a5"
+metafile = true
 
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
@@ -268,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/comforts-forge-6.3.4+1.20.1(2).jar"
 hash = "3f2b7f2045fa6ea706f6ad986311260752e601f6a9651b5b6f36b3426c2591f1"
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "6aafc2bb9101fc3e3548af4677a482eb5f6f85040394230911bc8fa0c46f37a9"
+metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
@@ -295,8 +339,14 @@ hash = "7d053abf99422fbeaf478c836397a81f56b26e18b1be2c8ebce19ee6c2a62f64"
 metafile = true
 
 [[files]]
-file = "mods/create-1.20.1-0.5.1.f.jar"
-hash = "4d69c98e33aee3c98d76d11aab3d497ff0c82d367f1378b2dee19971932aa206"
+file = "mods/create-oppenheimered.pw.toml"
+hash = "e25e95cb58c361b850a65beb1ae177095909a8804219fc3d366947c67fad6c35"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
@@ -311,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/curios-forge-5.4.2+1.20.1.jar"
 hash = "1780cf50bc3d946027c428ad6dfee2383da7235eb26fe6feea37e7c960e66b92"
+
+[[files]]
+file = "mods/disenchantingforge.pw.toml"
+hash = "7f5d118219135a4a700e5b2527a2015b9c8382e97f88e51699db75411e626e56"
+metafile = true
 
 [[files]]
 file = "mods/domestication-innovation.pw.toml"
@@ -332,8 +387,18 @@ hash = "720e9b95940d4037e0b70dacbbcc315995b5c39ca7d98fb8c78702f8300fda05"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "f9d89a25c08f562e363e6ef62a2793d692c9ba49a79a5bea8cf7d660328141e8"
+metafile = true
+
+[[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fce6589e2d57b8c6e2df375ab2f6971e8b4c1e463758cb234e337aa9c19c2b2b"
 metafile = true
 
 [[files]]
@@ -344,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
 metafile = true
 
 [[files]]
@@ -374,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/goblintraders-forge-1.20.1-1.9.3.jar"
 hash = "ff114b109d4db541178f3ea0bb87f7709799fe6565e5c709267c836b50d7b1db"
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
 
 [[files]]
 file = "mods/ironchests.pw.toml"
@@ -418,8 +493,18 @@ file = "mods/mutil-1.20.1-6.1.1.jar"
 hash = "359cedb5380340a45f21624ace9bac5c11b4b4691a95d170faa85daa89d4712e"
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "580c5756d28a70d6851e8429c5f83f7945dce7fab9e01ef8c08374490d4fd467"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
@@ -451,8 +536,14 @@ hash = "761951579e472b25df134a45301ba5f3ee300afae2e7af1a00c2030dad26a55d"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-mc1.20.1-0.7.1a.jar"
-hash = "d545b03823051f307cc2f5217e42af52ae3044170908fab4530d2eb04b6f311e"
+file = "mods/repurposed-structures.pw.toml"
+hash = "7c8f94ced176d1bece8e85b7acef696c5bbc701967c25a343e4cfb2a35a9efb1"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e8201b44aaafea01fb65a0ccf39ce55047b3a3dc54d90c5d43c4cd7ce23078ec"
+metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -465,6 +556,16 @@ hash = "292d36c08101d4dd836794c66528bc83530d4f609d7e4a1c9ade32deb18320b5"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons-fix.pw.toml"
+hash = "75dd9fab0f859a5245bfa1648d425566d7d58627e6c1fd78ff76645225561067"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "57abd88097d24c490d2b98db1bd958fc4665de8b4d13a8a0d72b421c082754f2"
 metafile = true
@@ -472,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/simplyswords-forge-1.51.5-1.20.1.jar"
 hash = "fa100fdbb2dc2019ed525d97a5b7761c8e90ccf2ded581813c1eebfde9cd4a3b"
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "590bad572f7a77f8ecc3b6cf7a6c7288c92c0d3af49aa1f5039b3584b1e99401"
+metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.20.1-3.18.65.935.jar"
@@ -510,8 +616,8 @@ hash = "7dbdc0d7265b6e32b285175e32bd0b517996da30c84bbc62d9c4624750ab28a1"
 metafile = true
 
 [[files]]
-file = "mods/timeoutfixes.pw.toml"
-hash = "abe8fd03f6e75ea52bb82253c9cb68b2707dc5f4ab89a0c4933757f133bf865b"
+file = "mods/tips.pw.toml"
+hash = "e3622b5529f1ecbb142e8c3527f4e02fc3212ac65119c5a911b6ac0a3bdf6bdb"
 metafile = true
 
 [[files]]
@@ -521,6 +627,11 @@ hash = "093c9039b9869e678570639f821ea2981f36826c8410007baffeb18701635d46"
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "ccc7243bb4fd41a727312fadf33f98b999772bfda128214e4cec9286c5bb9fa3"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "1bfc00546eacc516fef33abcaabce4499f4e8508d56f0ed8e3d55736831acfdd"
 metafile = true
 
 [[files]]
@@ -535,6 +646,11 @@ hash = "e11a159ff58b0b0490ea13cee027aa48622af7d68672bfbe1176ea127d1ff9d7"
 [[files]]
 file = "mods/waystones-forge-1.20-14.0.2.jar"
 hash = "a9824eacb37f1b6b45c505600d84e5f0d083d788b7fe983b1884c19223603de5"
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "5e692eaff3303988ab41f765070feff25b42dce4a90c23cc696dfbb8a450c392"
+metafile = true
 
 [[files]]
 file = "mods/you-died.pw.toml"
