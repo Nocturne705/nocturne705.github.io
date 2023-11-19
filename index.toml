@@ -575,6 +575,11 @@ hash = "57abd88097d24c490d2b98db1bd958fc4665de8b4d13a8a0d72b421c082754f2"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ad83fa5635db7c6fe616b76314b46ac717831fbee6f92ae0c32dadfb30d8a6df"
+metafile = true
+
+[[files]]
 file = "mods/simplyswords-forge-1.51.5-1.20.1.jar"
 hash = "fa100fdbb2dc2019ed525d97a5b7761c8e90ccf2ded581813c1eebfde9cd4a3b"
 
