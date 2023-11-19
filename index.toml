@@ -397,9 +397,8 @@ hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "fce6589e2d57b8c6e2df375ab2f6971e8b4c1e463758cb234e337aa9c19c2b2b"
-metafile = true
+file = "mods/entityculling-forge-1.6.2-mc1.20.jar"
+hash = "1db6b3b4cf5f9f34fa4f30cd2b3914d74d701ee3d94a659db8befcfa590f18a8"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
