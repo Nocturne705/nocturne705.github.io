@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.pw.toml"
-hash = "e3622b5529f1ecbb142e8c3527f4e02fc3212ac65119c5a911b6ac0a3bdf6bdb"
+hash = "c0924f2b4752519840a484825812a41830af159ea7407c9bb48e4e707b1e00ae"
 metafile = true
 
 [[files]]
