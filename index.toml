@@ -13,6 +13,78 @@ file = "config/openloader/data/Shmeat/pack.png"
 hash = "c0c1980ce6f5de68a7063c454185aa219a7bb992a241e3dd5abeec2a43ae0365"
 
 [[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/detect_play_tick.mcfunction"
+hash = "bd069dcf481a163f06535fb94aca51c4c1daa25fd9433a568dbc04e30ab1833f"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/detect_stop_tick.mcfunction"
+hash = "3dc4e1649e633095b878fd0d49e990560505b572f31fbe39c35fbd3a09fc3492"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/disc_play.mcfunction"
+hash = "daacc564f362167f7ea6a3dbe17b45e9b9de89b11168ea2773885fc84d0e41dc"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/disc_stop.mcfunction"
+hash = "d84b4b9e9f27d063a5cb9e671f4f160be99aaf03fd64ca8ee002cc01208e63b6"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/give_all_discs.mcfunction"
+hash = "6d010e1d8114f6d2b0f6b6461563c466a84c26344b9395a10f129d8e9d35a57c"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/give_newworld.mcfunction"
+hash = "7b9658a95c621de8b0ec72d28c5fc85252303d770960b586bbbae4ccf6b138d5"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/give_stalehands.mcfunction"
+hash = "00852417db2e631fcf57195f6b4db9797e82ffbf9efd0eb8a0dbd3c7cf3daa87"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/give_toodeep.mcfunction"
+hash = "49629f4104ba4a7c633b585aa0533cd351ef9398aa99fc8d7a9fdf6dac719fd9"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/play_newworld.mcfunction"
+hash = "f4980b73154cd6b5f81dcd51a6b4c97dde84cbe1c7c5b56e0d25dbec76b4d72e"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/play_stalehands.mcfunction"
+hash = "daa3e4af3fd4d72162db87187e74a5c458e33756b6a4d8f52b7c237967bc794e"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/play_toodeep.mcfunction"
+hash = "600bf7b11c475860949936e7c43ba203027c8940c6e54670d5f0321d5d598360"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/set_disc_track.mcfunction"
+hash = "a321f4c270bd42afff57adb720741d2a39f200e1b32fc69069bef142ef351f02"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/jaded_music_dp/functions/setup_load.mcfunction"
+hash = "ca826f59064743f2cd53a9a885f042117850bc177464e128d521b9a19365b413"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/minecraft/loot_tables/entities/creeper.json"
+hash = "102045b879b9a94724da8feb6d368d7e64db29199a055bb3014e53ac0ebd2cb5"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/minecraft/tags/functions/load.json"
+hash = "d9c3be63ec5e5c8f9a358932a229e629d05331f1fdfdda97466960a8b0b04a74"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/data/minecraft/tags/functions/tick.json"
+hash = "26add914b2aba2721bd3885047d6f3c8ba079035f9fe1732d0a211d6d0df0fb1"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/pack.mcmeta"
+hash = "de99c13bd7316f9dd2e54320b2f73f7f6314e2815b7a4ed00ecb64aea333778c"
+
+[[files]]
+file = "config/openloader/data/jaded_music_dp/pack.png"
+hash = "91234459c5b4ebb46079bc03185f8d5099139421b7f510283a9315f32386bc3f"
+
+[[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/data/origins/origin_layers/origin.json"
 hash = "b32c5512955f8d24023373cdbae1b086448bcc180d3fdedad45c824b5c577893"
 
@@ -51,6 +123,10 @@ hash = "b2cc273876a2f6ae81b43aea344b96e3362b8f332f83581163a94675d94c1b3d"
 [[files]]
 file = "config/openloader/data/jaded_origins_1.18.2/pack.mcmeta"
 hash = "e8c8eced3b9d8d7d5f502b2adca5c37e319c3ee047b6d63d620b18d302bc159a"
+
+[[files]]
+file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/bee_movie.json"
+hash = "261c32fc433fd027bd3e9074b03d21adf25393241669d686f7b103f670cd0e6c"
 
 [[files]]
 file = "config/openloader/resources/Jaded-Tips/assets/jaded_tips/tips/dyk_all_true.json"
