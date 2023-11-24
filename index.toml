@@ -502,9 +502,8 @@ hash = "745758e17769bb799a9f75fb9b3d0465fb5ee4ab8eeb438e753bb14a8828ef45"
 metafile = true
 
 [[files]]
-file = "mods/findme.pw.toml"
-hash = "d4527228e08d8ad7d60341f86c597067e08c398a0ab828610ebef8ee018a4ee1"
-metafile = true
+file = "mods/findme-3.1.0-forge.jar"
+hash = "196f6a8b0afcdbc5c15948f70137a9cb77f1a88a70ddf8a1345dff3416e45110"
 
 [[files]]
 file = "mods/flib.pw.toml"
