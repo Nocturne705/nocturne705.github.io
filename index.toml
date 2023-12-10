@@ -302,6 +302,11 @@ file = "mods/alexsmobs-1.22.6.jar"
 hash = "37ecc255481f62787ca7539e8c099e5c75275b626ebac05698d539d684990dc5"
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "cb65618762547645cd50cbdebf7613fe72dbc1a16350cf3e3e80453970371ec2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
 hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 
@@ -521,8 +526,23 @@ hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
+metafile = true
+
+[[files]]
 file = "mods/goblintraders-forge-1.20.1-1.9.3.jar"
 hash = "ff114b109d4db541178f3ea0bb87f7709799fe6565e5c709267c836b50d7b1db"
+
+[[files]]
+file = "mods/hearth-and-home.pw.toml"
+hash = "f9b151612606965377d5ed97d05fc32e61e00e86ac9459f24c1b985620d17c50"
+metafile = true
 
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
@@ -570,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/mutil-1.20.1-6.1.1.jar"
 hash = "359cedb5380340a45f21624ace9bac5c11b4b4691a95d170faa85daa89d4712e"
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "a57155e174f160d0cb42c8e10eb648b05865d70a79496a4024111d2a506325ca"
+metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
