@@ -325,6 +325,11 @@ file = "mods/ars_nouveau-1.20.1-4.7.4-all.jar"
 hash = "71a6d2510c87de38d80f36f3ca78cac06c32bc28edaff055e6277d9355375cef"
 
 [[files]]
+file = "mods/astikor-carts-redux.pw.toml"
+hash = "aefe356823a5907efd605759219ea7821235c079090052d23266fbaae67ff171"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
 metafile = true
