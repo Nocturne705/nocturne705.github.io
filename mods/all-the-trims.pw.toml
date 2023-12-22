@@ -1,0 +1,13 @@
+name = "All The Trims"
+filename = "allthetrims-3.3.7-forge+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29629e3eea5af5cd18c2636290a0fc0bf6375744"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4903489
+project-id = 876154

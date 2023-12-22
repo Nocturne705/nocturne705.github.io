@@ -1,0 +1,13 @@
+name = "Practical Plushies: Mobs"
+filename = "practical_plushies_mobs-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d21d4b502f6d0033084366466b00dcd10fc60ed1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4934702
+project-id = 934791
