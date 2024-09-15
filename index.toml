@@ -577,6 +577,14 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/LeonsSpookyMusic+M1.20.1+ForM.1.0.1.jar"
+hash = "6035781e285897ca4967531252896971d6537582758020a02e405e75b229f279"
+
+[[files]]
+file = "mods/LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar"
+hash = "00271aa564619cf2814a657cd37b01ed8d50b0e72797b02fc6d4b119ca8e6848"
+
+[[files]]
 file = "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
 hash = "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98"
 
@@ -843,16 +851,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f809175840d6a626965624c859928a6ac5f1d78f31b990ab3288f752352bb41a"
-metafile = true
-
-[[files]]
-file = "mods/spooky-music-trader.pw.toml"
-hash = "83e61416e904c91e3a4bb247eda7bac2ad30409b649dc94e24a573108a22de51"
-metafile = true
-
-[[files]]
-file = "mods/spooky-paintings.pw.toml"
-hash = "c3f36509be553d21f1998e63de8d8d52afd58dbed72f2a4e8de9934de3e6d48e"
 metafile = true
 
 [[files]]
