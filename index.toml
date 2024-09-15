@@ -648,6 +648,11 @@ hash = "3dab38e974d5ef738267cd299f2cc14d6b7db1dce9b7d77344e9093a7201113b"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "79e8f00ded5245e95e096c1b764ebd8bb4dd1b5eeeae6ce89d97d5d07e662ed3"
+metafile = true
+
+[[files]]
 file = "mods/box-of-horrors.pw.toml"
 hash = "3856cd50c8c7af6b3d556112b43381a542f760cca95a3ff2a8e5c6a0889ccc60"
 metafile = true
@@ -673,6 +678,11 @@ hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a22a8fdcae0455822f1c3722c75f4bcd3f0ac340ccd3a453f8b1497b3ab4cf4f"
 metafile = true
@@ -685,6 +695,11 @@ metafile = true
 [[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "f4406fece3f81c30faabfe3faffa872655c5eff78c1cb467e32853be805d3570"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
 
 [[files]]
@@ -793,8 +808,18 @@ hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
 metafile = true
 
 [[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "21767a26f0b81ce406431c8e7bef0be3d0f1b8b109b9748a5ebbda1a18417aec"
+metafile = true
+
+[[files]]
 file = "mods/grue_remake-1.5.0-forge-1.20.1.jar"
 hash = "1fec6ba05a6a3ce5b1976f461af1483c4d64371d0269d01ea8b365e8b7a5d711"
+
+[[files]]
+file = "mods/haybale-1-20-1.pw.toml"
+hash = "d31fc36b0e26d13a016fbd06e2fedcc22a8499f0b3486b392e5968ff6fb41cf2"
+metafile = true
 
 [[files]]
 file = "mods/i-hate-flesh-reborn-ihfr.pw.toml"
@@ -832,8 +857,18 @@ hash = "3da77e12a5a3178621401c9f98cb302d9dd25b6747ce55725b7db66c75672b89"
 metafile = true
 
 [[files]]
+file = "mods/kambrik.pw.toml"
+hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
@@ -917,6 +952,11 @@ hash = "1ee9ae66f682c9d0eeecf4f770c82ad3a2b974d9a59c324ae6c91bd46ee0df6f"
 metafile = true
 
 [[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
@@ -987,6 +1027,11 @@ hash = "f809175840d6a626965624c859928a6ac5f1d78f31b990ab3288f752352bb41a"
 metafile = true
 
 [[files]]
+file = "mods/straw-golem-rebaled-ported.pw.toml"
+hash = "19d197f5caa86b34f10731f92752356b524a754874cf445573124bafd8e71207"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "fd4f922cdf37e4b01f8b039d89d813c8caffe1052774071ca7ff107cd8e6364d"
 metafile = true
@@ -1014,11 +1059,6 @@ metafile = true
 [[files]]
 file = "mods/the-man-from-the-fog.pw.toml"
 hash = "967716e23b3b4461689b39b3d16b3b5451fada33eb4a46118c439336b8f26930"
-metafile = true
-
-[[files]]
-file = "mods/the-return-of-the-grue.pw.toml"
-hash = "81b59ca2f398f6fca57aeef3a6e0412b77f4c0ce291615a2bcc5258e34c54c71"
 metafile = true
 
 [[files]]
