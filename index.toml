@@ -729,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
+hash = "1484808760dad0e89dfbd3e3758b96dc9ecbb3d46fcec1489ac9d090213376c6"
 metafile = true
 
 [[files]]
@@ -875,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/the-knocker.pw.toml"
 hash = "ec7f457948b4afc51a19d8fd9648e3930f84df0e75feed3b69024bf85336f2fd"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "967716e23b3b4461689b39b3d16b3b5451fada33eb4a46118c439336b8f26930"
 metafile = true
 
 [[files]]
