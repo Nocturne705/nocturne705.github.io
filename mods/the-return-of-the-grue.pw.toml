@@ -1,0 +1,13 @@
+name = "The Return Of The Grue"
+filename = "grue_remake-1.5.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "002d8f95e470e5a2c3548f4f4250b16441bdabea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5669644
+project-id = 1085774

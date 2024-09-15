@@ -598,8 +598,33 @@ hash = "9ec993ad6a3dd7606c977bceb14da93f13aa281926df02537f39794b6933ba8e"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
 file = "mods/arphex.pw.toml"
 hash = "ae12547a8a32ba1c3bf975a46af61dc38e7bdf56c6fbaa17082408f4e573a787"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "4baf4d9f058a10c92939fec86f31ff120eaa9dfe77dea056814140a9cda41683"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
 metafile = true
 
 [[files]]
@@ -613,8 +638,18 @@ hash = "3e726cbec27bd2bdcd7f967b40189675bb979e4d2b3ac130241450f65e159ede"
 metafile = true
 
 [[files]]
+file = "mods/bn-blood-particles.pw.toml"
+hash = "583034494d255de9bce6dcea6321f2899322573ba91c6aa4ea3d63e83962ba3b"
+metafile = true
+
+[[files]]
 file = "mods/born-in-chaos.pw.toml"
 hash = "3dab38e974d5ef738267cd299f2cc14d6b7db1dce9b7d77344e9093a7201113b"
+metafile = true
+
+[[files]]
+file = "mods/box-of-horrors.pw.toml"
+hash = "3856cd50c8c7af6b3d556112b43381a542f760cca95a3ff2a8e5c6a0889ccc60"
 metafile = true
 
 [[files]]
@@ -634,12 +669,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3bacc7b869d008df0e47a425bd6d9cec0950a88b22d9d624a553d124c6259dbd"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a22a8fdcae0455822f1c3722c75f4bcd3f0ac340ccd3a453f8b1497b3ab4cf4f"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
 
 [[files]]
@@ -660,6 +700,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
+file = "mods/dark-waters.pw.toml"
+hash = "9ce272db93b2095c2b2d49fc8cf89e4b873780ebc769193d5231c7254be9791b"
 metafile = true
 
 [[files]]
@@ -713,6 +758,11 @@ hash = "4b4f55329a7ded942e79b3233aceb478a49757d7ce8a6942bf1f7099397a6567"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "ce081a84c6f6ac4a79753761fbe5c48bfcd29077af2c849ea6e3d7824b8f3e20"
 metafile = true
@@ -728,8 +778,18 @@ hash = "21e3dd574b6f66202b2c36b23fabbb985d76f582254b66ee21771556cc34db11"
 metafile = true
 
 [[files]]
+file = "mods/gardens-of-the-dead.pw.toml"
+hash = "75655a49501b3f3a52754499356cfba99e13fc4b322d4b968a3e20d1c7b45c5d"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1484808760dad0e89dfbd3e3758b96dc9ecbb3d46fcec1489ac9d090213376c6"
+hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
+metafile = true
+
+[[files]]
+file = "mods/i-hate-flesh-reborn-ihfr.pw.toml"
+hash = "ca41a3ec8685055f26bc658da02c81885dea9933f8a417ed86b970511b9cc62a"
 metafile = true
 
 [[files]]
@@ -763,6 +823,16 @@ hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
 
 [[files]]
+file = "mods/lookin-sharp.pw.toml"
+hash = "cbd61ec566dd029e7bc362e531b9014b3d512d468dda3e24a92cafaa8bde1fc5"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "7ff110c86a5c19b4c5638695d9a888fb3558649410c49bc21ec0f7711587f1de"
+metafile = true
+
+[[files]]
 file = "mods/lunar.pw.toml"
 hash = "34c0677771b6d0a573307915a48b7dbd085064ec170f1738ba3fc0454340d0c5"
 metafile = true
@@ -788,6 +858,11 @@ hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "49ebfa68ac5b266faac6e3ce4c0881cafec30c9376006ee8c8824eb013ec2d3c"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
@@ -808,6 +883,11 @@ hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "1ee9ae66f682c9d0eeecf4f770c82ad3a2b974d9a59c324ae6c91bd46ee0df6f"
 metafile = true
@@ -818,8 +898,18 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
+file = "mods/reactive-music.pw.toml"
+hash = "941df18326f19c39a47660463a168b64a566ff8326f4fb3d7409b6676ff4f20e"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "6174bb14ac82ddbd83df42d91ab413960a2d173186b16bad918e378a49494143"
+metafile = true
+
+[[files]]
+file = "mods/scuba-gear.pw.toml"
+hash = "e353caf047b1592faa8819c667651e9666d2939347fb669e6fd09d77847a0194"
 metafile = true
 
 [[files]]
@@ -830,6 +920,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bcd933fc843063c7f0da4df200c60b27d4f8c68ed143dc3d5f6f52824ec7a282"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "b27c18503a096fba94701b4335a2cce1f66c25b38c0f7fb7215d21ff36b434dc"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
@@ -883,6 +983,11 @@ hash = "967716e23b3b4461689b39b3d16b3b5451fada33eb4a46118c439336b8f26930"
 metafile = true
 
 [[files]]
+file = "mods/the-return-of-the-grue.pw.toml"
+hash = "81b59ca2f398f6fca57aeef3a6e0412b77f4c0ce291615a2bcc5258e34c54c71"
+metafile = true
+
+[[files]]
 file = "mods/theundead.pw.toml"
 hash = "ce8daf9bb472efe6007889a6a2f8164981825eb41733b1d95989f55836abb2d0"
 metafile = true
@@ -898,6 +1003,16 @@ hash = "89f2262602d0a6b145297fcb5d4667a219b09a19467de1130f2e078a39078229"
 metafile = true
 
 [[files]]
+file = "mods/true-darkness-forge-updated-fork.pw.toml"
+hash = "4e783ca2336af03823a355e60c72f3e8d743ae9e5936d314adf43113adeb618a"
+metafile = true
+
+[[files]]
+file = "mods/tumbleweed.pw.toml"
+hash = "15af8d1b761076f112ac3a81edb2b2d5647688d7e30ea2460fe7841d43323b27"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "8a92bc3adbc2f68325e4d471d5cf87fed47ff068e179a4a00e66a94c514cf080"
 metafile = true
@@ -908,8 +1023,18 @@ hash = "19847d699f8d6d4dec4b6168b8e3e6844ca0f11e1623772bc40135413d707ec1"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
+metafile = true
+
+[[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "bbec88a5550466b7303b26f32ac82e471474697b590980822b06c6967d418d15"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2c728075204cb64dd200f7f2e2f1dbb90de6168e78572ed4d96b5586a1e8234e"
 metafile = true
 
 [[files]]
