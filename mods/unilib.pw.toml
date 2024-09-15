@@ -1,0 +1,13 @@
+name = "UniLib"
+filename = "UniLib-1.0.2+1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/lwORKPF2/UniLib-1.0.2%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "ccd960abb666f56ead3e4f195082c1bc2ee538602d94a9d1d96dcb971107a2f4c5efa1f0797d9c735583535f6046e5a104f34cdeb4b4273af0e3c215185b4ac3"
+
+[update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "lwORKPF2"

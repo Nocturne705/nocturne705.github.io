@@ -1,0 +1,13 @@
+name = "The Anomaly"
+filename = "anomaly-1.9.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xGZQ2Gvn/versions/fMOwp6jM/anomaly-1.9.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "4a270ede83b244609e6ea8119f9caae61c4286e46d4931324c309b2328f24037595ed5dc8fd74c3fc56d373d75e89fffb1fc1c056da0d840517fb56cba4b103e"
+
+[update]
+[update.modrinth]
+mod-id = "xGZQ2Gvn"
+version = "fMOwp6jM"
