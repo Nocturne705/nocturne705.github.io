@@ -573,11 +573,6 @@ file = "config/waterdripsound-client.toml"
 hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
 
 [[files]]
-file = "drdestens-minecraftshaders.pw.toml"
-hash = "68077932751211d6457a59904bfbbd09cd11c69e4df557b89d10cc1b11b69491"
-metafile = true
-
-[[files]]
 file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
@@ -936,6 +931,10 @@ metafile = true
 file = "resourcepacks/taxatmospherealien.pw.toml"
 hash = "7ca3df38de948b81a8cd08f37e080e6dca7e4c439276f98842ddd25f6d184438"
 metafile = true
+
+[[files]]
+file = "shaderpacks/DrDestens MinecraftShaders v2.0.4.zip"
+hash = "495ec561664ba060379490590372e837562e3cb6c9cad7ae8eb4a53afafba467"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
