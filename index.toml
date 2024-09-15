@@ -1307,11 +1307,6 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/taxatmospherealien.pw.toml"
-hash = "7ca3df38de948b81a8cd08f37e080e6dca7e4c439276f98842ddd25f6d184438"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
 metafile = true
