@@ -1,0 +1,13 @@
+name = "Perry´s Decorations"
+filename = "perrys_decorations-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e3fe3ee018902ebf4746078ebc638e609a9069f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5547796
+project-id = 1067293

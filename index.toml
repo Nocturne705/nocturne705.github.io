@@ -593,8 +593,18 @@ file = "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar"
 hash = "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+metafile = true
+
+[[files]]
 file = "mods/apollyon.pw.toml"
 hash = "9ec993ad6a3dd7606c977bceb14da93f13aa281926df02537f39794b6933ba8e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
@@ -618,8 +628,18 @@ hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
+metafile = true
+
+[[files]]
+file = "mods/better-f3.pw.toml"
+hash = "69c55cf9276309c74803fdeadfdba84e69ffbd8fb93736603fb8bf87c77ff0c0"
 metafile = true
 
 [[files]]
@@ -668,6 +688,11 @@ hash = "0c513c655e359e1837f681aca1fcda2aa3f615d0b561f641556ea15bf4ce6832"
 metafile = true
 
 [[files]]
+file = "mods/chested-companions.pw.toml"
+hash = "29edfdde223b3be44bd4a1aafea900feba57de480fa2914d797a53ca2e7576b6"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
@@ -713,13 +738,38 @@ hash = "1b3946eb9eba5fcccf6531defa13eb5c1d67bc9548b37f2b54274ebd7d3626f2"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/crashexploitfixer.pw.toml"
 hash = "ca0716331c0a05f3e6d50f45c04f84f05af2e61d23c514985e08eca80bca24ec"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "31d4dc93d6bb6517eaa27bca712b56b30534f58a7bd04a24f67aa17456ba3096"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "14d7b9f524bb6b8c487c8713858e83495e7829d6d73531310249c0f2124a9ffc"
 metafile = true
 
 [[files]]
@@ -755,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/endofherobrine.pw.toml"
 hash = "6742cf02153d0b44d47430fdcc8a8cc03fe8e74b870548a8996ecda4a020139c"
+metafile = true
+
+[[files]]
+file = "mods/enhancedvisuals.pw.toml"
+hash = "cf369465c377631e4ece74e7c248583e548dbb45929cb579db7c772d8e150bcd"
 metafile = true
 
 [[files]]
@@ -822,23 +877,18 @@ hash = "d31fc36b0e26d13a016fbd06e2fedcc22a8499f0b3486b392e5968ff6fb41cf2"
 metafile = true
 
 [[files]]
-file = "mods/i-hate-flesh-reborn-ihfr.pw.toml"
-hash = "ca41a3ec8685055f26bc658da02c81885dea9933f8a417ed86b970511b9cc62a"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e00ae613f73325644958488c3a6f4d1f6037676e55bb2919cfe8a1a32c9933b7"
 metafile = true
 
 [[files]]
-file = "mods/immersive-ui.pw.toml"
-hash = "6ebd9bcd2b2f9d0431e4c40334495aff3dfba8a6f5747c0d7622069feecbb23c"
+file = "mods/in-control.pw.toml"
+hash = "563b356f5a2cd1c12ef99ef6577ba4f3745719708c3b405b869a551dbb4cfa83"
 metafile = true
 
 [[files]]
-file = "mods/in-control.pw.toml"
-hash = "563b356f5a2cd1c12ef99ef6577ba4f3745719708c3b405b869a551dbb4cfa83"
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
 
 [[files]]
@@ -869,6 +919,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/legendary-survival-overhaul.pw.toml"
+hash = "b2ae2566037b1817fd024fe69a4b348ae8cfad4763ed9cdc31d60ede36309c26"
 metafile = true
 
 [[files]]
@@ -922,6 +977,11 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/nocubes-sea-dwellers.pw.toml"
+hash = "b1c940eaff3055d8c353db29844fc208c47bbfcf0f713b99d2e1a941c1d7ed39"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
 metafile = true
@@ -934,6 +994,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
+metafile = true
+
+[[files]]
+file = "mods/perrys-decorations.pw.toml"
+hash = "2de7ebde1e157fdfb179bf1d3e8d2cad7e2f41100f3d6854045ac1c5db934907"
 metafile = true
 
 [[files]]
@@ -967,6 +1032,11 @@ hash = "941df18326f19c39a47660463a168b64a566ff8326f4fb3d7409b6676ff4f20e"
 metafile = true
 
 [[files]]
+file = "mods/realm-rpg-imps-demons.pw.toml"
+hash = "cec964f76cbc78e9ff22347a27f44a4cbb0e6da437218ed0c71ef6d19ac812ad"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "6174bb14ac82ddbd83df42d91ab413960a2d173186b16bad918e378a49494143"
 metafile = true
@@ -982,6 +1052,11 @@ hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
+file = "mods/sanity-descent-into-madness.pw.toml"
+hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
+metafile = true
+
+[[files]]
 file = "mods/scuba-gear.pw.toml"
 hash = "e353caf047b1592faa8819c667651e9666d2939347fb669e6fd09d77847a0194"
 metafile = true
@@ -994,6 +1069,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bcd933fc843063c7f0da4df200c60b27d4f8c68ed143dc3d5f6f52824ec7a282"
+metafile = true
+
+[[files]]
+file = "mods/simplehats.pw.toml"
+hash = "9982ecd54ac42374a1949e01ac7eda3deeed4721d86fcbb0199baf6cc6796500"
 metafile = true
 
 [[files]]
@@ -1062,6 +1142,11 @@ hash = "967716e23b3b4461689b39b3d16b3b5451fada33eb4a46118c439336b8f26930"
 metafile = true
 
 [[files]]
+file = "mods/the-wandering-gambler.pw.toml"
+hash = "cf64d6b78cd6b19e0e96efd838cd80593b9d477d4336cbad06a61705029ed126"
+metafile = true
+
+[[files]]
 file = "mods/theundead.pw.toml"
 hash = "ce8daf9bb472efe6007889a6a2f8164981825eb41733b1d95989f55836abb2d0"
 metafile = true
@@ -1084,6 +1169,11 @@ metafile = true
 [[files]]
 file = "mods/tumbleweed.pw.toml"
 hash = "15af8d1b761076f112ac3a81edb2b2d5647688d7e30ea2460fe7841d43323b27"
+metafile = true
+
+[[files]]
+file = "mods/under-the-moon.pw.toml"
+hash = "00bd1e1ff4009fbb911aebb22bdea85606cb77d004a0ea043a132e2b75fbcd3e"
 metafile = true
 
 [[files]]

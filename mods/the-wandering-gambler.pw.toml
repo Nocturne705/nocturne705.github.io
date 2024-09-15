@@ -1,0 +1,13 @@
+name = "The Wandering Gambler"
+filename = "the_wandering_gambler_ii-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8819766908da4f5fda17465f2742852debb85232"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5312771
+project-id = 993545
