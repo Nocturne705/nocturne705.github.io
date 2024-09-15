@@ -932,10 +932,6 @@ hash = "7ca3df38de948b81a8cd08f37e080e6dca7e4c439276f98842ddd25f6d184438"
 metafile = true
 
 [[files]]
-file = "shaderpacks/DrDestens MinecraftShaders v2.0.4.zip"
-hash = "495ec561664ba060379490590372e837562e3cb6c9cad7ae8eb4a53afafba467"
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
 metafile = true
