@@ -788,6 +788,10 @@ hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
 metafile = true
 
 [[files]]
+file = "mods/grue_remake-1.5.0-forge-1.20.1.jar"
+hash = "1fec6ba05a6a3ce5b1976f461af1483c4d64371d0269d01ea8b365e8b7a5d711"
+
+[[files]]
 file = "mods/i-hate-flesh-reborn-ihfr.pw.toml"
 hash = "ca41a3ec8685055f26bc658da02c81885dea9933f8a417ed86b970511b9cc62a"
 metafile = true
@@ -910,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "1947cc239ea0752b836011ef95182e588e45b38ab793c9c24c6f468f85f54052"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
 
 [[files]]
