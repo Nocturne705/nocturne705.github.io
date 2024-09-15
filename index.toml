@@ -908,6 +908,11 @@ hash = "6174bb14ac82ddbd83df42d91ab413960a2d173186b16bad918e378a49494143"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "1947cc239ea0752b836011ef95182e588e45b38ab793c9c24c6f468f85f54052"
+metafile = true
+
+[[files]]
 file = "mods/scuba-gear.pw.toml"
 hash = "e353caf047b1592faa8819c667651e9666d2939347fb669e6fd09d77847a0194"
 metafile = true
