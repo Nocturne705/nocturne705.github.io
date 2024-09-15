@@ -437,6 +437,10 @@ file = "config/man_config.toml"
 hash = "68cb1ead128b0761754824704fa21fd5df22dd1bcb68107c41b59a0827e56c6d"
 
 [[files]]
+file = "config/mca.json"
+hash = "0aa72f06b3d4d6ccc28cb0ae7b3f507cbc1558b48c754d3b4339a3a4f9100864"
+
+[[files]]
 file = "config/naturescompass-client.toml"
 hash = "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b"
 
@@ -571,6 +575,10 @@ hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
 [[files]]
 file = "config/waterdripsound-client.toml"
 hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "65034274f8cb5e292cd3e8582fdcc56c202cd583830d7db4d550225157ef3c2a"
 
 [[files]]
 file = "index.html"
