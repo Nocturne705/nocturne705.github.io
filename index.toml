@@ -577,6 +577,10 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/CraftPresence-2.5.0+1.20.1-forge.jar"
+hash = "3a2ba614af1c68ea339f95e9f8ca3242a78e7337032909c92ea72549ccf2f5ba"
+
+[[files]]
 file = "mods/LeonsSpookyMusic+M1.20.1+ForM.1.0.1.jar"
 hash = "6035781e285897ca4967531252896971d6537582758020a02e405e75b229f279"
 
@@ -646,11 +650,6 @@ metafile = true
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "1b3946eb9eba5fcccf6531defa13eb5c1d67bc9548b37f2b54274ebd7d3626f2"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
 metafile = true
 
 [[files]]
