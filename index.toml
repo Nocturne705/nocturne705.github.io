@@ -688,6 +688,11 @@ hash = "f4406fece3f81c30faabfe3faffa872655c5eff78c1cb467e32853be805d3570"
 metafile = true
 
 [[files]]
+file = "mods/controllable.pw.toml"
+hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+metafile = true
+
+[[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "1b3946eb9eba5fcccf6531defa13eb5c1d67bc9548b37f2b54274ebd7d3626f2"
 metafile = true
@@ -802,6 +807,11 @@ hash = "e00ae613f73325644958488c3a6f4d1f6037676e55bb2919cfe8a1a32c9933b7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "6ebd9bcd2b2f9d0431e4c40334495aff3dfba8a6f5747c0d7622069feecbb23c"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "563b356f5a2cd1c12ef99ef6577ba4f3745719708c3b405b869a551dbb4cfa83"
 metafile = true
@@ -867,6 +877,11 @@ hash = "49ebfa68ac5b266faac6e3ce4c0881cafec30c9376006ee8c8824eb013ec2d3c"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfishs-gun-mod-unofficial.pw.toml"
+hash = "95ce762be35110b791209b64308bdac93081734c9e3aecf9350fd74746b83575"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
@@ -874,6 +889,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "299d07d605497fd0f4cc5f32a76cf657fda8a84813816fa24c4a05d9f846c3cb"
 metafile = true
 
 [[files]]
