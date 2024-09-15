@@ -638,11 +638,6 @@ hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
 metafile = true
 
 [[files]]
-file = "mods/better-f3.pw.toml"
-hash = "69c55cf9276309c74803fdeadfdba84e69ffbd8fb93736603fb8bf87c77ff0c0"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
 metafile = true
@@ -651,6 +646,10 @@ metafile = true
 file = "mods/better-title-screen.pw.toml"
 hash = "4fadb9af95201dbc92da40d859fa9e9317d0e5562fd31df6a373d094ea06768f"
 metafile = true
+
+[[files]]
+file = "mods/betterf3-1.20.1-1.0.jar"
+hash = "621b3a3cb5a8b70bd7d50e2f670fd292f901ecc3005b0eebbfde6dba12e2a8a5"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
@@ -977,11 +976,6 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
-file = "mods/nocubes-sea-dwellers.pw.toml"
-hash = "b1c940eaff3055d8c353db29844fc208c47bbfcf0f713b99d2e1a941c1d7ed39"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
 metafile = true
@@ -1037,14 +1031,16 @@ hash = "941df18326f19c39a47660463a168b64a566ff8326f4fb3d7409b6676ff4f20e"
 metafile = true
 
 [[files]]
-file = "mods/realm-rpg-fallen-adventurers.pw.toml"
-hash = "9d0937d036c25a7726722609fe28e38b07590ca9c095053ad69291ced61dbe0f"
-metafile = true
+file = "mods/realmrpg_fallen_adventurers_1.0.3_forge_1.20.1.jar"
+hash = "868b120010c0ec06b67e580932180a61c070c1e57ac5f5543655d4fae6d90110"
 
 [[files]]
-file = "mods/realm-rpg-imps-demons.pw.toml"
-hash = "cec964f76cbc78e9ff22347a27f44a4cbb0e6da437218ed0c71ef6d19ac812ad"
-metafile = true
+file = "mods/realmrpg_imps_and_demons_0.9.0_forge_1.20.1.jar"
+hash = "8b906a3bebd26c4622a18ffc4cc488416b4a7c07eb68f24509aa7e54c1b1d9ce"
+
+[[files]]
+file = "mods/realmrpg_pots_and_mimics_1.0.2_forge_1.20.1.jar"
+hash = "ec932057b0f296049b123f5a0949b161146e960992c835d66906f67138e6ce18"
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
