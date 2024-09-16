@@ -5,6 +5,18 @@ file = "config/ArPhEx Configurations.toml"
 hash = "08ca443cb2bf28f9657fd460fec56358471c3403bce1c0134672c89d569ca88d"
 
 [[files]]
+file = "config/bettercombat/client.json5"
+hash = "c687ffbfa8d4f78d35f4998a74a4773696f28dfef5dd99d20afe157bacefb075"
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
+
+[[files]]
 file = "config/bettertitlescreen-client.toml"
 hash = "15721b39f4de146a40bdad59c2b0559d9b74b606f7da8056fba38ef3b63944aa"
 
@@ -419,6 +431,54 @@ hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
 [[files]]
 file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/biomeOverrides.json"
+hash = "bafd7720ba315cab5ce824e220bc19118d5dbe2c7a7503a513deff5251c4b0a0"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/blockTemperatures.json"
+hash = "4efcfea3ee1deea5dda1f504fe38a376023876f85418b48666595ff5df5c58d1"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/blockThirst.json"
+hash = "32e305c352fa32f6316c9ca3f6913b0069230be69718259c71a5b8ecc422f1ed"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/damageSourceBodyParts.json"
+hash = "bf61444d7b9e6b473f85633004b8ae475f9b1e36db2d0d878a01ed98e92a169c"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/dimensionTemperatures.json"
+hash = "53ab79488d4615d1ab57dd3dd7d22e3de43631f0ad9dc5d581657258213a976c"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/fuelItems.json"
+hash = "40ebf4bd58d10b2092702d78255cfd908f3ede6b659378068e28c36eacdf2ae4"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/healingConsumables.json"
+hash = "ad96bbde7d9afdd0fb7a0045ed6b60a272d341b8c83cf20fe05a0b91ffa0b76a"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/itemTemperatures.json"
+hash = "8c28914afc1ea6832def25b5a9d6cd7728148c5f33e23d86abe16dbe0adfa355"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/temperatureConsumables.json"
+hash = "a1b969c19ee35afcedad5673473332e8a222a6f1cb86ed5edcfe2f60872f0f88"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/json/thirstConsumables.json"
+hash = "040968fd27e130e57b8b9161ebec95c88393634d018a8755f719aaad94a85f3a"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
+hash = "ce7455478ddfcf842f397184222c42168d3d91af744603cf32332f389e6fe9d3"
+
+[[files]]
+file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
+hash = "53e430cc6bceeefa4a0fe2bb6c56058243ecb3799cd7aa4bfdb3bf006d5a290e"
 
 [[files]]
 file = "config/lithium.properties"
@@ -840,6 +900,16 @@ hash = "4b4f55329a7ded942e79b3233aceb478a49757d7ce8a6942bf1f7099397a6567"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
+metafile = true
+
+[[files]]
+file = "mods/forge-creeper-heal-unofficial.pw.toml"
+hash = "68ebafd63a0234b904f6be54a51781a9cfba43cc1ff6202d7f96affaec785597"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
 metafile = true
@@ -974,6 +1044,11 @@ hash = "49ebfa68ac5b266faac6e3ce4c0881cafec30c9376006ee8c8824eb013ec2d3c"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfishs-gun-mod-unofficial.pw.toml"
 hash = "95ce762be35110b791209b64308bdac93081734c9e3aecf9350fd74746b83575"
 metafile = true
@@ -1101,6 +1176,11 @@ hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
+metafile = true
+
+[[files]]
 file = "mods/sons-of-sins.pw.toml"
 hash = "9ce58990c54d821baf79a3c38d22d9311c8828fb7ce49b14110919544d40749a"
 metafile = true
@@ -1118,6 +1198,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f809175840d6a626965624c859928a6ac5f1d78f31b990ab3288f752352bb41a"
+metafile = true
+
+[[files]]
+file = "mods/stardew-fishing.pw.toml"
+hash = "0836fd8cc89754fdc6cfc57e58d5c7d371406eb9de45413e135021bb85b05ff3"
 metafile = true
 
 [[files]]
