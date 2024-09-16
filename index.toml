@@ -494,7 +494,7 @@ hash = "a7c75e30260b5c1e3355f134a7ef4c0745ca2cd27e12dea5c9c056a830cdeda4"
 
 [[files]]
 file = "config/man_config.toml"
-hash = "68cb1ead128b0761754824704fa21fd5df22dd1bcb68107c41b59a0827e56c6d"
+hash = "d888752b095fa820ba4e21b80c0966156228ecaee3467a5820c9fa78fbe44644"
 
 [[files]]
 file = "config/mca.json"

@@ -17,7 +17,7 @@
 	#minimum radius in blocks before it despawns
 	vanish_distance = 30.0
 	#if true, it can also spawn during the day
-	spawn_at_day = true
+	spawn_at_day = false
 	#if true, the player gets the darkness effect when starts getting chased
 	darkness_effect = true
 	#the duration in ticks of the darkness effect
