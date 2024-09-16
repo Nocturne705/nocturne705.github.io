@@ -645,10 +645,6 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
-file = "mods/CraftPresence-2.5.0+1.20.1-forge.jar"
-hash = "3a2ba614af1c68ea339f95e9f8ca3242a78e7337032909c92ea72549ccf2f5ba"
-
-[[files]]
 file = "mods/LeonsSpookyMusic+M1.20.1+ForM.1.0.1.jar"
 hash = "6035781e285897ca4967531252896971d6537582758020a02e405e75b229f279"
 
@@ -714,10 +710,6 @@ metafile = true
 file = "mods/better-title-screen.pw.toml"
 hash = "4fadb9af95201dbc92da40d859fa9e9317d0e5562fd31df6a373d094ea06768f"
 metafile = true
-
-[[files]]
-file = "mods/betterf3-1.20.1-1.0.jar"
-hash = "621b3a3cb5a8b70bd7d50e2f670fd292f901ecc3005b0eebbfde6dba12e2a8a5"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
@@ -1277,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness-forge-updated-fork.pw.toml"
-hash = "4e783ca2336af03823a355e60c72f3e8d743ae9e5936d314adf43113adeb618a"
+hash = "97e78254f2db3f32811b04cafd138df7e64a0da0a9b2812f7573ace98e6f837f"
 metafile = true
 
 [[files]]
@@ -1288,11 +1280,6 @@ metafile = true
 [[files]]
 file = "mods/under-the-moon.pw.toml"
 hash = "00bd1e1ff4009fbb911aebb22bdea85606cb77d004a0ea043a132e2b75fbcd3e"
-metafile = true
-
-[[files]]
-file = "mods/unilib.pw.toml"
-hash = "dff74f9c3ec21105fd4f8553cfcf30efee8d7aa65528eff355f37595f96c6470"
 metafile = true
 
 [[files]]
