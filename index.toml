@@ -717,6 +717,11 @@ hash = "3e726cbec27bd2bdcd7f967b40189675bb979e4d2b3ac130241450f65e159ede"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "5734f077bfc946f59bc8b3060d7f6141ad49a75738891cb962cf1834d9c4c449"
+metafile = true
+
+[[files]]
 file = "mods/bn-blood-particles.pw.toml"
 hash = "583034494d255de9bce6dcea6321f2899322573ba91c6aa4ea3d63e83962ba3b"
 metafile = true
