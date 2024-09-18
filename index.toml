@@ -1258,6 +1258,11 @@ hash = "ec7f457948b4afc51a19d8fd9648e3930f84df0e75feed3b69024bf85336f2fd"
 metafile = true
 
 [[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "e7a1a4c11947f96a92a96d978faa04e0127b23aa004f0554815420a04368de69"
+metafile = true
+
+[[files]]
 file = "mods/the-man-from-the-fog.pw.toml"
 hash = "967716e23b3b4461689b39b3d16b3b5451fada33eb4a46118c439336b8f26930"
 metafile = true
