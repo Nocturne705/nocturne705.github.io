@@ -6,7 +6,7 @@ hash = "08ca443cb2bf28f9657fd460fec56358471c3403bce1c0134672c89d569ca88d"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "c687ffbfa8d4f78d35f4998a74a4773696f28dfef5dd99d20afe157bacefb075"
+hash = "e8064b014f9e01c27b63877f98410dd166f79b562aabb0d8fc365aeef2616902"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
@@ -742,6 +742,11 @@ hash = "3856cd50c8c7af6b3d556112b43381a542f760cca95a3ff2a8e5c6a0889ccc60"
 metafile = true
 
 [[files]]
+file = "mods/callable-horses.pw.toml"
+hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
+metafile = true
+
+[[files]]
 file = "mods/cave-dweller-reimagined.pw.toml"
 hash = "8b38c7c647bcfd170764ef08603578451839edd2318726b951aa592eda299ca7"
 metafile = true
@@ -777,8 +782,18 @@ hash = "a22a8fdcae0455822f1c3722c75f4bcd3f0ac340ccd3a453f8b1497b3ab4cf4f"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "f5da0bd02c69394b819a539587c807f57bc373ea52f9db814c6ffb8f80f5eb73"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
@@ -817,6 +832,11 @@ hash = "34a6fb77114e014d412dcad67134ca3355862ee395ad084b2a7d5e5b8f49c56e"
 metafile = true
 
 [[files]]
+file = "mods/crawl-on-demand.pw.toml"
+hash = "71978099bab5a59af99ad64f1d684ee7c89262795a538ce9b91d9e2456971d05"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "31d4dc93d6bb6517eaa27bca712b56b30534f58a7bd04a24f67aa17456ba3096"
 metafile = true
@@ -824,6 +844,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
+metafile = true
+
+[[files]]
+file = "mods/crock-pot.pw.toml"
+hash = "cd2646f26e3c005afdacb586542672ef1afd1983f7bb2681e2ab95594c9e0c1e"
 metafile = true
 
 [[files]]
@@ -872,6 +897,11 @@ hash = "5cc23a02788b472e556a8769fd7e9d8249f5a2998df2505243e17875cfa3dc18"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
+metafile = true
+
+[[files]]
 file = "mods/endofherobrine.pw.toml"
 hash = "6742cf02153d0b44d47430fdcc8a8cc03fe8e74b870548a8996ecda4a020139c"
 metafile = true
@@ -899,6 +929,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "4b4f55329a7ded942e79b3233aceb478a49757d7ce8a6942bf1f7099397a6567"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
@@ -966,6 +1001,11 @@ hash = "e00ae613f73325644958488c3a6f4d1f6037676e55bb2919cfe8a1a32c9933b7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "369f3013a596475087c7d0cef15b43e040eeb9360efe8e3db4a870a714d21705"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "563b356f5a2cd1c12ef99ef6577ba4f3745719708c3b405b869a551dbb4cfa83"
 metafile = true
@@ -982,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "806c39ac088372dfb0f05118bcee9d8ef15b91f0e02f089f67eaae4380aba098"
+hash = "99a6a7702060535d28efded7164088de69d1a5582af525074a0ab1136fbc13a2"
 metafile = true
 
 [[files]]
@@ -1066,8 +1106,28 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
+metafile = true
+
+[[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "cc24ee332a95fcae64ccb5dd9905fc25b2f8a2ccab500add27f0ff05fc130abf"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
 metafile = true
 
 [[files]]
@@ -1163,6 +1223,11 @@ hash = "fb1e5de4b42a9d65503ef4ed69388745ea3e379b3f41d43a35579a93ef589fd2"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "fd1bfe28bc13140630209fe161f046cb39dcf8e7d9c2a325b6a7336f739af184"
 metafile = true
@@ -1213,11 +1278,6 @@ hash = "f809175840d6a626965624c859928a6ac5f1d78f31b990ab3288f752352bb41a"
 metafile = true
 
 [[files]]
-file = "mods/stardew-fishing.pw.toml"
-hash = "0836fd8cc89754fdc6cfc57e58d5c7d371406eb9de45413e135021bb85b05ff3"
-metafile = true
-
-[[files]]
 file = "mods/straw-golem-rebaled-ported.pw.toml"
 hash = "19d197f5caa86b34f10731f92752356b524a754874cf445573124bafd8e71207"
 metafile = true
@@ -1245,6 +1305,11 @@ metafile = true
 [[files]]
 file = "mods/the-anomaly.pw.toml"
 hash = "a14e8f925d63305ce2387f89e09e76b624bee705d93c91d6ff89daf2adf12796"
+metafile = true
+
+[[files]]
+file = "mods/the-flesh-that-hates.pw.toml"
+hash = "4ce2c62c813e65de9b648d0ae8575067b09c69045d6154afcd6139763e1860cb"
 metafile = true
 
 [[files]]
@@ -1280,6 +1345,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-modded.pw.toml"
+hash = "4d2a9da7c09a85448943858dfe66fdbf6b2b262acd28ed4055d620ceb560da18"
 metafile = true
 
 [[files]]
