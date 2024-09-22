@@ -697,6 +697,11 @@ hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "79a3fb06122208f61eede6e34a4ed3ea15107cd89ebcbfd8afc2903a6fa01a8a"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
 metafile = true
@@ -744,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/callable-horses.pw.toml"
 hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
 
 [[files]]
@@ -884,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "9e509b2046271caf29aa1f0f91f1db22d981a3e84f0dd4b13047b3010fba078f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "a955e3695047fa8d2c25bf1fb47d1cad55fff1b4d94d4273e60da84a1d7b4736"
 metafile = true
 
 [[files]]
@@ -1048,6 +1063,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-survival-overhaul.pw.toml"
 hash = "b2ae2566037b1817fd024fe69a4b348ae8cfad4763ed9cdc31d60ede36309c26"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "f19f61fcce9df3befee6d0d6096a93a9646f93766b2523b27e7903da81e4269b"
 metafile = true
 
 [[files]]
