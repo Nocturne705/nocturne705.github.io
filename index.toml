@@ -681,6 +681,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/astikor-carts-redux.pw.toml"
+hash = "6d7488c03c6ce1b0f06e030bb90094d3b029ccfb01c20de674488710f8ad2891"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "4baf4d9f058a10c92939fec86f31ff120eaa9dfe77dea056814140a9cda41683"
 metafile = true
@@ -716,6 +721,26 @@ hash = "cd7386f4bf5aeb4f0ae3f95a98a5884ed076119151ad33c9fd7717365d3ec43b"
 metafile = true
 
 [[files]]
+file = "mods/bio-delight.pw.toml"
+hash = "5b6b208acf5aeb3c4dde3510ddb70d45a9f3d1d7da9363d897133f5387cd12ea"
+metafile = true
+
+[[files]]
+file = "mods/biobutchers-delight.pw.toml"
+hash = "1725ac47d24f45dfd99c56fd3db571abae3467fe08c4108b1aeb5afad7e3dce2"
+metafile = true
+
+[[files]]
+file = "mods/biomancy.pw.toml"
+hash = "071367e7178e92c698688f3b81b788bb2684e21c2883b3efbbb3300ebf9df91e"
+metafile = true
+
+[[files]]
+file = "mods/biome-music.pw.toml"
+hash = "14f0eec329438e6d304201b2a7e13995719cbba6b2943b0ce8e048d54c29182a"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "3e726cbec27bd2bdcd7f967b40189675bb979e4d2b3ac130241450f65e159ede"
 metafile = true
@@ -746,6 +771,16 @@ hash = "3856cd50c8c7af6b3d556112b43381a542f760cca95a3ff2a8e5c6a0889ccc60"
 metafile = true
 
 [[files]]
+file = "mods/butchers-delight-foods.pw.toml"
+hash = "fff3fa4a2444abadb8d9c6353425ff4fffc9a0df340af66f02ece6c9cf82121a"
+metafile = true
+
+[[files]]
+file = "mods/butchers-delight.pw.toml"
+hash = "159896d791b8879e561fce55ca2b3e7fc9377b3a3484a831ac9a0e2a560dae9e"
+metafile = true
+
+[[files]]
 file = "mods/callable-horses.pw.toml"
 hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
 metafile = true
@@ -772,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -821,8 +856,18 @@ hash = "1b3946eb9eba5fcccf6531defa13eb5c1d67bc9548b37f2b54274ebd7d3626f2"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "60e22142593d512e3614ae5171e8a247d9bedbf18fe55750387f45f99993e5cc"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "4da2eddac948a55a5d95686b92f5af579fb8efb57de1582a74958dd4e2b0ccbb"
 metafile = true
 
 [[files]]
@@ -848,6 +893,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "4ae2c1b627cfede58a8add7fde29c6d889426aa72ea09a852a402a861aa95166"
 metafile = true
 
 [[files]]
@@ -881,6 +931,11 @@ hash = "cb7cf046cc3edf51b45a40f38a4fd3fd6897b66b768eac8cb279580ddb7bd236"
 metafile = true
 
 [[files]]
+file = "mods/delightful.pw.toml"
+hash = "904a4f1032e8d88814b1061fd1e9bbea5bb804b8f0be21717c5f9885245b8705"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
 metafile = true
@@ -893,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "a955e3695047fa8d2c25bf1fb47d1cad55fff1b4d94d4273e60da84a1d7b4736"
+metafile = true
+
+[[files]]
+file = "mods/eerie-music-forge-fabric.pw.toml"
+hash = "8285ff831249213a9f1ab2e7322adab9bf8027ad8643d335c75295272c056f7c"
 metafile = true
 
 [[files]]
@@ -943,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
 metafile = true
 
 [[files]]
@@ -1065,6 +1130,11 @@ hash = "f19f61fcce9df3befee6d0d6096a93a9646f93766b2523b27e7903da81e4269b"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
+metafile = true
+
+[[files]]
 file = "mods/lookin-sharp.pw.toml"
 hash = "cbd61ec566dd029e7bc362e531b9014b3d512d468dda3e24a92cafaa8bde1fc5"
 metafile = true
@@ -1112,6 +1182,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfishs-gun-mod-unofficial.pw.toml"
 hash = "95ce762be35110b791209b64308bdac93081734c9e3aecf9350fd74746b83575"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "01075eaba722a88397b274b315885ea9c67d87274d998ab10e5d1b56091cf52f"
 metafile = true
 
 [[files]]
@@ -1185,11 +1260,6 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
-file = "mods/reactive-music.pw.toml"
-hash = "941df18326f19c39a47660463a168b64a566ff8326f4fb3d7409b6676ff4f20e"
-metafile = true
-
-[[files]]
 file = "mods/realmrpg_fallen_adventurers_1.0.3_forge_1.20.1.jar"
 hash = "868b120010c0ec06b67e580932180a61c070c1e57ac5f5543655d4fae6d90110"
 
@@ -1257,6 +1327,11 @@ hash = "9982ecd54ac42374a1949e01ac7eda3deeed4721d86fcbb0199baf6cc6796500"
 metafile = true
 
 [[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "60fffd9990be454a9dffb87a2804f654e6deb21b2ee63924ef4a84d443612352"
+metafile = true
+
+[[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "b27c18503a096fba94701b4335a2cce1f66c25b38c0f7fb7215d21ff36b434dc"
 metafile = true
@@ -1277,18 +1352,13 @@ hash = "9ce58990c54d821baf79a3c38d22d9311c8828fb7ce49b14110919544d40749a"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2170ed9eb7672fc517075c2259dc7ff8e9501c167f4083a30be162c8873b32c4"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "d47cf8902495273ee0a9223ee33f0dacf8a43667f6026d92af0186d5bac1b563"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f809175840d6a626965624c859928a6ac5f1d78f31b990ab3288f752352bb41a"
+metafile = true
+
+[[files]]
+file = "mods/stalker-creepers.pw.toml"
+hash = "3469ef199570861698c7a23a45ef91bd5e3bf84dd69baaaea988c4c8edd042f3"
 metafile = true
 
 [[files]]
@@ -1357,6 +1427,21 @@ hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "bd82f1cc04d24400bef737273eec8615355fa54d5fee3038ffa6af8e59c849c2"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "14e7219aa6c91b900cf44c2cdbdfd32d60ac80103050aa732a83d422836fb232"
 metafile = true
@@ -1382,6 +1467,11 @@ hash = "00bd1e1ff4009fbb911aebb22bdea85606cb77d004a0ea043a132e2b75fbcd3e"
 metafile = true
 
 [[files]]
+file = "mods/unusual-delight.pw.toml"
+hash = "76bfeb2cd671368888160eb2fe2b1958d2235662174f5a28ea8fa417f22a761b"
+metafile = true
+
+[[files]]
 file = "mods/waterdripsound.pw.toml"
 hash = "19847d699f8d6d4dec4b6168b8e3e6844ca0f11e1623772bc40135413d707ec1"
 metafile = true
@@ -1389,6 +1479,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
+metafile = true
+
+[[files]]
+file = "mods/weeping-angels-mod.pw.toml"
+hash = "75be892a891e854737764b8b44e0101fe10d1513ddca2817d85f218bf2b364e9"
 metafile = true
 
 [[files]]

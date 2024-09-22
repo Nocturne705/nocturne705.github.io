@@ -1,0 +1,13 @@
+name = "Butcher's Delight Foods"
+filename = "Butchersdelight Foods beta 1.20.1 1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26d05418d4f6e683946a9096f9250d9fbd4ff453"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5230731
+project-id = 919301
