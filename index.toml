@@ -988,6 +988,11 @@ hash = "33ca097b1d361a0e870e4cb48733f44e04fde1e603b741f4de8ec9835528559b"
 metafile = true
 
 [[files]]
+file = "mods/eternal-jesus.pw.toml"
+hash = "1d44ac897f09010df1dac8f4ef3a3a880bcb9eca44df4e306bf0a21085558da8"
+metafile = true
+
+[[files]]
 file = "mods/eyes-in-the-darkness.pw.toml"
 hash = "2f17b05ab20578102769ec7764d8c573eaf33b5d3ebc1d94fcedac31455b9252"
 metafile = true
@@ -1100,6 +1105,10 @@ metafile = true
 file = "mods/jei.pw.toml"
 hash = "99a6a7702060535d28efded7164088de69d1a5582af525074a0ab1136fbc13a2"
 metafile = true
+
+[[files]]
+file = "mods/jesus-roulette-1.0.0-1.20.x.jar"
+hash = "11da888f70be6886d76efeb7bc145dfe313640ff05394d2cdf44fa1f08489ac2"
 
 [[files]]
 file = "mods/journeymap.pw.toml"
