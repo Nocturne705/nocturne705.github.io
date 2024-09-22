@@ -752,11 +752,6 @@ hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
-metafile = true
-
-[[files]]
 file = "mods/cave-dweller-reimagined.pw.toml"
 hash = "8b38c7c647bcfd170764ef08603578451839edd2318726b951aa592eda299ca7"
 metafile = true
