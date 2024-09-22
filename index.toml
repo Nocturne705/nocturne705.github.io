@@ -649,6 +649,14 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/Butchersdelight Foods beta 1.20.1 1.0.3.jar"
+hash = "e3b81590d20e1cbf3f8c6427080f2ca41ad3c0137c268040ea52d95fe5daf37e"
+
+[[files]]
+file = "mods/Butchersdelight beta 1.20.1 2.1.0.jar"
+hash = "7086e03c670252c65e0a36d0127c4a9569fec0c1d3d2191ad5c1184d62cc0b6d"
+
+[[files]]
 file = "mods/LeonsSpookyMusic+M1.20.1+ForM.1.0.1.jar"
 hash = "6035781e285897ca4967531252896971d6537582758020a02e405e75b229f279"
 
@@ -726,9 +734,8 @@ hash = "5b6b208acf5aeb3c4dde3510ddb70d45a9f3d1d7da9363d897133f5387cd12ea"
 metafile = true
 
 [[files]]
-file = "mods/biobutchers-delight.pw.toml"
-hash = "1725ac47d24f45dfd99c56fd3db571abae3467fe08c4108b1aeb5afad7e3dce2"
-metafile = true
+file = "mods/biobutchers-delight-2.02.jar"
+hash = "32ec242c41761c931d01244ac112ede9ae0aa789a62ab9f14de453f29d6befc3"
 
 [[files]]
 file = "mods/biomancy.pw.toml"
@@ -768,16 +775,6 @@ metafile = true
 [[files]]
 file = "mods/box-of-horrors.pw.toml"
 hash = "3856cd50c8c7af6b3d556112b43381a542f760cca95a3ff2a8e5c6a0889ccc60"
-metafile = true
-
-[[files]]
-file = "mods/butchers-delight-foods.pw.toml"
-hash = "fff3fa4a2444abadb8d9c6353425ff4fffc9a0df340af66f02ece6c9cf82121a"
-metafile = true
-
-[[files]]
-file = "mods/butchers-delight.pw.toml"
-hash = "159896d791b8879e561fce55ca2b3e7fc9377b3a3484a831ac9a0e2a560dae9e"
 metafile = true
 
 [[files]]
@@ -1482,9 +1479,8 @@ hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
 metafile = true
 
 [[files]]
-file = "mods/weeping-angels-mod.pw.toml"
-hash = "75be892a891e854737764b8b44e0101fe10d1513ddca2817d85f218bf2b364e9"
-metafile = true
+file = "mods/weeping_angels-46.0.2-forge.jar"
+hash = "4004910c525e066fc45db894146e7b96ec43057640f2158e2d3fbdd49db4cd47"
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
