@@ -677,11 +677,6 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
-file = "mods/arphex.pw.toml"
-hash = "ae12547a8a32ba1c3bf975a46af61dc38e7bdf56c6fbaa17082408f4e573a787"
-metafile = true
-
-[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "4baf4d9f058a10c92939fec86f31ff120eaa9dfe77dea056814140a9cda41683"
 metafile = true
