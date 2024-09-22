@@ -33,6 +33,10 @@ file = "config/biomesoplenty/generation.toml"
 hash = "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7"
 
 [[files]]
+file = "config/bnbloodparticles-common.toml"
+hash = "0d9e78cffce1590288e9b462e20c0bae81b4283236431f0b0cea6e5c8a51402f"
+
+[[files]]
 file = "config/camera-client.toml"
 hash = "d192832f5a2fc4b0ed9b942adfce0ffafd75d5286e45da25aa3bf3c8a30ef3f8"
 
@@ -723,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/bn-blood-particles.pw.toml"
-hash = "583034494d255de9bce6dcea6321f2899322573ba91c6aa4ea3d63e83962ba3b"
+hash = "617b6f1dfcc6b65b06e4cb81e98ab8aeed479359da8afa9dd01edbccd9d33561"
 metafile = true
 
 [[files]]
