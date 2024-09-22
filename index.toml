@@ -1107,10 +1107,6 @@ hash = "99a6a7702060535d28efded7164088de69d1a5582af525074a0ab1136fbc13a2"
 metafile = true
 
 [[files]]
-file = "mods/jesus-roulette-1.0.0-1.20.x.jar"
-hash = "11da888f70be6886d76efeb7bc145dfe313640ff05394d2cdf44fa1f08489ac2"
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "3da77e12a5a3178621401c9f98cb302d9dd25b6747ce55725b7db66c75672b89"
 metafile = true
