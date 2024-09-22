@@ -976,6 +976,11 @@ hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
 metafile = true
 
 [[files]]
+file = "mods/fungal-infection-spore.pw.toml"
+hash = "c38c14ffe3259a43489d015afb9bbc7e1429ef768cf06f34b27de507c83c26bc"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "21e3dd574b6f66202b2c36b23fabbb985d76f582254b66ee21771556cc34db11"
 metafile = true
@@ -1319,11 +1324,6 @@ metafile = true
 [[files]]
 file = "mods/the-anomaly.pw.toml"
 hash = "a14e8f925d63305ce2387f89e09e76b624bee705d93c91d6ff89daf2adf12796"
-metafile = true
-
-[[files]]
-file = "mods/the-flesh-that-hates.pw.toml"
-hash = "4ce2c62c813e65de9b648d0ae8575067b09c69045d6154afcd6139763e1860cb"
 metafile = true
 
 [[files]]
