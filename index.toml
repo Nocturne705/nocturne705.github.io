@@ -933,6 +933,11 @@ hash = "904a4f1032e8d88814b1061fd1e9bbea5bb804b8f0be21717c5f9885245b8705"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "aa889192957e4c24232e9d8e93aaaf976fa76819afcd84a56e41d370f9b2f470"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
 metafile = true
@@ -945,6 +950,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "a955e3695047fa8d2c25bf1fb47d1cad55fff1b4d94d4273e60da84a1d7b4736"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "be042bcca8bf4d3a2ca3ba04c4eb0a5a0abfb8b4e7d397514c8ffb4420aa3985"
 metafile = true
 
 [[files]]
@@ -1109,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "3da77e12a5a3178621401c9f98cb302d9dd25b6747ce55725b7db66c75672b89"
+metafile = true
+
+[[files]]
+file = "mods/juris-fun-stuff.pw.toml"
+hash = "1bd0351182be6e3284e9bf9938233f623e5569272b6cc5d69e7f132f87bd5c90"
 metafile = true
 
 [[files]]
@@ -1374,6 +1389,11 @@ hash = "3469ef199570861698c7a23a45ef91bd5e3bf84dd69baaaea988c4c8edd042f3"
 metafile = true
 
 [[files]]
+file = "mods/stellarview.pw.toml"
+hash = "5adb6784c3c9960c4672e25bfc37256a46fdcc7fb1483454b71e6e40f6149ee4"
+metafile = true
+
+[[files]]
 file = "mods/straw-golem-rebaled-ported.pw.toml"
 hash = "19d197f5caa86b34f10731f92752356b524a754874cf445573124bafd8e71207"
 metafile = true
@@ -1497,10 +1517,6 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
 metafile = true
-
-[[files]]
-file = "mods/weeping_angels-46.0.2-forge.jar"
-hash = "4004910c525e066fc45db894146e7b96ec43057640f2158e2d3fbdd49db4cd47"
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
