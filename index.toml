@@ -1093,6 +1093,11 @@ hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "f1a2d3a570a6ce0722f0136b4b57371fc067ad7f329e1df9cd3cd765619ac759"
+metafile = true
+
+[[files]]
 file = "mods/parcool.pw.toml"
 hash = "56d6cd61a1b150b6cbc9b96874e438526287c18aab6e83e65435e141f7fd2e72"
 metafile = true
