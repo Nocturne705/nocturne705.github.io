@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Apocalypse Now Config.toml"
-hash = "5a090d47ce46d647a25151efd2638bc5bf52728b2f47d800bf2c38c563493c80"
+hash = "2f7e2e001f64255b2081e15078b72ad01c7abdb16b41882c8d4c6e365d9965b8"
 
 [[files]]
 file = "config/ArPhEx Configurations.toml"
@@ -318,7 +318,7 @@ hash = "ce7455478ddfcf842f397184222c42168d3d91af744603cf32332f389e6fe9d3"
 
 [[files]]
 file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
-hash = "53e430cc6bceeefa4a0fe2bb6c56058243ecb3799cd7aa4bfdb3bf006d5a290e"
+hash = "a2a3ef0cf4f749d2673f1121743feb032991e10ef03ea8905146f985ffbe9e04"
 
 [[files]]
 file = "config/lithium.properties"
@@ -413,6 +413,10 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
+file = "config/sporedata.toml"
+hash = "732914a20a54cce1d4a7f113a0bba09d63e1e1d84157904af44cc432bd72ea69"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
 
@@ -479,6 +483,26 @@ hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "65034274f8cb5e292cd3e8582fdcc56c202cd583830d7db4d550225157ef3c2a"
+
+[[files]]
+file = "config/zombieawareness/ClientConfig.toml"
+hash = "159ca0c651a10c34dc82f6b8ab4f9f07785a8ec3ca7a3a9330f21fcce439fc91"
+
+[[files]]
+file = "config/zombieawareness/Features.toml"
+hash = "3dc7619be0be9a4a42ade3daee9d9a008e331c8140c8869809614097a8d52e4f"
+
+[[files]]
+file = "config/zombieawareness/General.toml"
+hash = "07725145b9998ab503bcbf1a4d66e9777a388302370cbe5483273da715a6a394"
+
+[[files]]
+file = "config/zombieawareness/MobLists.toml"
+hash = "4bad5458caa99fd01ee08d8488ed32d851de02b406504894a5b45d50fe7c856b"
+
+[[files]]
+file = "config/zombieawareness/PlayerRulesAndLists.toml"
+hash = "e766740f523b7da0d0cdc9db47f6e69c16489509c6b5e1eee63742c295f5f508"
 
 [[files]]
 file = "index.html"
@@ -1060,11 +1084,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "7ff110c86a5c19b4c5638695d9a888fb3558649410c49bc21ec0f7711587f1de"
-metafile = true
-
-[[files]]
-file = "mods/lost-souls.pw.toml"
-hash = "c4f0a82e10eccb20c75b1db51c5e06b8224e8e727c0e6d2dd6c4e2c3dd95c7c2"
 metafile = true
 
 [[files]]

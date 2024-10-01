@@ -25,33 +25,33 @@
 
 ["Effects Disable [Will not affect mod weapons and defenses]"]
 	#Disable Bleeding Effect
-	"Bleeding Effect" = true
+	"Bleeding Effect" = false
 	#Disable Broken Leg Effect
 	"Broken Leg Effect" = false
 	#Disable Eletric Damage
-	"Electric Damage" = true
+	"Electric Damage" = false
 	#Disable Infection Effect
-	"Infection Effect" = true
+	"Infection Effect" = false
 	#Disable Zombification Effect
 	"Zombification Effect" = true
 	#Disable Scratch Effect
-	"Scratch Effect" = true
+	"Scratch Effect" = false
 	#Disable Bite Effect
-	"Bite Effect" = true
+	"Bite Effect" = false
 	#Disable Severe Bleeding Effect
-	"Severe Bleeding Effect" = true
+	"Severe Bleeding Effect" = false
 	#Disable Pain Effect
-	"Pain Effect" = true
+	"Pain Effect" = false
 	#Disables the radiation effect
 	"Radiation Effect" = true
 
 ["undead get armor"]
 	#Disables the armor spawing on undeade like mob
-	"Undead Get Armor" = true
+	"Undead Get Armor" = false
 
 ["Hordes Spawn"]
 	#Disalbes the spawn of hordes
-	"Hordes Spawn" = true
+	"Hordes Spawn" = false
 
 ["Armors have effects"]
 	#Enables special effects from apnow armos
