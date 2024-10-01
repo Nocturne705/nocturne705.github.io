@@ -649,6 +649,10 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/BeeFix-1.20-1.0.7.jar"
+hash = "5fa50cfbd0ee3d0472ba8e9162d40e9556ea930a6bbcf93de2ab751365b58566"
+
+[[files]]
 file = "mods/Butchersdelight Foods beta 1.20.1 1.0.3.jar"
 hash = "e3b81590d20e1cbf3f8c6427080f2ca41ad3c0137c268040ea52d95fe5daf37e"
 
@@ -712,11 +716,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
-metafile = true
-
-[[files]]
-file = "mods/bee-fix.pw.toml"
-hash = "4595467e59cc811c7334cb33a4abc569cd2637dbc1d5ae68de6ed1f367a57d3f"
 metafile = true
 
 [[files]]
@@ -974,11 +973,6 @@ hash = "904a4f1032e8d88814b1061fd1e9bbea5bb804b8f0be21717c5f9885245b8705"
 metafile = true
 
 [[files]]
-file = "mods/distant-friends.pw.toml"
-hash = "aa889192957e4c24232e9d8e93aaaf976fa76819afcd84a56e41d370f9b2f470"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "534bc7a9ce2118f2e397d1ccb3158733dfff85ed1c8c98136d548eac531c32c7"
 metafile = true
@@ -1029,9 +1023,8 @@ hash = "8c84f53560aaa3c65293f5a04748ffe9e00457b9c69347aedc2c9daa915809af"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "512f27fb0eae5e7e3fb9ff66f5d8f83b47fcbc15e5cbdf59fdf9f6f6d2c480cc"
-metafile = true
+file = "mods/entityculling-forge-1.7.0-mc1.20.1.jar"
+hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
@@ -1427,7 +1420,7 @@ metafile = true
 
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
-hash = "b27c18503a096fba94701b4335a2cce1f66c25b38c0f7fb7215d21ff36b434dc"
+hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
 metafile = true
 
 [[files]]
@@ -1653,11 +1646,6 @@ metafile = true
 [[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
-metafile = true
-
-[[files]]
-file = "mods/zombies-reworked-forge.pw.toml"
-hash = "06b30ea06c210ad808a201684e20985229375d19a8a0321352296a882798e93b"
 metafile = true
 
 [[files]]
