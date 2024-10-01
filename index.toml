@@ -1193,9 +1193,8 @@ hash = "1ee9ae66f682c9d0eeecf4f770c82ad3a2b974d9a59c324ae6c91bd46ee0df6f"
 metafile = true
 
 [[files]]
-file = "mods/prioninfection.pw.toml"
-hash = "076126fd453ecc1c5c8cdee56a5550b868419b47464a733214e820331883a37a"
-metafile = true
+file = "mods/prionmod-2.0.71.jar"
+hash = "a59a6e23c2f89c75544cf625d2b7367bd8e8af1cde19cae5696ff71331ec1809"
 
 [[files]]
 file = "mods/radium.pw.toml"
