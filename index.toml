@@ -619,18 +619,8 @@ hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/carry-on.pw.toml"
-hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
-metafile = true
-
-[[files]]
-file = "mods/chalk.pw.toml"
-hash = "6fb02c0604464d93cec49c76107d82d613295306cad88663ecfe98ca124e3aa9"
-=======
 file = "mods/cave-dweller-reimagined.pw.toml"
 hash = "8b38c7c647bcfd170764ef08603578451839edd2318726b951aa592eda299ca7"
->>>>>>> parent of 5f065b2 (retool to apocalypse)
 metafile = true
 
 [[files]]
@@ -824,14 +814,11 @@ hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-=======
 file = "mods/endofherobrine.pw.toml"
 hash = "6742cf02153d0b44d47430fdcc8a8cc03fe8e74b870548a8996ecda4a020139c"
 metafile = true
 
 [[files]]
->>>>>>> parent of 5f065b2 (retool to apocalypse)
 file = "mods/enhancedvisuals.pw.toml"
 hash = "cf369465c377631e4ece74e7c248583e548dbb45929cb579db7c772d8e150bcd"
 metafile = true
@@ -842,13 +829,10 @@ hash = "8c84f53560aaa3c65293f5a04748ffe9e00457b9c69347aedc2c9daa915809af"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
 file = "mods/entityculling-forge-1.7.0-mc1.20.1.jar"
 hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
 
 [[files]]
-=======
->>>>>>> parent of 5f065b2 (retool to apocalypse)
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "33ca097b1d361a0e870e4cb48733f44e04fde1e603b741f4de8ec9835528559b"
 metafile = true
@@ -859,19 +843,11 @@ hash = "1d44ac897f09010df1dac8f4ef3a3a880bcb9eca44df4e306bf0a21085558da8"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-=======
 file = "mods/eyes-in-the-darkness.pw.toml"
 hash = "2f17b05ab20578102769ec7764d8c573eaf33b5d3ebc1d94fcedac31455b9252"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "4b4f55329a7ded942e79b3233aceb478a49757d7ce8a6942bf1f7099397a6567"
-metafile = true
-
-[[files]]
->>>>>>> parent of 5f065b2 (retool to apocalypse)
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
@@ -907,13 +883,8 @@ hash = "ce081a84c6f6ac4a79753761fbe5c48bfcd29077af2c849ea6e3d7824b8f3e20"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/fungal-infection-spore.pw.toml"
-hash = "8f92641b86377bcb3302d7da2a8e134c8d7cd40187324c7444e3e5da8a5dccb2"
-=======
 file = "mods/from-the-fog.pw.toml"
 hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
->>>>>>> parent of 5f065b2 (retool to apocalypse)
 metafile = true
 
 [[files]]
@@ -1137,16 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-<<<<<<< HEAD
-hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
-=======
 hash = "1ee9ae66f682c9d0eeecf4f770c82ad3a2b974d9a59c324ae6c91bd46ee0df6f"
-metafile = true
-
-[[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
->>>>>>> parent of 5f065b2 (retool to apocalypse)
 metafile = true
 
 [[files]]
@@ -1457,14 +1419,6 @@ hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-=======
-file = "mods/zombies-reworked-forge.pw.toml"
-hash = "06b30ea06c210ad808a201684e20985229375d19a8a0321352296a882798e93b"
-metafile = true
-
-[[files]]
->>>>>>> parent of 5f065b2 (retool to apocalypse)
 file = "options.txt"
 hash = "086074440abc2a41256c10d8cad2b3d5d2b6b576f26ab9a3f1e524a119659982"
 

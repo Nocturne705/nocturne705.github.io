@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "afa26c8e831e1d3bb00923c7b1b67a8b6055b0a4e4630300df0e9a1f041cf3a7"
-=======
-hash = "67cf6a6b7da314612768ea356c69466d2ba438aef8af2a2d6776fcd60a414286"
->>>>>>> parent of 5f065b2 (retool to apocalypse)
+hash = "e1038468547421f3c590b6650430a610fe23a8fcf40d4ceb36be207c6b19eb52"
 
 [versions]
 forge = "47.3.7"
