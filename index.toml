@@ -1369,11 +1369,6 @@ hash = "ce8daf9bb472efe6007889a6a2f8164981825eb41733b1d95989f55836abb2d0"
 metafile = true
 
 [[files]]
-file = "mods/third-person-shooting.pw.toml"
-hash = "f9a4ba69c5089022aefa0cb2bbe94b27ef536b0383c7623a919d71106281806f"
-metafile = true
-
-[[files]]
 file = "mods/tips.pw.toml"
 hash = "d27eb9461fea1b6c61eba953194f197e3de63a24d1801ec96dc6d54bc798d9a5"
 metafile = true
