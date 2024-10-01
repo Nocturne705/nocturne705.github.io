@@ -839,11 +839,6 @@ hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-ai.pw.toml"
-hash = "ee294f21ed1430ad66011cc9e4d2f1c9a8b12eeebec6dd456301333538682b2b"
-metafile = true
-
-[[files]]
 file = "mods/enhancedvisuals.pw.toml"
 hash = "cf369465c377631e4ece74e7c248583e548dbb45929cb579db7c772d8e150bcd"
 metafile = true
@@ -865,11 +860,6 @@ metafile = true
 [[files]]
 file = "mods/eternal-jesus.pw.toml"
 hash = "1d44ac897f09010df1dac8f4ef3a3a880bcb9eca44df4e306bf0a21085558da8"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "4b4f55329a7ded942e79b3233aceb478a49757d7ce8a6942bf1f7099397a6567"
 metafile = true
 
 [[files]]
@@ -1153,11 +1143,6 @@ hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-forge.pw.toml"
-hash = "81006dc530e5aaeb55c00b6891f73cd9e2fc1f3f3b84819df3a00c4aae151c2d"
-metafile = true
-
-[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
 metafile = true
@@ -1367,11 +1352,6 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "89f2262602d0a6b145297fcb5d4667a219b09a19467de1130f2e078a39078229"
-metafile = true
-
-[[files]]
-file = "mods/true-darkness-forge-updated-fork.pw.toml"
-hash = "97e78254f2db3f32811b04cafd138df7e64a0da0a9b2812f7573ace98e6f837f"
 metafile = true
 
 [[files]]
