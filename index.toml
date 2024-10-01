@@ -928,6 +928,21 @@ hash = "ce081a84c6f6ac4a79753761fbe5c48bfcd29077af2c849ea6e3d7824b8f3e20"
 metafile = true
 
 [[files]]
+file = "mods/from-another-world.pw.toml"
+hash = "7707653a689212701c14e9e232b0551660496ac0b2e66e47c2a917a3f4699b4e"
+metafile = true
+
+[[files]]
+file = "mods/fromanotherlibrary.pw.toml"
+hash = "b6fb53e1a279a13eb4b318e596e9bd6e2f92ad8813e7740ddf82a6c59a2b98f0"
+metafile = true
+
+[[files]]
+file = "mods/fungal-infection-spore-more.pw.toml"
+hash = "c1c6269290bb5bfb385aef1b61313e64106e92532e09a0176981d9d9a400f440"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "21e3dd574b6f66202b2c36b23fabbb985d76f582254b66ee21771556cc34db11"
 metafile = true
@@ -1178,6 +1193,11 @@ hash = "1ee9ae66f682c9d0eeecf4f770c82ad3a2b974d9a59c324ae6c91bd46ee0df6f"
 metafile = true
 
 [[files]]
+file = "mods/prioninfection.pw.toml"
+hash = "076126fd453ecc1c5c8cdee56a5550b868419b47464a733214e820331883a37a"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
@@ -1322,6 +1342,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/the-flesh-that-hates.pw.toml"
+hash = "4ce2c62c813e65de9b648d0ae8575067b09c69045d6154afcd6139763e1860cb"
 metafile = true
 
 [[files]]

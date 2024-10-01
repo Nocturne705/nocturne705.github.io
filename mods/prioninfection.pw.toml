@@ -1,0 +1,13 @@
+name = "Prion Infection: Whispers From Within"
+filename = "prionmod-2.0.71.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99456a00842f36474ff576a8087d9da10b5765a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5641329
+project-id = 960933
