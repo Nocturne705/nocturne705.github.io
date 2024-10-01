@@ -1,0 +1,13 @@
+name = "Skeleton Bands [Immersive Instruments]"
+filename = "SkeletonBands.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a64521458cb04b457096ee734736063605728321"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5530328
+project-id = 1063408
