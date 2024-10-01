@@ -794,11 +794,6 @@ hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
 
 [[files]]
-file = "mods/endofherobrine.pw.toml"
-hash = "6742cf02153d0b44d47430fdcc8a8cc03fe8e74b870548a8996ecda4a020139c"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-ai.pw.toml"
 hash = "ee294f21ed1430ad66011cc9e4d2f1c9a8b12eeebec6dd456301333538682b2b"
 metafile = true
@@ -920,11 +915,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "369f3013a596475087c7d0cef15b43e040eeb9360efe8e3db4a870a714d21705"
-metafile = true
-
-[[files]]
-file = "mods/in-control.pw.toml"
-hash = "563b356f5a2cd1c12ef99ef6577ba4f3745719708c3b405b869a551dbb4cfa83"
 metafile = true
 
 [[files]]
