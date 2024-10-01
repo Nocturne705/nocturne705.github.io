@@ -485,10 +485,6 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
-file = "mods/BeeFix-1.20-1.0.7.jar"
-hash = "5fa50cfbd0ee3d0472ba8e9162d40e9556ea930a6bbcf93de2ab751365b58566"
-
-[[files]]
 file = "mods/Butchersdelight Foods beta 1.20.1 1.0.3.jar"
 hash = "e3b81590d20e1cbf3f8c6427080f2ca41ad3c0137c268040ea52d95fe5daf37e"
 
@@ -895,16 +891,6 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "ce081a84c6f6ac4a79753761fbe5c48bfcd29077af2c849ea6e3d7824b8f3e20"
-metafile = true
-
-[[files]]
-file = "mods/from-another-world.pw.toml"
-hash = "7707653a689212701c14e9e232b0551660496ac0b2e66e47c2a917a3f4699b4e"
-metafile = true
-
-[[files]]
-file = "mods/fromanotherlibrary.pw.toml"
-hash = "b6fb53e1a279a13eb4b318e596e9bd6e2f92ad8813e7740ddf82a6c59a2b98f0"
 metafile = true
 
 [[files]]
