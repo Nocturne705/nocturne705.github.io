@@ -5,10 +5,6 @@ file = "config/Apocalypse Now Config.toml"
 hash = "2f7e2e001f64255b2081e15078b72ad01c7abdb16b41882c8d4c6e365d9965b8"
 
 [[files]]
-file = "config/ArPhEx Configurations.toml"
-hash = "08ca443cb2bf28f9657fd460fec56358471c3403bce1c0134672c89d569ca88d"
-
-[[files]]
 file = "config/bettercombat/client.json5"
 hash = "e8064b014f9e01c27b63877f98410dd166f79b562aabb0d8fc365aeef2616902"
 
@@ -19,10 +15,6 @@ hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
 [[files]]
 file = "config/bettercombat/server.json5"
 hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
-
-[[files]]
-file = "config/bettertitlescreen-client.toml"
-hash = "15721b39f4de146a40bdad59c2b0559d9b74b606f7da8056fba38ef3b63944aa"
 
 [[files]]
 file = "config/bhmenu-client.toml"
@@ -101,14 +93,6 @@ file = "config/embeddium-options.json"
 hash = "9909e9cb7d822b090e039ebe464c753067506afdc8609cec181c92fa87ab982d"
 
 [[files]]
-file = "config/endofherobrine-client.toml"
-hash = "e68fdb639a2c522e9b1144c1d223ebcd8d883d00a9de6ad6607abe25f5c25f31"
-
-[[files]]
-file = "config/endofherobrine-common.toml"
-hash = "365b01bd33216afce54b16becf7f2c09733eb7c0973255c7878d168d7fac103b"
-
-[[files]]
 file = "config/entity_model_features.json"
 hash = "a298dd9319a5f845f7fd7d1c94600b8ca639bd3715258ef4ce23c7e6dc9c6923"
 
@@ -119,10 +103,6 @@ hash = "d15359d589b9c0849d0d1faf2fe503d537bcc186cc09703648f0881c32dcf6e4"
 [[files]]
 file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
-
-[[files]]
-file = "config/eyesinthedarkness-client.toml"
-hash = "030ee3fc2f9bef247eeddd0b9d172338e05bf67714a6f78a8efa582ce828b36a"
 
 [[files]]
 file = "config/fml.toml"
@@ -143,58 +123,6 @@ hash = "d3c4b80ecc098946480ef5186657c671520a2d0592d30ad4b49a4ec2ae40aada"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "a9192ef0a7d0ba3eb05a8a7a33b1f001d55c433ee01d9c670c8f9c3fcac0640c"
-
-[[files]]
-file = "config/incontrol/areas.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/breakevents.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/effects.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/events.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/experience.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/leftclicks.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/loot.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/phases.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/placeevents.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/rightclicks.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/spawn.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/spawner.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/summonaid.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -251,10 +179,6 @@ hash = "935fd94f705c6ba9c754e9b1ab3194814bec4febe9b616f226b4143635c38b16"
 [[files]]
 file = "config/jei/world/local/New_World/bookmarks.ini"
 hash = "8ada861b205b04b536ae6a7150ef269db97fb47d3ad8da948f0d0a358e631178"
-
-[[files]]
-file = "config/knocker.toml"
-hash = "084e296eb99629b4c3774f11a144f117a7dcf1482853f033f25f1032a453b659"
 
 [[files]]
 file = "config/konkrete/locals/de_de.local"
@@ -327,14 +251,6 @@ hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
 [[files]]
 file = "config/lunar-common.toml"
 hash = "b38e687ef57eef49c005ebfaed77977ffae529a404dc4872936d1255b9ae305d"
-
-[[files]]
-file = "config/man.toml"
-hash = "a7c75e30260b5c1e3355f134a7ef4c0745ca2cd27e12dea5c9c056a830cdeda4"
-
-[[files]]
-file = "config/man_config.toml"
-hash = "d888752b095fa820ba4e21b80c0966156228ecaee3467a5820c9fa78fbe44644"
 
 [[files]]
 file = "config/mca.json"
@@ -748,6 +664,11 @@ hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "1803f1d2d30544b13baa76eacb5bea86a32d4c316dea9611abca2d7301699090"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "60e22142593d512e3614ae5171e8a247d9bedbf18fe55750387f45f99993e5cc"
 metafile = true
@@ -755,11 +676,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
-metafile = true
-
-[[files]]
-file = "mods/corpse.pw.toml"
-hash = "9ab741b4d88da35819c7ad2a2b30487fa1eb2f17db2168005432263f941b5b2c"
 metafile = true
 
 [[files]]
