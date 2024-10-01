@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Apocalypse Now Config.toml"
+hash = "5a090d47ce46d647a25151efd2638bc5bf52728b2f47d800bf2c38c563493c80"
+
+[[files]]
 file = "config/ArPhEx Configurations.toml"
 hash = "08ca443cb2bf28f9657fd460fec56358471c3403bce1c0134672c89d569ca88d"
 
