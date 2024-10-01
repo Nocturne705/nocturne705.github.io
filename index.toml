@@ -273,6 +273,35 @@ file = "config/oculus.properties"
 hash = "577198643c84c4ca0fce90f23d01147731b5792cdf1506d40a72a785deb22e7d"
 
 [[files]]
+file = "config/openloader/advanced_options.json"
+hash = "2ee7700b88371d21265000c50ef149c42863fd22e0ecbb5dc6af78fd7493fee8"
+
+[[files]]
+file = "config/openloader/resources/cassette-music-disc-countxd.pw.toml"
+hash = "6582ea06154a7671c3b87f2c293596b1a01c9dc4fea29140970872d74ab3a61c"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/fresh-animations-extensions.pw.toml"
+hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
+hash = "5d6a9c4d995bc6a2cac09b738242f5f85df0fb70e39a90b1fb1319f5b6d7c2de"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/you-died-refreshed.pw.toml"
+hash = "4cc1d04a917d459feb3b7318c459385de85d4730973a28631c30fa113e65f826"
+metafile = true
+
+[[files]]
 file = "config/polymorph-integrations.toml"
 hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
@@ -1456,31 +1485,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "086074440abc2a41256c10d8cad2b3d5d2b6b576f26ab9a3f1e524a119659982"
-
-[[files]]
-file = "resourcepacks/cassette-music-disc-countxd.pw.toml"
-hash = "6582ea06154a7671c3b87f2c293596b1a01c9dc4fea29140970872d74ab3a61c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "e1958f3d85e8e248f316b08ea3211d0e90e860d3ed72d11776e5fd0662f84f24"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
-hash = "5d6a9c4d995bc6a2cac09b738242f5f85df0fb70e39a90b1fb1319f5b6d7c2de"
-metafile = true
-
-[[files]]
-file = "resourcepacks/you-died-refreshed.pw.toml"
-hash = "4cc1d04a917d459feb3b7318c459385de85d4730973a28631c30fa113e65f826"
-metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
