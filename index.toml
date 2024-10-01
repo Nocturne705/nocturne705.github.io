@@ -1691,8 +1691,3 @@ metafile = true
 file = "shaderpacks/spooklementary.pw.toml"
 hash = "c75e1bc3dcb88922308be5b31300be19ec1f04858af81818bcf123cb830d2395"
 metafile = true
-
-[[files]]
-file = "skeleton-bands-immersive-instruments.pw.toml"
-hash = "470baf90a8ee396042ed02206ad8bd3724c7c90d5485720f06c35220725efa80"
-metafile = true
