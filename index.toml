@@ -640,6 +640,11 @@ hash = "3856cd50c8c7af6b3d556112b43381a542f760cca95a3ff2a8e5c6a0889ccc60"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
+metafile = true
+
+[[files]]
 file = "mods/callable-horses.pw.toml"
 hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
 metafile = true
@@ -762,6 +767,16 @@ metafile = true
 [[files]]
 file = "mods/crawl-on-demand.pw.toml"
 hash = "71978099bab5a59af99ad64f1d684ee7c89262795a538ce9b91d9e2456971d05"
+metafile = true
+
+[[files]]
+file = "mods/create-wizardry.pw.toml"
+hash = "6bf15f6d63c807360897f7b592c0047d7d997975c4b9ab42449a9819f17df4eb"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
 metafile = true
 
 [[files]]
@@ -999,6 +1014,11 @@ hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "12029d7aec1321bb37837eda46ca20b14c294404ee92438c43acd93ba41b91f0"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "5e3c100e1c34cadd0e1fb662d87e74fb402fa442b50629588ad3bb2f4bd489b8"
 metafile = true
@@ -1016,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/juris-fun-stuff.pw.toml"
 hash = "1bd0351182be6e3284e9bf9938233f623e5569272b6cc5d69e7f132f87bd5c90"
+metafile = true
+
+[[files]]
+file = "mods/k-turrets.pw.toml"
+hash = "155562b76fc924fbea3d0c22db36fae76ef5a4981c9aae2c51b3b4776bd28660"
 metafile = true
 
 [[files]]
@@ -1193,6 +1218,11 @@ file = "mods/prionmod-2.0.71.jar"
 hash = "a59a6e23c2f89c75544cf625d2b7367bd8e8af1cde19cae5696ff71331ec1809"
 
 [[files]]
+file = "mods/psychadelic-experience.pw.toml"
+hash = "44029a582f23df85ddcc7282fb77e372b4ca97aaabb07cca5b7091460e1c958b"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
@@ -1232,6 +1262,11 @@ metafile = true
 [[files]]
 file = "mods/sanity-descent-into-madness.pw.toml"
 hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
+metafile = true
+
+[[files]]
+file = "mods/satako-library.pw.toml"
+hash = "836e67726a08f695016b65accbb885409f6cb6ea5a63c4e1d74a9d07bf0b94fe"
 metafile = true
 
 [[files]]
@@ -1282,6 +1317,11 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
+metafile = true
+
+[[files]]
+file = "mods/smokeleaf-industry.pw.toml"
+hash = "398d0cf13c19a16e65a5ac0c3155cac6cee196c616cd3804c500e65d7464fffb"
 metafile = true
 
 [[files]]
