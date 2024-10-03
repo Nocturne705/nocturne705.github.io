@@ -1485,6 +1485,11 @@ hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
 metafile = true
 
 [[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "8f24f728e1e69034beb9fe44cf2b2e0b40147a4ed5559f38cc851edcb43ceaab"
+metafile = true
+
+[[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "bbec88a5550466b7303b26f32ac82e471474697b590980822b06c6967d418d15"
 metafile = true
