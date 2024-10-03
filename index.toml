@@ -944,16 +944,6 @@ hash = "ce081a84c6f6ac4a79753761fbe5c48bfcd29077af2c849ea6e3d7824b8f3e20"
 metafile = true
 
 [[files]]
-file = "mods/from-another-world.pw.toml"
-hash = "7707653a689212701c14e9e232b0551660496ac0b2e66e47c2a917a3f4699b4e"
-metafile = true
-
-[[files]]
-file = "mods/fromanotherlibrary.pw.toml"
-hash = "b6fb53e1a279a13eb4b318e596e9bd6e2f92ad8813e7740ddf82a6c59a2b98f0"
-metafile = true
-
-[[files]]
 file = "mods/fungal-infection-spore-more.pw.toml"
 hash = "c1c6269290bb5bfb385aef1b61313e64106e92532e09a0176981d9d9a400f440"
 metafile = true
