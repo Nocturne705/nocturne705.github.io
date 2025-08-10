@@ -727,11 +727,6 @@ hash = "4976926a60999ea9334b303387bb3c0fb10d5d9293c8c74fb25b4912da67a6e7"
 metafile = true
 
 [[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "81c1e8f17b5bc4525676da86b25d0785496302c72f51d4c9a683193043c0dbe3"
-metafile = true
-
-[[files]]
 file = "mods/wormhole-portals.pw.toml"
 hash = "3efe763405a3bd64a46b1dd6eb2e11d3e83a2539ba70cb8e60b6f8c4748b0f5d"
 metafile = true
