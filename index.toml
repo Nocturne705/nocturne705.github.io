@@ -156,11 +156,6 @@ hash = "96669276793f7e4e88ef449083e21d6788e6a3363968d2f39f26b06cafe83ad6"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "f6f0a3f9d857dbfb95c4b9796a716a789495d12099aa922998becd939ac12b95"
-metafile = true
-
-[[files]]
 file = "mods/continents.pw.toml"
 hash = "f3fa6c5acce060bfc4044ef1aa71c7b3b2bd4691e31f2bd31be60fe17cbd149a"
 metafile = true
@@ -552,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "0364bf6241d5cbba7f5c04d61f497fb320722f0487388edb4e1750fb49ff6070"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "3982ddfb922ee3daf5428f61e055c638fae8869d4d391fb593e919b1eb161fce"
 metafile = true
 
 [[files]]
