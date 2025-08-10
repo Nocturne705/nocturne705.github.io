@@ -5,6 +5,18 @@ file = "index.html"
 hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
 
 [[files]]
+file = "mods/Floating_Items_Enchanting_Table_1.21.x.jar"
+hash = "ddcd62254d48710b3dd3533b78fd43d05a721427fbc6542b039ba31536c0a120"
+
+[[files]]
+file = "mods/Structory_1.21.x_v1.3.11.jar"
+hash = "b6eb648a78583a4d6506aa8cd80e9311fd6784cae7c7f7a1fb7adf38db6d50fa"
+
+[[files]]
+file = "mods/Structory_Towers_1.21.x_v1.0.13.jar"
+hash = "3c5bfb3c0d27b6079e73d6b686c1ad16b0f52b13bd9084a8f3bab4d524495a13"
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "c9c4e5cc8ea5ea60e327785f95118fbc469b36c1a8c160139638b3efbd152bf8"
 metafile = true
@@ -105,9 +117,8 @@ hash = "6cbd7dd5f119028a1d3b78777dc3250375dc9d52971b088d98a30091150d66d1"
 metafile = true
 
 [[files]]
-file = "mods/cinchs-abandoned-houses.pw.toml"
-hash = "5d1888cf23eba141401788781754ca544b22fdb0bafded580c5e672774ea9092"
-metafile = true
+file = "mods/cinchsabandonedhouses-[Forge-Fabric-1.21.x]-1.4.jar"
+hash = "4a9eaaecbfbf0fc0946a3390b7118d33b0d1ca9c1d1d1dda45c78f58af7c951e"
 
 [[files]]
 file = "mods/cinderscapes.pw.toml"
@@ -162,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "af2d9b7c5226f29b26b1dce24ffe4a310fde218767c3d4a66a38aa712b3327de"
-metafile = true
-
-[[files]]
-file = "mods/cool-rain.pw.toml"
-hash = "fd7fc77de3098394c50bfb93f60ca4aeaebdd980b5573e36ac33c13ee88925ef"
 metafile = true
 
 [[files]]
@@ -265,11 +271,6 @@ hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
 metafile = true
 
 [[files]]
-file = "mods/floating-items-mod-datapack.pw.toml"
-hash = "d50347002f1c652a7c4fd067dfd753bdf77f289503fb77094a6d4e1838091705"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "8abaab10041b08748f72024a17e3857077219754c9e00fc2e78c3630cbf337d0"
 metafile = true
@@ -335,9 +336,8 @@ hash = "1219f6c7f39fb3a990390b5914b5abf60f7eb50c139012c4b3f3e2c4bb9da74e"
 metafile = true
 
 [[files]]
-file = "mods/im-fast.pw.toml"
-hash = "b14a9d2b20c95fbe827df64fd90f9735043bab68b95f7f36546f29127db9957a"
-metafile = true
+file = "mods/imfast-FABRIC-1.21.8-1.0.3.jar"
+hash = "b80d80e1ec130fb1ba294e186c556bcf21b0146807e5eb9d4a61146775623c14"
 
 [[files]]
 file = "mods/infinity-cave.pw.toml"
@@ -610,16 +610,6 @@ hash = "1374f2cf3f3ad560282f71376a0454e1ff29cf3d170b5012c8034e8db64571d8"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "27cb7f620013f352abc153571992b5ae6e75f4a6b94844d36f8361d27d360f5c"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "6a0e155d047f7a40d1c84dde5f26bd9aab6544fa46fc94ef6d59d41f653f83b9"
-metafile = true
-
-[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "3672013de0fce5075b134c93ec6ad19aaf75119df2db4e420d5ae969fec12c81"
 metafile = true
@@ -655,9 +645,8 @@ hash = "7f9dfe52d4b357cd05864801beb01641d23ced786b7ed56919e41b15b17be1a8"
 metafile = true
 
 [[files]]
-file = "mods/tracks.pw.toml"
-hash = "4dbf018f0899f04ab8e873c1aa79d522ea2f03d84d4de693c963496a731fbcc0"
-metafile = true
+file = "mods/tracks-1.0.0.jar"
+hash = "8d7db413451369cb592c1a64afa3882bf9e7e9950045bb260559d76d65f44169"
 
 [[files]]
 file = "mods/transmog.pw.toml"
@@ -680,14 +669,17 @@ hash = "7fb6db0e690d82c846ea038904e8b15f7a8f9f3799ca941c10a267c2b3a7c9ed"
 metafile = true
 
 [[files]]
+file = "mods/u_sea-1.2.3+mc1.19-1.21.8.jar"
+hash = "1d87cccc711c8190973bfc08ec6ab6b5ee24e2c7795acf85ca34e389d474ecf9"
+
+[[files]]
 file = "mods/underground-villages.pw.toml"
 hash = "aee435c9e9d646e512db1084c6b35dfa91a56486629c80780d07fad58db5b5e1"
 metafile = true
 
 [[files]]
-file = "mods/undertale-death-screen.pw.toml"
-hash = "78978ba141daab2e527bf9433220bca66debe60b8fc96fa1b3e3907fa214c3e7"
-metafile = true
+file = "mods/undertale_death_screen-fabric-1.2.2+1.21.6.jar"
+hash = "3c81fc0e9ee44a441562d6cede9d59c30abf4d4370fbac8e218a123a4a9ce33f"
 
 [[files]]
 file = "mods/unilib.pw.toml"
@@ -697,11 +689,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "ca7e994151a843f90b3b8a21224780a0d5e5b48193c299eaba9d80b0b2ef7932"
-metafile = true
-
-[[files]]
-file = "mods/unnamed-sea.pw.toml"
-hash = "ac010d3f4f82df324f7b7039f9d387dcd7ff9a0c1e42588aaa4d847ea437b2c8"
 metafile = true
 
 [[files]]
