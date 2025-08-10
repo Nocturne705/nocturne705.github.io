@@ -555,11 +555,6 @@ hash = "0364bf6241d5cbba7f5c04d61f497fb320722f0487388edb4e1750fb49ff6070"
 metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "3982ddfb922ee3daf5428f61e055c638fae8869d4d391fb593e919b1eb161fce"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "c82c09c2ef3b4561f9b631ca4872529093c35be2f77ea9d278f090f9a5a42cc0"
 metafile = true
