@@ -1,0 +1,13 @@
+name = "ChatAnimation"
+filename = "chatanimation-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26fc1521983d1a85296a6e778ec6a6c094b0d763"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6700916
+project-id = 892086

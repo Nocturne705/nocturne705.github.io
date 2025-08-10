@@ -1,0 +1,13 @@
+name = "Comfortable Campfires"
+filename = "comfortable_campfires-fabric-1.2.0+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79123ce4b8cdf1a3ed76b7ccf2972cd559d6733d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6598931
+project-id = 1172718

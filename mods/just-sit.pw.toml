@@ -1,0 +1,13 @@
+name = "Just Sit!"
+filename = "justsit-1.0.0-fabric-1.21.6-0.127.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7de3816b7b6aefa2c993a21e5ae413485992b75c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6683906
+project-id = 1292066

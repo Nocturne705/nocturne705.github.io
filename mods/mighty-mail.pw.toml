@@ -1,0 +1,13 @@
+name = "Mighty Mail"
+filename = "mighty_mail-fabric-1.21.8-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90094fe8ad6ea5547825cf909278208a68ed14b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6820256
+project-id = 902986

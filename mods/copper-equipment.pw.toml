@@ -1,0 +1,13 @@
+name = "Copper Equipment"
+filename = "exlinecopperequipment-v3.2.8-fabric-1.21.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15745083f764674b65cb3c090502c3c2afb145c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6818588
+project-id = 514371

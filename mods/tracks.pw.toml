@@ -1,0 +1,13 @@
+name = "Tracks"
+filename = "tracks-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3d3da07fc88d925d64014600e507d51b488cf9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6785655
+project-id = 1294258

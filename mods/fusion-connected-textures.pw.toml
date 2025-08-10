@@ -1,0 +1,13 @@
+name = "Fusion (Connected Textures)"
+filename = "fusion-1.2.10-fabric-mc1.21.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a74a20d42ad6953d0684fdb66bf55f18a074f31e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6826878
+project-id = 854949

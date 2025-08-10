@@ -1,0 +1,13 @@
+name = "Pepsi's Pocket Dimension"
+filename = "pocket-dimension-pepsi-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "037818a676cb1cc475689882429021478677fd67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6396749
+project-id = 1185792

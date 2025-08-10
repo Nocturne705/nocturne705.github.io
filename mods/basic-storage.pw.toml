@@ -1,0 +1,13 @@
+name = "Basic Storage"
+filename = "basicstorage-1.1.2+1.21.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4cc2db8ea35385d89eafa4e5878877ba901aa48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6813317
+project-id = 1054506

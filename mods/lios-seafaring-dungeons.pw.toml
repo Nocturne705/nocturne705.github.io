@@ -1,0 +1,13 @@
+name = "Lios Seafaring Dungeons"
+filename = "lios_seafaring_dungeons-1.18.2-1.21.6-v0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37dce3758bfe635174bbaa288478b843cb3ede3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6678641
+project-id = 1108728

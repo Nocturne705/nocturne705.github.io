@@ -1,0 +1,13 @@
+name = "Infinity Cave"
+filename = "infinity-cave-0.83-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20c2480e1c164b40aeb391dd2cb9992a715bf614"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6867126
+project-id = 951204

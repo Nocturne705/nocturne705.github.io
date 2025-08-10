@@ -1,0 +1,13 @@
+name = "I'm Fast"
+filename = "imfast-FABRIC-1.21.8-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "672f377e3316087d9029dd730c3082072b1f6f97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6830649
+project-id = 1111501
