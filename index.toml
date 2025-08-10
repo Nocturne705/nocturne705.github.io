@@ -201,6 +201,11 @@ hash = "19d28d77bb4760e3fc843e69cf6caa7bb2d862ac6507974f4dcc9538c9c846d2"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "ae894d01b48b0e28d156d0d30f81c6b27cd39fc851ca6314e703393f214ae7e7"
+metafile = true
+
+[[files]]
 file = "mods/current-game-music-track.pw.toml"
 hash = "334ee0bcb0d4876f4e699a10326a9d74d3540eb4f005ff7f0b87fb3709051b69"
 metafile = true
