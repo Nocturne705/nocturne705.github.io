@@ -1,13 +1,13 @@
 name = "Current Game Music Track"
-filename = "currentgamemusictrack-1.21.8-2.4.jar"
+filename = "currentgamemusictrack-1.21.1-2.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b53dcd393875672dda3320c8ee3cdddceb8a2843"
+hash = "cc6b200e2d1d0ce56c5c363796a46727620b668f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6781290
+file-id = 6225092
 project-id = 933960

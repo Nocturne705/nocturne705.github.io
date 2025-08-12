@@ -1,13 +1,13 @@
 name = "AddonsLib"
-filename = "addonslib-fabric-1.21.6-1.0.jar"
+filename = "addonslib-fabric-1.21.1-1.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a3c54b0d7ebea48da42a886d2458edaafd4e2795"
+hash = "fb0920cda9694b598ff891098ccf054eb11f0384"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6670147
+file-id = 6557672
 project-id = 1090999

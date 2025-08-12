@@ -1,13 +1,13 @@
 name = "Bonded"
-filename = "bonded-fabric-1.21.7-1.4.1+1.21.7.jar"
+filename = "bonded-fabric-1.21.1-1.2.2+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d78145401935f828f42122dfcc204e138ec4b910"
+hash = "700b308d196fb6c65e3049c3e7b004505e4b4644"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6753277
+file-id = 6152331
 project-id = 1144849

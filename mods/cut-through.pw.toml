@@ -1,13 +1,13 @@
 name = "Cut Through"
-filename = "CutThrough-v21.8.0-1.21.8-Fabric.jar"
+filename = "CutThrough-v21.1.0-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "033b6c4b1416ada3d1479fa59ea99c17c1b3c7bd"
+hash = "4e6baee203e61e03fa1932c810891d782757385d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6783253
+file-id = 5731911
 project-id = 969423

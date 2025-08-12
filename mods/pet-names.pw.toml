@@ -1,13 +1,13 @@
 name = "Pet Names"
-filename = "petnames-1.21.8-3.5.jar"
+filename = "petnames-1.21.1-3.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "78f7167a5a022e0f285dc0f27d78189ab2273d36"
+hash = "1c083f35a8b8a0852e3f68331d02292a7cc7bf19"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6781015
+file-id = 6185423
 project-id = 344884

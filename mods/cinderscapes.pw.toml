@@ -1,13 +1,13 @@
 name = "Cinderscapes"
-filename = "cinderscapes-5.4.0.jar"
+filename = "cinderscapes-5.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4c8d48a2465cb3ee31d5b970e45e1d6cf45fcb2c"
+hash = "011d96c6d409731efa24a5d848f7a7e3c9003c0f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6706912
+file-id = 6709401
 project-id = 391429

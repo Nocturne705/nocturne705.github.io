@@ -1,13 +1,13 @@
 name = "Waystones"
-filename = "waystones-fabric-1.21.8-21.8.3.jar"
+filename = "waystones-fabric-1.21.1-21.1.22.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "082d66cacad58aa711f10bb10aba6d76554389fe"
+hash = "1e94a2701682b1220d1f0cd2cc139a12c70db759"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6856583
+file-id = 6856570
 project-id = 245755

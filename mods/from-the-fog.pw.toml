@@ -1,13 +1,13 @@
 name = "From The Fog"
-filename = "From-The-Fog-Forge-Fabric-1.21.6-1.21.8-v1.10.3.jar"
+filename = "From-The-Fog-1.21-1.21.1-v1.9.4-Forge-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d72759dfb96a502cc6043e326f2d893caaefd341"
+hash = "745978fd5bb144ca5a7a932a4f51dbe04fa59b51"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6869982
+file-id = 6790167
 project-id = 852533

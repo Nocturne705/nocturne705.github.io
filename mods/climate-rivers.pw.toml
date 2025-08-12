@@ -1,13 +1,13 @@
 name = "Climate Rivers"
-filename = "ClimateRivers-v21.8.0-1.21.8-Fabric.jar"
+filename = "ClimateRivers-v21.1.1-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "966dd824c4be104fe01e37af4e68a96b51418c72"
+hash = "ba6b5ac98692a1a5402f33268779b43c7d627e86"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6783048
+file-id = 6508516
 project-id = 1255421

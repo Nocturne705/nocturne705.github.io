@@ -1,13 +1,13 @@
 name = "Amber Lib"
-filename = "amber-fabric-6.0.12+1.21.8.jar"
+filename = "amber-fabric-1.21.1-3.0.0+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e841e959709acdc1ef772f1ea6416ca7399296f7"
+hash = "1773cfd74aa4b37d24c6627444400ca0591a24cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6788163
+file-id = 6243695
 project-id = 1139910

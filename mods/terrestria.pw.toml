@@ -1,13 +1,13 @@
 name = "Terrestria"
-filename = "terrestria-7.4.1.jar"
+filename = "terrestria-7.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "55d51636af3866da43224d216171e9ed72995657"
+hash = "cbd90472c93e5e3cf1a0d25ed56dda6a4773a9e1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6829682
+file-id = 6534671
 project-id = 323974

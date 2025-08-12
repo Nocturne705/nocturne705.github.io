@@ -1,13 +1,13 @@
 name = "Controllable"
-filename = "controllable-fabric-1.21.8-0.25.3.jar"
+filename = "controllable-fabric-1.21.1-0.25.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ee7ce8f70b268ef7d2c1810410f4294858434e01"
+hash = "f08c8e1b8421b1f3206a01259bcffb47cb983fbd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6850088
+file-id = 6850103
 project-id = 317269

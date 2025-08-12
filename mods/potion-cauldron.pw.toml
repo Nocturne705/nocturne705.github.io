@@ -1,13 +1,13 @@
 name = "Potion Cauldron"
-filename = "potion-cauldron-fabric-1.0.1+mc1.21.8.jar"
+filename = "potioncauldron-fabric-1.0.1+mc1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ba27147ad3ee8ff47e4ab9122379582d5e068897"
+hash = "59d14b9002ce5603c2b0a93fd6517cc6033345e9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6794700
+file-id = 5435625
 project-id = 911826

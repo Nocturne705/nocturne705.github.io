@@ -1,13 +1,13 @@
 name = "Traverse"
-filename = "traverse-8.4.0.jar"
+filename = "traverse-8.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aec88d80194db4b238ebd8f18d8d4b940937ba59"
+hash = "073874182070f079667fd271fd9c57e8e9ec8456"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6706412
+file-id = 6536963
 project-id = 308777

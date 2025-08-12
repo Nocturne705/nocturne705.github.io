@@ -1,13 +1,13 @@
 name = "Better McDonald's Mod"
-filename = "better_mcdonalds_mod-fabric-4.4.4+1.21.8.jar"
+filename = "better_mcdonalds_mod-fabric-4.4.4+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9b8f9a4ee1b1e80eee0ecbae7121dc91975bb953"
+hash = "1741dd4a1fc797f272fd2c405854a9d715cd2fd1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6816984
+file-id = 6667216
 project-id = 546816

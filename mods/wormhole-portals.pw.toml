@@ -1,13 +1,13 @@
 name = "Wormhole (Portals)"
-filename = "wormhole-1.1.16-fabric-mc1.21.6.jar"
+filename = "wormhole-1.1.16-fabric-mc1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0521e7be36ff6f57e23110fe07f2562d936a4587"
+hash = "0dcd0bf278cc460e342b44bb3cadb394cdb33017"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6760375
+file-id = 5634946
 project-id = 396803

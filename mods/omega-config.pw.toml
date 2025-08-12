@@ -1,13 +1,13 @@
 name = "Omega Config"
-filename = "omegaconfig-fabric-1.5.3.jar"
+filename = "omegaconfig-fabric-1.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "49f9e964ccfaf9316be7dadda7a0b20f4a6566c7"
+hash = "81bf9af377be2c5927c2b328f15ae2bb51ab1918"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6723732
+file-id = 6857922
 project-id = 558000
