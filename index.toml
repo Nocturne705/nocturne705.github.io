@@ -515,11 +515,6 @@ hash = "2f3144812813371860a7cf03df2ca7767915cbbddf616d59ffb63544a750caf0"
 metafile = true
 
 [[files]]
-file = "mods/pepsied-pocket-dimension.pw.toml"
-hash = "600ade2812e80f50e1985e884d7fdc4ac4bf0d5e046599c1baedae5fdf82c8ca"
-metafile = true
-
-[[files]]
 file = "mods/pet-names.pw.toml"
 hash = "bdf73c950799282bd5934a6510245ce0beef3ea118d4dda4310f14d85c56e06c"
 metafile = true
@@ -597,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "f73a48751e13380b87296e5b9627c9f6669efda386bd646fd5c499b344570f46"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
 metafile = true
 
 [[files]]
