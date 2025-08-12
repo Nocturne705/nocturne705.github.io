@@ -27,16 +27,6 @@ hash = "df0fb5ebed67109c3fd9edfd87a0fd20c7f2339386f1121b1f4f3f525b393a00"
 metafile = true
 
 [[files]]
-file = "mods/ambient-environment.pw.toml"
-hash = "bdf0dda60aab59a5b721fe6699aee8db22adc1bf015c1290ce0f526c4ec4ff84"
-metafile = true
-
-[[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "d85c1d150a2860c5f158b73ad9b7f1892ac5edf93eab898b3eb7ada539e1d8c9"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "9ce55dc09b4b2a28b39ae47d146cfe5399dfc74666d9ae53811bdef4058b3491"
 metafile = true
@@ -527,11 +517,6 @@ metafile = true
 [[files]]
 file = "mods/potion-cauldron.pw.toml"
 hash = "70ad83306c773aceea658e05b0f95212fc20bb5bdd2682a5c5f9cf0cce9a8528"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "326a6de0170cc13b983119690ec173cb2bc6aed1e4a4ac5070bf98893d1587da"
 metafile = true
 
 [[files]]
