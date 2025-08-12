@@ -1,0 +1,13 @@
+name = "Cobblemon Trainer Battle"
+filename = "cobblemon-trainer-battle-1.10.7+1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pwjgeBtv/versions/rexN9H5J/cobblemon-trainer-battle-1.10.7%2B1.6.1.jar"
+hash-format = "sha512"
+hash = "25975fba8adf1afa3a2aafd61672a6682927f0b2c56119d5968e720babb1a98ebc88352ae5a0d0714dbd81cfb29dcf371fe9da233d3d12dbca9c25b7df426323"
+
+[update]
+[update.modrinth]
+mod-id = "pwjgeBtv"
+version = "rexN9H5J"

@@ -1,0 +1,13 @@
+name = "Rad Gyms [Cobblemon]"
+filename = "Rad Gyms [Cobblemon]-0.2-alpha2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eF8kqlHd/versions/gIn0Kprl/Rad%20Gyms%20%5BCobblemon%5D-0.2-alpha2.jar"
+hash-format = "sha512"
+hash = "8c2119759f2a064552c2a5112820c5a173c1ff3c4e8903a64c39485de0f6cc1ec044b3735ce886e779e9d23b8491878a72ee49ddb30970a9bc765cb10be9bdd1"
+
+[update]
+[update.modrinth]
+mod-id = "eF8kqlHd"
+version = "gIn0Kprl"

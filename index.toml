@@ -33,7 +33,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
@@ -136,8 +136,63 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-alpha-project.pw.toml"
+hash = "70adfc6f91c0b55a538e5ee4889e9effa3513477f996c02e999f83d8daada69a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-droploottables.pw.toml"
+hash = "912b91f185c075088a73d0cfa9c8fd07527bbba40822ea615090ffd427078fb5"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-field-moves.pw.toml"
+hash = "53f98115e651f398202c48794e8f0926502409386dc4007a3d648013fa11c7e6"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
+hash = "d614ace90193b055fefdbdfa1ac1e566a91cf398b0c0758bec12465d3abb0dd3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "ec89d35145015f95ca5c9c6bc8be5221586dfdc7bab9e085eccc16757e4311c7"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-legendary-structures.pw.toml"
+hash = "f94003c8ed9f325625d6d98e0ac7eb643ecf0a2826fea919cf8f5db936f57c87"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "fac9bd5c4b72680f581f5eaa8797fff36044b4dde428ddf9fc5b663bee0fdbe9"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "cd82878839645de16db4bd76c9ab7e0913948db56cdfd02ffe760c96b0fb8e13"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ride-on.pw.toml"
+hash = "83b653139fd115cebf5017264a5b11b18f1f9d2d3685c08bea7aa6bbc6554f7c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-trainer-battle.pw.toml"
+hash = "9e409c6205a7172c34e429289ddd5fc37e58332b994b8a26eaf6fd45726c0581"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ui-tweaks.pw.toml"
+hash = "4d08fa48ec55d9238c9144f82d812aae1b8bd1e66dc16a0374ec8df94d4b5eb3"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "3593a55533ec4e8783a733d33ca31831310cb779b829e4705056cf0241e6a16b"
+hash = "18f45db393d99493c00150c2d4a74d927fc1eccb575629ef1a1fa72ef950b7ff"
 metafile = true
 
 [[files]]
@@ -257,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e79d224bd664cd189049b6a91b677e2ea6cbc6e27da026c44d73b66cca4d8dc0"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -565,6 +620,11 @@ hash = "b9c58569e84eed6e0f1ab90fc392d4add46c34bbdd28e678648be9612c61aaa7"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "485be4ec23a287378b2c0826237dcab1b37b68f41b9020c614e277748417b830"
 metafile = true
@@ -607,6 +667,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "417736a881b0b5f7ff50f0c7874532ca386314752d44e0ef1377bbb1dfe9d33d"
+metafile = true
+
+[[files]]
+file = "mods/rad-gyms.pw.toml"
+hash = "5a7acbf5bd83941f028e3c4aad61b8718429ae956f66642afe514e0cf4c0253e"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "ad7f71cd700e8882d2baa1ee7b5dd31423cd3f1f5fa10161db84bf5f0343654c"
 metafile = true
 
 [[files]]
@@ -766,6 +836,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "2ab3626b8c1fbae6710565e31cf7e92b4550682f1e697d427f195c8cfae0d3a2"
+metafile = true
+
+[[files]]
+file = "mods/tsfitemcore.pw.toml"
+hash = "cb283595919693c34cfcb4511afe8474dbd78524e41f9ebe8f87e4a984dfca23"
 metafile = true
 
 [[files]]
