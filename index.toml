@@ -385,11 +385,6 @@ hash = "7ec7b744c186929a37d105d01bea97021e34b4f1b1a99223c7c42fadbeeb8bd3"
 metafile = true
 
 [[files]]
-file = "mods/lootrestock.pw.toml"
-hash = "a6afefd126ab46899eb238f4951920797200cd1b3eef924fa046e35b1efa8029"
-metafile = true
-
-[[files]]
 file = "mods/macaws-biomes-o-plenty.pw.toml"
 hash = "2978c01be72ed3d9ac20d189028ac555b5ace93132e5881a55154f609f0bd719"
 metafile = true
