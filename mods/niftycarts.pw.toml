@@ -1,0 +1,13 @@
+name = "NiftyCarts"
+filename = "niftycarts-21.1.0-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CXd6g9xp/versions/v1HFEOEH/niftycarts-21.1.0-hotfix.jar"
+hash-format = "sha512"
+hash = "4d43d5da12ec14a91d8ba6620efc7ab2e3857d0fe58d4e7fadf638112969119f0117de0ed214ca91826dc4682fa6e306815cba749bbd18150fe9271e058069ce"
+
+[update]
+[update.modrinth]
+mod-id = "CXd6g9xp"
+version = "v1HFEOEH"
