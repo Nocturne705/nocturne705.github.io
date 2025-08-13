@@ -37,6 +37,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "dda69449c5e805e478e33c2d89dd961cdfdca53474f1c0f8250b27ab881d0e72"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "424b579f2216c3ae3b2f64020635230e5493cdd8950635c9ba905c0487f6ecee"
 metafile = true
@@ -79,6 +84,11 @@ metafile = true
 [[files]]
 file = "mods/bonded.pw.toml"
 hash = "6c86a30e667d18e195510367631becef1866e9814a6494e0079cfe076a80cbdb"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
 
 [[files]]
@@ -430,6 +440,11 @@ hash = "0a5b03c7ebac217b8f5dc6314039a7338fd786b63146621996632acd9d8dbc8e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "f38b8a892434994eeaaaa3db5f7479fc7cd2a4db3bb59315313b34fe3659b66f"
+metafile = true
+
+[[files]]
 file = "mods/infinity-cave.pw.toml"
 hash = "0aab9b329a5b70ac4918e6829eb62458d3b3e1f706aca4a5f4429fe97e91d364"
 metafile = true
@@ -722,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "ef9c8304e1a943eb2c4fedfd678a4b04c80d16884a4c0c24592db88ad6a10d98"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "487495097475b59d277ee8268149f0dca03b725479521c3dd830a37163598c2e"
 metafile = true
 
 [[files]]
