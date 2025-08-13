@@ -256,6 +256,11 @@ hash = "8b2683088edb19b4d981ac00a79d2f52b87835f6078e6519f09c167e874811ef"
 metafile = true
 
 [[files]]
+file = "mods/creeper-healing.pw.toml"
+hash = "325eca711fa04bd8b1a9b9dc779c1d6bbb313ce8a354a77402f19c72660d80fc"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "99420e18ab252c7e3a68c5417a266ed0b3c2f014ebbfe3726dd615430a45bcb6"
 metafile = true
@@ -552,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "fa01d0d1b480410d3b46647b676849a7c266a9a9c0fdf444cbf80eb56a559d92"
+metafile = true
+
+[[files]]
+file = "mods/monkey-utils.pw.toml"
+hash = "044248a2ec9a9d342300ea8841d56891602d0bd22824d23923248078a22d34cc"
 metafile = true
 
 [[files]]
