@@ -907,6 +907,11 @@ hash = "bf99d6512169d21f5c6d95866df154878dbdc12e4f0d8117f4da46a25f8ba666"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "ed0e142a87ebbae7caa0c8311002a2d4e33766bcccf7ee6637ec5308a42eeb5c"
 metafile = true
