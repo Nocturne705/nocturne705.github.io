@@ -42,6 +42,11 @@ hash = "dda69449c5e805e478e33c2d89dd961cdfdca53474f1c0f8250b27ab881d0e72"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "d37f4cf0a2cbf0dcd6f1bfc5e8e580c8e97cb44f5f31f467290ed781a5a16fd6"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "424b579f2216c3ae3b2f64020635230e5493cdd8950635c9ba905c0487f6ecee"
 metafile = true
@@ -82,8 +87,18 @@ hash = "6d59f22d15a73d7fa9f7c8b3d54c68a71945cb0940a51ed17dc7e2a99e439327"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
+metafile = true
+
+[[files]]
 file = "mods/bonded.pw.toml"
 hash = "6c86a30e667d18e195510367631becef1866e9814a6494e0079cfe076a80cbdb"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "1cb11082faa1727e8b1251a4c1fd0041ef99a9245d7adc63c9c942f59b6ef578"
 metafile = true
 
 [[files]]
@@ -119,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "bc157e8cdcf1da3fb0396f23bb065fbeff734321cfcbbf0f77da96d1b3682a61"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "660096bcadefd334877889261bfecea95756a804365368174d247d9a77fb4ce2"
 metafile = true
 
 [[files]]
@@ -311,8 +331,23 @@ hash = "3f259730ce95008c662b26684429ef9bfc56a4209ed0ed57eefac673a1453f80"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view-fabric.pw.toml"
+hash = "2bda7b44f446afe8fa0d2b0dd78437a790f631953fc9350a163be645245ff330"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
 file = "mods/entangled.pw.toml"
 hash = "10ddbcd7cf254db1c15026291292b84a6f70e842a8e9edb360b2c7f28c859ddf"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "6a9b4b98f97d594466cb63f91d9f7a960bb008fbeeda4680cc1b312fb2751073"
 metafile = true
 
 [[files]]
@@ -397,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "159cf34f5ead0dc2fb6510de6865471945ae44818a951e52b66c791aecf73294"
+hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
 metafile = true
 
 [[files]]
@@ -433,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/imfast-FABRIC-1.0.2.jar"
 hash = "39f631be901f796f18b294a28b461bcc60d6126bbdb2f6fb0acf2619f7849339"
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
+metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
@@ -625,6 +665,11 @@ hash = "569e6d716ef6101e1e9957d02314101a70c9a5344828a546487b3c3a0192cc9d"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "fa28010fe3ba32b1f3e9aed4c432c359ebc54cfbf03196961c66461597f4188c"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "8e068686b8b03d4359420c174256be4dfa52b4d75e45c4f071730ee33d5281e6"
 metafile = true
@@ -650,8 +695,13 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
-hash = "485be4ec23a287378b2c0826237dcab1b37b68f41b9020c614e277748417b830"
+hash = "c0969cf2bc2301c45c2bfcfc31a7132aad2bfbc893b340e804116dd6a3843f0b"
 metafile = true
 
 [[files]]
@@ -682,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "fb64786c11ef1f6d2a6ca19aa9b20ebd5515f00abc48b64b9050b2fcdb1b1cdb"
 metafile = true
 
 [[files]]
@@ -761,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f73a48751e13380b87296e5b9627c9f6669efda386bd646fd5c499b344570f46"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
