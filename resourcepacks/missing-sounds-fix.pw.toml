@@ -1,0 +1,13 @@
+name = "MissingSoundsFix"
+filename = "MissingSoundsFix 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rvu9IrBM/versions/sOKFlkWS/MissingSoundsFix%201.1.zip"
+hash-format = "sha512"
+hash = "f8d7b6e375a627119239220daed2902da62781012764e8a7f55fbcbdc455e8f480bf57a930e9c214737cb4278dbf869a81274572373670cb1c74032402e34028"
+
+[update]
+[update.modrinth]
+mod-id = "Rvu9IrBM"
+version = "sOKFlkWS"

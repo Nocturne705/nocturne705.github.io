@@ -1035,3 +1035,8 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "086074440abc2a41256c10d8cad2b3d5d2b6b576f26ab9a3f1e524a119659982"
+
+[[files]]
+file = "resourcepacks/missing-sounds-fix.pw.toml"
+hash = "2417a77be14e6753c2e071203bda94ab58c3f332e8fbe4135bdad95e01c9082d"
+metafile = true
