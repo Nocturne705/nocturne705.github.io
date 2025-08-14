@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
+hash = "971b8098acf68585d291385ca72fc4546e287acae58b9138cfbb617534c9675d"
 metafile = true
 
 [[files]]
@@ -318,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view-fabric.pw.toml"
 hash = "5de0de6c7610323ed18f7f11bc27f6145bcc4457fc01acaf270b9ce5a0b081bf"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]

@@ -11,3 +11,6 @@ hash = "414436bf14ee9ad76ff2f849ffb5a2acda122a7588231d14dfbd27253924d08c22368c73
 [update.modrinth]
 mod-id = "M08ruV16"
 version = "oeSOphtG"
+
+[option]
+optional = true
