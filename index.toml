@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view-fabric.pw.toml"
-hash = "2bda7b44f446afe8fa0d2b0dd78437a790f631953fc9350a163be645245ff330"
+hash = "5de0de6c7610323ed18f7f11bc27f6145bcc4457fc01acaf270b9ce5a0b081bf"
 metafile = true
 
 [[files]]
@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "487495097475b59d277ee8268149f0dca03b725479521c3dd830a37163598c2e"
+hash = "509a129f843e72b23f7269fb940bbd757a78716d6f2350f33ebe751c40bb77f8"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
+hash = "84b5dbff18fa0b281a5459797fa70342c93ede9dbfcb1fc0f726b2a0e7c5c7c9"
 metafile = true
 
 [[files]]

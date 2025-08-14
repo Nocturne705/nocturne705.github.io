@@ -1,6 +1,6 @@
 name = "Dynamic View[Fabric]"
 filename = "dynview-fabric-1.21-4.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
