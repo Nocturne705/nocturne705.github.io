@@ -890,10 +890,6 @@ hash = "509dea9cb5ebc14ea6d8d430914ae17a1eab5f511cf6dc480a17d30ccddb37dd"
 metafile = true
 
 [[files]]
-file = "mods/tracks-1.0.0.jar"
-hash = "5abae5dcafaed3649ef4590a18be8ed73ef4dd0eaa2b5afef891db2b1392f580"
-
-[[files]]
 file = "mods/transmog.pw.toml"
 hash = "c90a7b7479650fb5b00a2d20c5139b5335cdd5a8eaa8865078ce18e10bc5ab02"
 metafile = true
