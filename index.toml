@@ -82,11 +82,6 @@ hash = "6d59f22d15a73d7fa9f7c8b3d54c68a71945cb0940a51ed17dc7e2a99e439327"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "736d73c87e3008798597c22414272fc95b649822eb68adf952c726d162260575"
-metafile = true
-
-[[files]]
 file = "mods/bonded.pw.toml"
 hash = "6c86a30e667d18e195510367631becef1866e9814a6494e0079cfe076a80cbdb"
 metafile = true
@@ -969,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4e1b1b155ea8d5338b8ebb13240ee6f5efdf6091a0d5bc8f5080660a806a7e99"
+hash = "84b5dbff18fa0b281a5459797fa70342c93ede9dbfcb1fc0f726b2a0e7c5c7c9"
 metafile = true
 
 [[files]]
