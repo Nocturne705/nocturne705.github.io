@@ -1,0 +1,13 @@
+name = "Villager Guards"
+filename = "villager-guards-v1.1.1-1.21-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SJq1tpNO/versions/hKvIQ9eE/villager-guards-v1.1.1-1.21-1.jar"
+hash-format = "sha512"
+hash = "0fd7ca75d3fdd1b2b1bd95a11b37bac9407ae71b3bda1732e00a0e37a3085c73713269029654ef43c1928850458cb0b9d44a1da6166dceaa64445a118730474f"
+
+[update]
+[update.modrinth]
+mod-id = "SJq1tpNO"
+version = "hKvIQ9eE"

@@ -963,6 +963,11 @@ hash = "51e571c72327184c573943f19502d5050bdbeafb7072776df8d10bf3607a88e1"
 metafile = true
 
 [[files]]
+file = "mods/villager-guards.pw.toml"
+hash = "98b1a66b361373bc3bfc626b9986199086cb16ee54d36e533f5a722666c9b502"
+metafile = true
+
+[[files]]
 file = "mods/villager-names.pw.toml"
 hash = "eb6493a160f157ae4d0f57edccf82036c8a3b514c56dacfe41f9c3fe72583396"
 metafile = true
