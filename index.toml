@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+hash = "29b661a51c8987378bdc29e349321babab3ab21f73934ad81917e3aa685274c4"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
+hash = "106f4cdeb633507ea4bf6094f860f937c3f616dfd749cd06dbd1c00a32892d8b"
 metafile = true
 
 [[files]]
@@ -974,7 +974,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "ddc991d370938f2b198bd31746535c49eacbd78dc70e908c093173e836db7ddf"
+hash = "28de1b0c68740a9973221d5fa90ff8fcae653bd6d9ad82074a0e88b2a966bc70"
 metafile = true
 
 [[files]]
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "84b5dbff18fa0b281a5459797fa70342c93ede9dbfcb1fc0f726b2a0e7c5c7c9"
+hash = "4e1b1b155ea8d5338b8ebb13240ee6f5efdf6091a0d5bc8f5080660a806a7e99"
 metafile = true
 
 [[files]]

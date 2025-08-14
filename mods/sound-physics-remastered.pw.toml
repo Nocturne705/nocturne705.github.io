@@ -11,3 +11,6 @@ hash = "16a0a515c61ba9737cb62fd7796094980baae51ca3ba2c2cf300631239e5cd87b72f263e
 [update.modrinth]
 mod-id = "qyVF9oeo"
 version = "MugPtn8A"
+
+[option]
+optional = true
