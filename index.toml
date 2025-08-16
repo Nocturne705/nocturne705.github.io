@@ -22,6 +22,11 @@ hash = "3d868e9103d74c33d1a02806dc8d361427968cb514d099017da92a6d0661e993"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "208a52276bf3af6ffd30b032b5954269bc30513053c279e7255cc167c38e5d5c"
+metafile = true
+
+[[files]]
 file = "mods/amber-lib.pw.toml"
 hash = "df0fb5ebed67109c3fd9edfd87a0fd20c7f2339386f1121b1f4f3f525b393a00"
 metafile = true
@@ -114,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "8b82f448d74518daecf51b45d8736398881c1dfff3990690d91585fcf9122606"
+metafile = true
+
+[[files]]
+file = "mods/chunk-activity-tracker.pw.toml"
+hash = "6e64a5b57e83a0069f1700162767f9ba6c86adcce4db9f363f219e8e925858b3"
 metafile = true
 
 [[files]]
@@ -306,6 +316,11 @@ hash = "a103c6df782159428f27efe550c30ad896c46c6e1e522f3e021a1d0eefe64a57"
 metafile = true
 
 [[files]]
+file = "mods/does-it-tick.pw.toml"
+hash = "38a9f5d91c8ff0eed8ee54c436308bfeb29012eb6701750b34f002d9b1750651"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "024113276649fed257cd98d2e3ac71c0dd08d84cef05a043b9b9ac23a8792423"
 metafile = true
@@ -450,11 +465,6 @@ hash = "0a5b03c7ebac217b8f5dc6314039a7338fd786b63146621996632acd9d8dbc8e"
 metafile = true
 
 [[files]]
-file = "mods/immersive-optimization.pw.toml"
-hash = "f38b8a892434994eeaaaa3db5f7479fc7cd2a4db3bb59315313b34fe3659b66f"
-metafile = true
-
-[[files]]
 file = "mods/infinity-cave.pw.toml"
 hash = "0aab9b329a5b70ac4918e6829eb62458d3b3e1f706aca4a5f4429fe97e91d364"
 metafile = true
@@ -492,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
 metafile = true
 
 [[files]]
@@ -907,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "8f1383e1a3bf8c85331222270658608102656ab6d0d5f4274a34a6b0fc95b6db"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
 metafile = true
 
 [[files]]
