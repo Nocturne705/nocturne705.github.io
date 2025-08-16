@@ -905,6 +905,11 @@ hash = "cb283595919693c34cfcb4511afe8474dbd78524e41f9ebe8f87e4a984dfca23"
 metafile = true
 
 [[files]]
+file = "mods/tt20.pw.toml"
+hash = "8f1383e1a3bf8c85331222270658608102656ab6d0d5f4274a34a6b0fc95b6db"
+metafile = true
+
+[[files]]
 file = "mods/u_sea-1.2.3+mc1.19-1.21.8.jar"
 hash = "1d87cccc711c8190973bfc08ec6ab6b5ee24e2c7795acf85ca34e389d474ecf9"
 
