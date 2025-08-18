@@ -17,6 +17,16 @@ file = "mods/Structory_Towers_1.21.x_v1.0.13.jar"
 hash = "3c5bfb3c0d27b6079e73d6b686c1ad16b0f52b13bd9084a8f3bab4d524495a13"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "472e765cac34bd03712df947d4f1de22701f016a4326ab40a5aff0fe864579e5"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "bc93795384d5f304da0d318e8e71becf5c15aa26b853cbefed937d43a0bcc9f6"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "3d868e9103d74c33d1a02806dc8d361427968cb514d099017da92a6d0661e993"
 metafile = true
@@ -109,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "9eb23ccab33e9dc94df741081cbbf442261d37e6389d920353917f09efd4eafd"
+metafile = true
+
+[[files]]
+file = "mods/charm-forked.pw.toml"
+hash = "a1c4736d7ab8e14ad7f537197187fe9f6a67388de80bb634a21c296cda070326"
 metafile = true
 
 [[files]]
@@ -787,6 +802,11 @@ metafile = true
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "2bb71488028bba8c146f082b23adf3a902210ae2e7c6a01267f3aa3dddb5f6c0"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "18e76b47a7aee2d315075514a48802de4b2dc144fdecd06f98abe50442116104"
 metafile = true
 
 [[files]]
